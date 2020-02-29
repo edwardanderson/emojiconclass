@@ -252,7 +252,7 @@ http://iconclass.org/47D,⚙️,machines; parts of machines; tools and appliance
 http://iconclass.org/47E,,organization of craft and industry
 http://iconclass.org/47F,,before and after production
 http://iconclass.org/47G,🏗️,building activities
-http://iconclass.org/47H,🧵🏭,textile industry and clothing industry
+http://iconclass.org/47H,🧵👗🏭,textile industry and clothing industry
 http://iconclass.org/47I,🚜,"agriculture, cattle-breeding, horticulture, flowerculture, etc."
 http://iconclass.org/47K,🎣🏭,commercial fishery
 http://iconclass.org/47L,🚢🏭,shipbuilding industry
@@ -268,7 +268,7 @@ http://iconclass.org/49E,🔬,science and technology
 http://iconclass.org/49F,🧬,biology
 http://iconclass.org/49G,,"medicine, medical science"
 http://iconclass.org/49H,,social sciences
-http://iconclass.org/49I,🗺️,geography
+http://iconclass.org/49I,🗺️🤔,geography
 http://iconclass.org/49K,,historical disciplines; philology
 http://iconclass.org/49L,✍️,writing and letters
 http://iconclass.org/49M,,"production of printed matter, book-production"
@@ -286,7 +286,7 @@ http://iconclass.org/51K,,Aspects of Change
 http://iconclass.org/51L,,Types of Motion
 http://iconclass.org/51M,,Quality of Motion
 http://iconclass.org/52A,,Intelligence and Intellectual Faculties
-http://iconclass.org/52B,💭🗣️,Reasoning
+http://iconclass.org/52B,💭⚙️,Reasoning
 http://iconclass.org/52C,💭✔️🤷,Understanding and Misunderstanding
 http://iconclass.org/52D,,Communication of Thought (qualitative aspects)
 http://iconclass.org/52E,,Communication of Thought (answer and question)
@@ -693,7 +693,7 @@ http://iconclass.org/21C0,,"'Fuoco', 'Carro del fuoco' (Ripa)"
 http://iconclass.org/21D0,,"'Acqua', 'Carro dell'acqua' (Ripa)"
 http://iconclass.org/21D1,,"spirit of water, nix, undine"
 http://iconclass.org/21D2,,ice ~ state of water
-http://iconclass.org/21D3,🌫️🔥,steam
+http://iconclass.org/21D3,♨️,steam
 http://iconclass.org/22A0,,Matter (allegorical representation)
 http://iconclass.org/22A1,,chemical substances
 http://iconclass.org/22A2,,chemical phenomena
@@ -1035,7 +1035,7 @@ http://iconclass.org/41A3,,parts (of house or building)
 http://iconclass.org/41A4,,decorations (interior of the house)
 http://iconclass.org/41A5,,annexes and outbuildings; fencing; gate
 http://iconclass.org/41A6,,garden
-http://iconclass.org/41A7,🛋️,furniture and household effects
+http://iconclass.org/41A7,🏠🛋️,furniture and household effects
 http://iconclass.org/41A8,🏠⚙️,use of the house
 http://iconclass.org/41A9,🏚️,"ruin of a dwelling, house, castle, etc."
 http://iconclass.org/41B1,,open fire (in general)
@@ -1275,7 +1275,7 @@ http://iconclass.org/46D4,📰📅,"weekly, monthly, magazine, etc."
 http://iconclass.org/46D5,📰👥,pressmen
 http://iconclass.org/46E1,,messenger
 http://iconclass.org/46E2,,postal service
-http://iconclass.org/46E3,🐕✉️,"animal messengers (dog, pigeon)"
+http://iconclass.org/46E3,🐕🕊️✉️,"animal messengers (dog, pigeon)"
 http://iconclass.org/46E4,👀💬,visual signalling
 http://iconclass.org/46E5,👂💬,acoustic signalling
 http://iconclass.org/46E6,,electrical and electronic means of (tele)communication
@@ -1293,31 +1293,31 @@ http://iconclass.org/47C5,,"smoothing, polishing, etc. (industrial processes)"
 http://iconclass.org/47C6,,"mixing, moulding, casting, etc. (industrial processes)"
 http://iconclass.org/47C7,,"bending, folding, shaping, etc. (industrial processes)"
 http://iconclass.org/47C8,,"boring, drilling, piercing (industrial processes)"
-http://iconclass.org/47D1,⚙️🏭 ,"machines, engines ~ crafts and industries"
-http://iconclass.org/47D2,,machine driven by human or animal power
-http://iconclass.org/47D3,⚙️🌬️,machine driven by wind
-http://iconclass.org/47D4,⚙️🌊,machine driven by water
-http://iconclass.org/47D5,,machine driven by steam
-http://iconclass.org/47D6,⚙️🤷,machine driven by other power
-http://iconclass.org/47D7,,parts of machines
-http://iconclass.org/47D8,🧰,"tools, aids, implements ~ crafts and industries"
-http://iconclass.org/47D9,,"loss, damage, destruction of machinery"
+http://iconclass.org/47D1,🎰⚙️🏭 ,"machines, engines ~ crafts and industries"
+http://iconclass.org/47D2,🎰👤🐾,machine driven by human or animal power
+http://iconclass.org/47D3,🎰⚙️🌬️,machine driven by wind
+http://iconclass.org/47D4,🎰⚙️🌊,machine driven by water
+http://iconclass.org/47D5,🎰⚙️♨️,machine driven by steam
+http://iconclass.org/47D6,🎰⚙️🤷,machine driven by other power
+http://iconclass.org/47D7,🎰🧰,parts of machines
+http://iconclass.org/47D8,🧰🏭 ,"tools, aids, implements ~ crafts and industries"
+http://iconclass.org/47D9,🎰💥,"loss, damage, destruction of machinery"
 http://iconclass.org/47E1,,forms of production in craft and industry
 http://iconclass.org/47E2,,"corporative organization, guild"
 http://iconclass.org/47E3,,"modern professional organization, trade union"
-http://iconclass.org/47E4,,personnel in modern industry
-http://iconclass.org/47F1,,"planning, designing ~ production"
+http://iconclass.org/47E4,👷🏭🖥️,personnel in modern industry
+http://iconclass.org/47F1,🏭🤔,"planning, designing ~ production"
 http://iconclass.org/47F2,📦🤔,"sorting, packing of products"
-http://iconclass.org/47F3,,"storing, conserving, preserving (of products)"
-http://iconclass.org/47F4,,preparing for use or consumption
-http://iconclass.org/47F9,,"loss, damage, destruction of products"
+http://iconclass.org/47F3,🥫,"storing, conserving, preserving (of products)"
+http://iconclass.org/47F4,🧑‍🍳⚙,preparing for use or consumption
+http://iconclass.org/47F9,📦💥,"loss, damage, destruction of products"
 http://iconclass.org/47G1,🏗️,building-site
-http://iconclass.org/47G2,,laying the foundations; trench
+http://iconclass.org/47G2,🏗️⬇️,laying the foundations; trench
 http://iconclass.org/47G3,,making the overground structures (~ building activities)
 http://iconclass.org/47G4,,auxiliary structures (~ building activities)
-http://iconclass.org/47G5,,building materials
-http://iconclass.org/47G6,,tools and machines ~ building
-http://iconclass.org/47G7,,transport of building materials
+http://iconclass.org/47G5,🏗️🧱,building materials
+http://iconclass.org/47G6,🧰🎰,tools and machines ~ building
+http://iconclass.org/47G7,🚛🧱,transport of building materials
 http://iconclass.org/47G8,,technological aspects of building
 http://iconclass.org/47G9,,demolition of building
 http://iconclass.org/47H1,🧵🏭,materials ~ textile industry
@@ -1330,28 +1330,28 @@ http://iconclass.org/47H7,,"clothes manufacture, clothing industry"
 http://iconclass.org/47I1,,agriculture
 http://iconclass.org/47I2,🐄🏭,"cattle-breeding, livestock industry"
 http://iconclass.org/47I3,,"horticulture, vegetable culture, market gardening"
-http://iconclass.org/47I4,,fruit culture
-http://iconclass.org/47I5,,flower culture
-http://iconclass.org/47I6,,tropical culture
-http://iconclass.org/47I7,,arboriculture
-http://iconclass.org/47I8,,forestry
+http://iconclass.org/47I4,🍎🧑‍🌾,fruit culture
+http://iconclass.org/47I5,🌼🧑‍🌾,flower culture
+http://iconclass.org/47I6,🌴🧑‍🌾,tropical culture
+http://iconclass.org/47I7,🌳🧑‍🌾,arboriculture
+http://iconclass.org/47I8,🌳⚙️,forestry
 http://iconclass.org/47I9,,"land-clearing, reclamation"
 http://iconclass.org/47K1,,sea and coastal fishery
 http://iconclass.org/47K2,,fresh-water fishery
 http://iconclass.org/47K3,🦪🚜,oyster and mussel culture
-http://iconclass.org/47K4,,making of fishing nets
+http://iconclass.org/47K4,🐟🕸️🪡,making of fishing nets
 http://iconclass.org/47L1,🚢🚧,"building a ship, ship under construction"
 http://iconclass.org/47L2,🚢🚧👥,shipyard-workers
-http://iconclass.org/47L3,🚢🍾,launching a ship
+http://iconclass.org/47L3,🌊🚢🍾,launching a ship
 http://iconclass.org/48A1,,"person stimulating the arts; art lover, connoisseur, maecenas, patron"
 http://iconclass.org/48A2,🖼️🗣️,"criticizing and discussing art, art criticism"
 http://iconclass.org/48A3,,"competition, art contest"
 http://iconclass.org/48A4,🧑‍🎨🙇,honouring the artist
-http://iconclass.org/48A5,,conservation of a work of art
+http://iconclass.org/48A5,🖼️🥫,conservation of a work of art
 http://iconclass.org/48A6,🖼️💥,damaging or destroying a work of art
 http://iconclass.org/48A7,🖼️🗣️👥,"presenting a work of art to the public; performing, interpreting, reciting"
 http://iconclass.org/48A8,,collecting and exhibiting products of the fine arts
-http://iconclass.org/48A9,,stylistic and formal differentiation of art
+http://iconclass.org/48A9,🖼️🤷,stylistic and formal differentiation of art
 http://iconclass.org/48B1,🧑‍🎨⚙️,"artist at work, in his workshop"
 http://iconclass.org/48B2,🧑‍🎨🏖️,artist in non-work situation
 http://iconclass.org/48B3,🤳,"portrait, self-portrait of artist"
@@ -1416,7 +1416,7 @@ http://iconclass.org/49K2,📜🎨,history of art
 http://iconclass.org/49K3,,philology
 http://iconclass.org/49L1,🔤,"letters, alphabet, script"
 http://iconclass.org/49L2,🔤🖼️,pictorial and ideographic script
-http://iconclass.org/49L3,🔤✨,scripts for special purposes
+http://iconclass.org/49L3,🔤✨📃,scripts for special purposes
 http://iconclass.org/49L4,✍️✨,calligraphy
 http://iconclass.org/49L5,✍️🧰,writing tools
 http://iconclass.org/49L6,,writing accessories
@@ -1515,7 +1515,7 @@ http://iconclass.org/52A5,💭,"Knowledge; 'Cognitione', 'Cognitione delle cose'
 http://iconclass.org/52A6,💭✔️,Truth; 'Verità' (Ripa)
 http://iconclass.org/52A7,💭♾️,Omniscience
 http://iconclass.org/52AA,,Intelligence and Intellectual Faculties (opposing concepts)
-http://iconclass.org/52B1,💭⚙️,"Thinking, Thought, Reflection; 'Pensiero' (Ripa)"
+http://iconclass.org/52B1,💭⚙️👤,"Thinking, Thought, Reflection; 'Pensiero' (Ripa)"
 http://iconclass.org/52B2,,"Admission, Belief"
 http://iconclass.org/52B3,💭🙏,Expectation
 http://iconclass.org/52B4,,Verification
@@ -4432,39 +4432,39 @@ http://iconclass.org/46C55,,"luggage, travel requisites"
 http://iconclass.org/46C56,,souvenir (~ tourism)
 http://iconclass.org/46C57,,"fictitious journey; journey to the other world, 'accès à un autre monde'"
 http://iconclass.org/46D31,,"sale of newspaper, newspaper stand"
-http://iconclass.org/46D32,,"newsboy, newsman"
-http://iconclass.org/46D33,,delivery (of newspaper)
-http://iconclass.org/46D41,,"sensational press, 'canard'"
-http://iconclass.org/46D51,,editorial board
-http://iconclass.org/46D52,,"journalist, reporter"
-http://iconclass.org/46D53,,press photographer
-http://iconclass.org/46D54,,interviewing
+http://iconclass.org/46D32,📰👦👨,"newsboy, newsman"
+http://iconclass.org/46D33,🗞️,delivery (of newspaper)
+http://iconclass.org/46D41,📰✨,"sensational press, 'canard'"
+http://iconclass.org/46D51,📰✍️👥,editorial board
+http://iconclass.org/46D52,📰✍️,"journalist, reporter"
+http://iconclass.org/46D53,📰📸,press photographer
+http://iconclass.org/46D54,📰🎤,interviewing
 http://iconclass.org/46E11,,messenger's box
 http://iconclass.org/46E12,,messenger's badge
 http://iconclass.org/46E13,,"relay dispatch service, estafette"
 http://iconclass.org/46E21,,post-office
 http://iconclass.org/46E22,,postal matter
-http://iconclass.org/46E23,,sending and receiving postal matter
-http://iconclass.org/46E31,,dog (as messenger)
-http://iconclass.org/46E32,,pigeon (as messenger)
+http://iconclass.org/46E23,📨⚙️,sending and receiving postal matter
+http://iconclass.org/46E31,🐕✉️,dog (as messenger)
+http://iconclass.org/46E32,🕊️✉️,pigeon (as messenger)
 http://iconclass.org/46E41,,flags (~ signalling)
-http://iconclass.org/46E42,,semaphore
-http://iconclass.org/46E43,,"light, fire, smoke, etc. used for signalling"
-http://iconclass.org/46E51,,acoustic signalling without instrument
-http://iconclass.org/46E52,,acoustic signalling with instrument
-http://iconclass.org/46E61,,(morse) telegraph
-http://iconclass.org/46E62,,telephone
-http://iconclass.org/46E63,,"radio, wireless, radio broadcasting"
-http://iconclass.org/46E64,,"television, television broadcasting"
-http://iconclass.org/46E65,,"phonograph, gramophone; playing recorded sound or video"
-http://iconclass.org/46E66,,"tape recorder, video recorder; recording"
-http://iconclass.org/46E67,,telecommunication structure and equipment
-http://iconclass.org/46E71,,acoustical means of determining location
-http://iconclass.org/46E72,,optical means of determining location
-http://iconclass.org/46E73,,electrical means of determining location
-http://iconclass.org/46E81,,"communication by means of 'statue parlanti', such as Marforio and Pasquino in Rome"
+http://iconclass.org/46E42,🏳️📡,semaphore
+http://iconclass.org/46E43,💡🔥📡,"light, fire, smoke, etc. used for signalling"
+http://iconclass.org/46E51,👂📡,acoustic signalling without instrument
+http://iconclass.org/46E52,👂📯📡,acoustic signalling with instrument
+http://iconclass.org/46E61,💬📡,(morse) telegraph
+http://iconclass.org/46E62,☎️,telephone
+http://iconclass.org/46E63,📻📡,"radio, wireless, radio broadcasting"
+http://iconclass.org/46E64,📺📡,"television, television broadcasting"
+http://iconclass.org/46E65,💿📼⚙️,"phonograph, gramophone; playing recorded sound or video"
+http://iconclass.org/46E66,📹📼,"tape recorder, video recorder; recording"
+http://iconclass.org/46E67,📡🏢,telecommunication structure and equipment
+http://iconclass.org/46E71,👂📍,acoustical means of determining location
+http://iconclass.org/46E72,👁️📍,optical means of determining location
+http://iconclass.org/46E73,⚡📍,electrical means of determining location
+http://iconclass.org/46E81,🗿🗣️,"communication by means of 'statue parlanti', such as Marforio and Pasquino in Rome"
 http://iconclass.org/47A11,,workshop
-http://iconclass.org/47A12,,factory-building
+http://iconclass.org/47A12,🏗️🏭,factory-building
 http://iconclass.org/47A13,,industrial undertakings in the open air
 http://iconclass.org/47A21,,workshop-interior
 http://iconclass.org/47A22,,"factory-interior, machine shop"
@@ -4484,35 +4484,35 @@ http://iconclass.org/47B23,,"industries ~ clay, sand, chalk, etc."
 http://iconclass.org/47B24,,industries ~ plant material
 http://iconclass.org/47B25,,industries ~ animal material
 http://iconclass.org/47B26,,"industries ~ food, drink, stimulants"
-http://iconclass.org/47B27,,chemical industry
-http://iconclass.org/47B28,,electronics industry
-http://iconclass.org/47B29,,other industries
-http://iconclass.org/47C11,,laying out of material
-http://iconclass.org/47C12,,preparing of material
-http://iconclass.org/47C13,,cleaning of material
-http://iconclass.org/47C14,,"sorting, selecting of material"
-http://iconclass.org/47C21,,digging (industrial process)
-http://iconclass.org/47C22,,heaping up (industrial process)
-http://iconclass.org/47C23,,spreading (industrial process)
-http://iconclass.org/47C24,,"shifting, transferring (industrial processes)"
-http://iconclass.org/47C31,,cutting (industrial process)
+http://iconclass.org/47B27,🧪🏭,chemical industry
+http://iconclass.org/47B28,🤖🏭,electronics industry
+http://iconclass.org/47B29,🏭🤷,other industries
+http://iconclass.org/47C11,⬇️🧱,laying out of material
+http://iconclass.org/47C12,💅🧱,preparing of material
+http://iconclass.org/47C13,🧽🧱,cleaning of material
+http://iconclass.org/47C14,🧱🔍,"sorting, selecting of material"
+http://iconclass.org/47C21,⛏️⚙️,digging (industrial process)
+http://iconclass.org/47C22,⬆️🧱⚙️,heaping up (industrial process)
+http://iconclass.org/47C23,⬇️🧱⚙️,spreading (industrial process)
+http://iconclass.org/47C24,🚛🧱⚙️,"shifting, transferring (industrial processes)"
+http://iconclass.org/47C31,✂️⚙️,cutting (industrial process)
 http://iconclass.org/47C32,,"clipping, stamping, punching (industrial processes)"
-http://iconclass.org/47C33,,sawing (industrial process)
+http://iconclass.org/47C33,🪚⚙️,sawing (industrial process)
 http://iconclass.org/47C34,,"chiselling, chipping (industrial processes)"
 http://iconclass.org/47C35,,"planing, filing, abrading (industrial processes)"
-http://iconclass.org/47C36,,mincing (industrial process)
+http://iconclass.org/47C36,🥩🍔⚙️,mincing (industrial process)
 http://iconclass.org/47C37,,"grinding, milling (industrial processes)"
 http://iconclass.org/47C38,,"smashing, crushing (industrial processes)"
-http://iconclass.org/47C41,,gripping (industrial process)
-http://iconclass.org/47C42,,"lashing, binding (industrial processes)"
-http://iconclass.org/47C43,,joining (industrial process)
-http://iconclass.org/47C44,,other methods of connecting (industrial processes)
-http://iconclass.org/47C51,,"smoothing, flattening (industrial process)"
+http://iconclass.org/47C41,🗜️⚙️,gripping (industrial process)
+http://iconclass.org/47C42,🧶🗜️⚙️,"lashing, binding (industrial processes)"
+http://iconclass.org/47C43,🔗⚙️,joining (industrial process)
+http://iconclass.org/47C44,🔗⚙️🤷,other methods of connecting (industrial processes)
+http://iconclass.org/47C51,⬇️⚙️,"smoothing, flattening (industrial process)"
 http://iconclass.org/47C52,,consolidating (industrial process)
-http://iconclass.org/47C53,,rolling with one roll (industrial process)
-http://iconclass.org/47C54,,rolling between two rolls (industrial process)
-http://iconclass.org/47C55,,"sharpening, grinding (industrial processes)"
-http://iconclass.org/47C56,,blunting (industrial process)
+http://iconclass.org/47C53,🧻⚙️,rolling with one roll (industrial process)
+http://iconclass.org/47C54,🧻⚙️🧻,rolling between two rolls (industrial process)
+http://iconclass.org/47C55,🔪⚠️⚙️,"sharpening, grinding (industrial processes)"
+http://iconclass.org/47C56,🔪🛑️⚙️,blunting (industrial process)
 http://iconclass.org/47C57,,stiffening (industrial process)
 http://iconclass.org/47C59,,roughening (industrial process)
 http://iconclass.org/47C61,,mixing (industrial process)
@@ -4524,13 +4524,13 @@ http://iconclass.org/47C73,,shaping (industrial process)
 http://iconclass.org/47C74,,making the given form durable (industrial process)
 http://iconclass.org/47D21,,handmill
 http://iconclass.org/47D22,,treadmill
-http://iconclass.org/47D31,,windmill
-http://iconclass.org/47D41,,watermill
+http://iconclass.org/47D31,🌬️🗼⚙️,windmill
+http://iconclass.org/47D41,🌊🎡⚙️,watermill
 http://iconclass.org/47D50,,steampower (alleg.)
-http://iconclass.org/47D61,,machine driven by combustion
-http://iconclass.org/47D62,,machine driven by electricity
-http://iconclass.org/47D63,,machine driven by nuclear energy
-http://iconclass.org/47D69,,automation
+http://iconclass.org/47D61,🎰🔥⚙️,machine driven by combustion
+http://iconclass.org/47D62,🎰⚡⚙️,machine driven by electricity
+http://iconclass.org/47D63,🎰☢️⚙️,machine driven by nuclear energy
+http://iconclass.org/47D69,🎰🖥️⚙️,automation
 http://iconclass.org/47E11,,home production
 http://iconclass.org/47E12,,"craft-production, skilled handiwork"
 http://iconclass.org/47E13,,industrial production
@@ -4834,7 +4834,7 @@ http://iconclass.org/49F21,,experimental zoology
 http://iconclass.org/49F22,,palaeontology
 http://iconclass.org/49F31,,craniology
 http://iconclass.org/49G01,,"symbol, emblem, sign ~ medicine"
-http://iconclass.org/49G11,💈,barber; surgeon
+http://iconclass.org/49G11,💈✂️,barber; surgeon
 http://iconclass.org/49G12,💈🦷,(barber as) dentist
 http://iconclass.org/49G13,,ophthalmologist
 http://iconclass.org/49G21,🛏️🤒,sick-bed
@@ -7359,9 +7359,9 @@ http://iconclass.org/11P433,⛪🔥💰,"plundering of churchbuilding, convent, 
 http://iconclass.org/11P441,,"persecuted believers (hiding), e.g. Huguenots, Pilgrim Fathers"
 http://iconclass.org/11P442,,"militant proselytizing: religious war, crusade, etc."
 http://iconclass.org/11P443,,inquisition
-http://iconclass.org/11P444,📚🔥,"burning of books ~ persecution of believers, dissidents, etc."
+http://iconclass.org/11P444,📚😭🔥,"burning of books ~ persecution of believers, dissidents, etc."
 http://iconclass.org/11P911,✝️👑🐎,"the pope on horseback, and Christ on an ass"
-http://iconclass.org/11Q111,,man between Good and Evil
+http://iconclass.org/11Q111,😇👤👿,man between Good and Evil
 http://iconclass.org/11Q112,👤🤬,man as sinner
 http://iconclass.org/11Q121,,"repentant sinner, sinner turning to Christ"
 http://iconclass.org/11Q122,,renouncing the world ~ penitent sinner
@@ -20554,21 +20554,21 @@ http://iconclass.org/48C51151,,painter at work with assistants or pupils
 http://iconclass.org/48C51561,,'passe-partout'
 http://iconclass.org/48C51562,,(feigned) picture curtain
 http://iconclass.org/48C61111,,studio requisites ~ photographer
-http://iconclass.org/48C61121,👤,"taking photographs of model, sitter"
-http://iconclass.org/48C61141,,developing ~ film
-http://iconclass.org/48C61142,,printing ~ film
+http://iconclass.org/48C61121,👤📸,"taking photographs of model, sitter"
+http://iconclass.org/48C61141,🎞️⚗️,developing ~ film
+http://iconclass.org/48C61142,🎞️🖨️,printing ~ film
 http://iconclass.org/48C62121,,making a feature movie
 http://iconclass.org/48C62122,,making an animated cartoon
 http://iconclass.org/48C71101,,the composer and his muse
 http://iconclass.org/48C72101,,the musician and his muse
-http://iconclass.org/48C73331,,grand piano
-http://iconclass.org/48C73341,,church organ
+http://iconclass.org/48C73331,🎹,grand piano
+http://iconclass.org/48C73341,⛪🎹,church organ
 http://iconclass.org/48C73411,,tambourine
-http://iconclass.org/48C73431,,bell ~ musical instruments
+http://iconclass.org/48C73431,🔔,bell ~ musical instruments
 http://iconclass.org/48C73511,,recorder (musical instrument)
 http://iconclass.org/48C73512,,"clarinet, bassoon, oboe, shawm"
 http://iconclass.org/48C73513,,transverse flute
-http://iconclass.org/48C73521,,saxophone
+http://iconclass.org/48C73521,🎷,saxophone
 http://iconclass.org/48C75111,,tuning the lute
 http://iconclass.org/48C75411,,"minstrel, 'jongleur'"
 http://iconclass.org/48C75412,,"bard, lyric poet"
@@ -20577,7 +20577,7 @@ http://iconclass.org/48C75512,,female singer
 http://iconclass.org/48C75611,,hurdy-gurdy player
 http://iconclass.org/48C75612,,barrel-organ player
 http://iconclass.org/48C75613,,"one person playing several instruments, one-man band"
-http://iconclass.org/48C75614,,"brass band, street band"
+http://iconclass.org/48C75614,👥🎺,"brass band, street band"
 http://iconclass.org/48C75621,,"ballad singer, ballad seller"
 http://iconclass.org/48C85211,,female impersonation by actor
 http://iconclass.org/48C85221,,male impersonation by actress
@@ -20606,8 +20606,8 @@ http://iconclass.org/48CC6112,,taking photographs - CC - out of doors
 http://iconclass.org/48CC6113,,dark room - CC - out of doors
 http://iconclass.org/48CC6114,,processing film - CC - out of doors
 http://iconclass.org/48CC6211,,studio ~ cinematographer - CC - out of doors
-http://iconclass.org/48CC6212,,"filming, cinematographer at work - CC - out of doors"
-http://iconclass.org/48CC6213,,"montage, cutting ~ film - CC - out of doors"
+http://iconclass.org/48CC6212,🎥⚙️,"filming, cinematographer at work - CC - out of doors"
+http://iconclass.org/48CC6213,🎞️✂️,"montage, cutting ~ film - CC - out of doors"
 http://iconclass.org/48CC7110,,inspiration of the composer - CC - out of doors
 http://iconclass.org/48CC7210,,inspiration of the musician - CC - out of doors
 http://iconclass.org/48CC7211,,"musician training pupils, music-lesson - CC - out of doors"
@@ -20654,9 +20654,9 @@ http://iconclass.org/48CC7551,,singer without accompaniment - CC - out of doors
 http://iconclass.org/48CC7552,,choir - CC - out of doors
 http://iconclass.org/48CC7561,,instrumental popular music - CC - out of doors
 http://iconclass.org/48CC7562,,vocal popular music - CC - out of doors
-http://iconclass.org/49B44241,,matriculation
+http://iconclass.org/49B44241,🎓,matriculation
 http://iconclass.org/49B44281,,club (students)
-http://iconclass.org/49B44282,,fraternity (students)
+http://iconclass.org/49B44282,♂️🤝,fraternity (students)
 http://iconclass.org/49B44283,,initiation (students)
 http://iconclass.org/49B44284,,party (students)
 http://iconclass.org/49B44285,,students' pageant
@@ -20679,9 +20679,9 @@ http://iconclass.org/49D11(7),,numerals: 7
 http://iconclass.org/49D11(8),,numerals: 8
 http://iconclass.org/49D11(9),,numerals: 9
 http://iconclass.org/49E25111,,"sun-glass, burning-glass"
-http://iconclass.org/49E39311,,bottles (ampullae)
-http://iconclass.org/49E39312,,flasks (cucurbitae)
-http://iconclass.org/49E39313,,"pots, jars (ollae)
+http://iconclass.org/49E39311,🧴🤷,bottles (ampullae)
+http://iconclass.org/49E39312,🏺🤷,flasks (cucurbitae)
+http://iconclass.org/49E39313,🍲,"pots, jars (ollae)
 "
 http://iconclass.org/49E39421,,Philosophical Mercury ~ alchemistic substance
 http://iconclass.org/49E39451,,Quintessence
@@ -20695,7 +20695,7 @@ http://iconclass.org/49E39514,,rubedo (reddening)
 http://iconclass.org/49MM3211,,blockbook - MM - book open
 http://iconclass.org/49MM3212,,"comic strip, 'bande dessinée' - MM - book open"
 http://iconclass.org/57AA6121,,Flattery; 'Adulatione' (Ripa)
-http://iconclass.org/57AA6122,,"Sponging, Parasitizing"
+http://iconclass.org/57AA6122,🦟,"Sponging, Parasitizing"
 http://iconclass.org/57AA6131,,"Guile, Artfulness, Craftiness, Deceitfulness"
 http://iconclass.org/57AA6141,,"Untrustworthiness, Unreliability"
 http://iconclass.org/57AA6142,,Betrayal
@@ -20716,15 +20716,15 @@ http://iconclass.org/71A32111,,Pison (river of Paradise)
 http://iconclass.org/71A32112,,Gihon (river of Paradise)
 http://iconclass.org/71A32113,,Tigris (Hiddekel) (river of Paradise)
 http://iconclass.org/71A32114,,Euphrates (river of Paradise)
-http://iconclass.org/71A32121,,the tree of life in the Garden of Eden
-http://iconclass.org/71A32122,,"the tree of knowledge of good and evil (whose fruit, usually apples or figs, brings death); the tree may be guarded by the serpent"
+http://iconclass.org/71A32121,🏞️🌳🍎,the tree of life in the Garden of Eden
+http://iconclass.org/71A32122,🌳🍎🐍,"the tree of knowledge of good and evil (whose fruit, usually apples or figs, brings death); the tree may be guarded by the serpent"
 http://iconclass.org/71B33111,,the ark ~ story of Noah
-http://iconclass.org/71B33221,,the dove returns with an olive-branch ~ story of Noah
-http://iconclass.org/71B33222,,the dove which did not return ~ story of Noah
+http://iconclass.org/71B33221,🌊🚢🕊️,the dove returns with an olive-branch ~ story of Noah
+http://iconclass.org/71B33222,🕊️🚢🌊,the dove which did not return ~ story of Noah
 http://iconclass.org/71B34311,,God's covenant with Noah: never again shall there be a flood; as a sign of this covenant God puts a rainbow in the sky
 http://iconclass.org/71B35211,,Shem and Japheth cover their father Noah; Ham usually stands nearby deriding him
 http://iconclass.org/71B35221,,Noah curses Ham (and Canaan)
-http://iconclass.org/71B42211,,the ruins of the Tower of Babel
+http://iconclass.org/71B42211,🏛️🏚️,the ruins of the Tower of Babel
 http://iconclass.org/71C11131,,"Terah turns Abraham over to King Nimrod, who condemns him to be cast into the fire (or fiery furnace) of the Chaldeans; he is miraculously rescued by God"
 http://iconclass.org/71C11132,,"Haran, Abraham's brother, having witnessed the miracle, decides to undergo the test of fire as well, but is immediately consumed"
 http://iconclass.org/71C11331,,"Abraham comes to the sacred tree of Moreh at Shechem, and builds his first altar"
