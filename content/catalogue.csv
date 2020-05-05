@@ -8,7 +8,7 @@ http://iconclass.org/5,🤔,Abstract Ideas and Concepts
 http://iconclass.org/6,📜,History
 http://iconclass.org/7,📖✨ ,Bible
 http://iconclass.org/8,📖🤔️,Literature
-http://iconclass.org/9,🏛️📜,Classical Mythology and Ancient History
+http://iconclass.org/9,🏛️🦄📜,Classical Mythology and Ancient History
 http://iconclass.org/11,✝️,Christian religion
 http://iconclass.org/12,,"non-Christian religions (including institutions, customs and antiquities)"
 http://iconclass.org/13,🧙,"magic, supernaturalism, occultism"
@@ -43,7 +43,7 @@ http://iconclass.org/54,,Process of Action
 http://iconclass.org/55,🏷️,Property
 http://iconclass.org/56,❤️🤔️,Emotion
 http://iconclass.org/57,💭🤔️,Morality
-http://iconclass.org/58,💡⚙️,Creation
+http://iconclass.org/58,🆕⚙️,Creation
 http://iconclass.org/59,,Aspects of Social Conduct
 http://iconclass.org/61,📜📅👥,historical events and situations; historical persons
 http://iconclass.org/62,🔮,visions of the future
@@ -51,7 +51,7 @@ http://iconclass.org/71,✡️📖,Old Testament
 http://iconclass.org/72,,typological juxtapositions and compositions
 http://iconclass.org/73,✝️📖,New Testament
 http://iconclass.org/81,📖♻️,literary cycles
-http://iconclass.org/82,,literary characters and objects
+http://iconclass.org/82,📖👥,literary characters and objects
 http://iconclass.org/83,📖👈,specific works of literature
 http://iconclass.org/84,📖🧚,tales and fairy tales
 http://iconclass.org/85,📖🐾👤,fables
@@ -60,8 +60,8 @@ http://iconclass.org/91,✨🤷,"myths about creation: cosmogony, theogony, and 
 http://iconclass.org/92,🔱,gods ~ classical mythology
 http://iconclass.org/93,🤝🏘️🔱,meetings and dwellings of the gods
 http://iconclass.org/94,🦸‍♂️🔱📜,the Greek heroic legends (I)
-http://iconclass.org/95,,the Greek heroic legends (II)
-http://iconclass.org/96,🇮🇹🔱,Roman gods and legends
+http://iconclass.org/95,📖🦸🔱,the Greek heroic legends (II)
+http://iconclass.org/96,📖🇮🇹🔱,Roman gods and legends
 http://iconclass.org/97,,metamorphoses ~ classical mythology
 http://iconclass.org/98,🏛️📜,classical history
 http://iconclass.org/11A,✝🔱,"Deity, God (in general) ~ Christian religion"
@@ -148,9 +148,9 @@ http://iconclass.org/23R,,day and night
 http://iconclass.org/23S,,the empires of the world
 http://iconclass.org/23T,,historical epochs
 http://iconclass.org/23U,,chronology
-http://iconclass.org/240,,allegorical representation of the heavens (celestial bodies)
-http://iconclass.org/24A,,sun as celestial body
-http://iconclass.org/24B,,moon as celestial body
+http://iconclass.org/240,🌌🖼️,allegorical representation of the heavens (celestial bodies)
+http://iconclass.org/24A,🌌☀️,sun as celestial body
+http://iconclass.org/24B,🌌🌙,moon as celestial body
 http://iconclass.org/24C,,planets (except the earth)
 http://iconclass.org/24D,,stars
 http://iconclass.org/24E,,astronomical phenomena
@@ -165,7 +165,7 @@ http://iconclass.org/25E,,geological-chronological division; historical geology;
 http://iconclass.org/25F,🐾,animals
 http://iconclass.org/25G,🌿,plants; vegetation
 http://iconclass.org/25H,🏞️🖼️,landscapes
-http://iconclass.org/25I,,"city-view, and landscape with man-made constructions"
+http://iconclass.org/25I,🏙️,"city-view, and landscape with man-made constructions"
 http://iconclass.org/25K,,"landscapes in the non-temperate zone, exotic landscapes"
 http://iconclass.org/25L,,cities represented allegorically or symbolically
 http://iconclass.org/25M,,the Seven Wonders of the World
@@ -266,13 +266,13 @@ http://iconclass.org/49C,,aspects of science in general
 http://iconclass.org/49D,🧮,mathematics
 http://iconclass.org/49E,🔬,science and technology
 http://iconclass.org/49F,🧬,biology
-http://iconclass.org/49G,,"medicine, medical science"
+http://iconclass.org/49G,⚕️🔬,"medicine, medical science"
 http://iconclass.org/49H,,social sciences
-http://iconclass.org/49I,🗺️🤔,geography
-http://iconclass.org/49K,,historical disciplines; philology
+http://iconclass.org/49I,🗺️🔬,geography
+http://iconclass.org/49K,📜🔬,historical disciplines; philology
 http://iconclass.org/49L,✍️,writing and letters
-http://iconclass.org/49M,,"production of printed matter, book-production"
-http://iconclass.org/49N,,reading
+http://iconclass.org/49M,📚🖨️⚙️,"production of printed matter, book-production"
+http://iconclass.org/49N,📖👀,reading
 http://iconclass.org/51A,,Existence and Modes of Existence
 http://iconclass.org/51B,,Kinds of Relation
 http://iconclass.org/51C,,Causation
@@ -281,14 +281,14 @@ http://iconclass.org/51E,,Hierarchical Order
 http://iconclass.org/51F,,Temporal Relationship
 http://iconclass.org/51G,,Some Characteristics of Matter
 http://iconclass.org/51H,⚖️🌡️,Quantity and Degree
-http://iconclass.org/51I,🚀,Space
+http://iconclass.org/51I,,Space
 http://iconclass.org/51K,,Aspects of Change
 http://iconclass.org/51L,,Types of Motion
 http://iconclass.org/51M,,Quality of Motion
-http://iconclass.org/52A,,Intelligence and Intellectual Faculties
+http://iconclass.org/52A,🧠💭,Intelligence and Intellectual Faculties
 http://iconclass.org/52B,💭⚙️,Reasoning
 http://iconclass.org/52C,💭✔️🤷,Understanding and Misunderstanding
-http://iconclass.org/52D,,Communication of Thought (qualitative aspects)
+http://iconclass.org/52D,💭🗣️📊,Communication of Thought (qualitative aspects)
 http://iconclass.org/52E,,Communication of Thought (answer and question)
 http://iconclass.org/53A,,Characteristics of Will
 http://iconclass.org/53B,,Acts of the Will
@@ -300,28 +300,28 @@ http://iconclass.org/54C,,"Intention, Purpose, Aim"
 http://iconclass.org/54D,⚙️♻️,Procedure
 http://iconclass.org/54E,,Reciprocal Action
 http://iconclass.org/54F,👍👎,Fortune and Misfortune
-http://iconclass.org/55A,,Acquisition and Loss
+http://iconclass.org/55A,🏷️📉,Acquisition and Loss
 http://iconclass.org/55B,🏷️,Possession
 http://iconclass.org/55C,,Use of Property
 http://iconclass.org/56A,,Feeling
-http://iconclass.org/56B,,Joy and Sorrow
+http://iconclass.org/56B,😆☹️,Joy and Sorrow
 http://iconclass.org/56C,,Aesthetic Sense
 http://iconclass.org/56D,🙏😨,Hope and Fear
 http://iconclass.org/56E,,Anger and Meekness
 http://iconclass.org/56F,😏🤢,Desire and Aversion
 http://iconclass.org/57A,👍👎,"Good and Bad Behaviour, Moral Qualities"
 http://iconclass.org/57B,,Judgment of Conduct
-http://iconclass.org/58A,,Creation and Destruction
+http://iconclass.org/58A,🆕🔥⚙️,Creation and Destruction
 http://iconclass.org/58B,,Vitality and Mortality
 http://iconclass.org/59A,,Man ~ Community
-http://iconclass.org/59B,,Social Position
+http://iconclass.org/59B,👥📊,Social Position
 http://iconclass.org/59C,👍👎⚖️,Justice and Injustice
 http://iconclass.org/61A,📜📅,historical events and situations
 http://iconclass.org/61B,📜👥,historical persons (portraits and scenes from the life)
 http://iconclass.org/61C,🐾🌿🏷️,proper names of plants and animals
 http://iconclass.org/61D,🏞️🏷️,"geographical names of countries, regions, mountains, rivers, etc."
 http://iconclass.org/61E,🏙️🏷️,names of cities and villages
-http://iconclass.org/61F,,"names of historical buildings, sites, streets, etc."
+http://iconclass.org/61F,📜🏙️🏷️,"names of historical buildings, sites, streets, etc."
 http://iconclass.org/61G,🏺🏷️,names of artefacts and man-made objects
 http://iconclass.org/61H,®️🏷️,"names of organizations, companies, trade unions, etc."
 http://iconclass.org/61I,📜📅🏷️,names of historical events and situations
@@ -369,7 +369,7 @@ http://iconclass.org/81F,,"Tasso, 'Gerusalemme Liberata' : Use 83(TASSO, Gerusal
 http://iconclass.org/81G,,"'The Poems of Ossian' : Use 83(MACPHERSON, Poems of Ossian)"
 http://iconclass.org/81H,,other cycles : Use 81(...)
 http://iconclass.org/82A,📖👥🏷️,names of literary characters
-http://iconclass.org/82B,,"names of fictional animals, plants, objects, etc."
+http://iconclass.org/82B,🦄🌿🏷️,"names of fictional animals, plants, objects, etc."
 http://iconclass.org/85A,,fables of Aesop : Use 85(...)
 http://iconclass.org/85B,,fables of Lafontaine : Use 85(...)
 http://iconclass.org/85C,,other fables : Use 85(...)
@@ -390,7 +390,7 @@ http://iconclass.org/92I,,gods of the waters: the older dynasty (first series): 
 http://iconclass.org/92K,,"gods of the waters: the older dynasty (second series): children of Oceanus, river and small water deities"
 http://iconclass.org/92L,🌍🔱,gods of the earth and fertility ~ life in mountains and woods
 http://iconclass.org/92M,🌍🔱🚜,gods of the earth and fertility ~ agriculture
-http://iconclass.org/92N,,gods of the underworld
+http://iconclass.org/92N,🔱👿,gods of the underworld
 http://iconclass.org/93A,🤝🔱,meetings of the gods
 http://iconclass.org/93B,🏛️⛰️,Olympus
 http://iconclass.org/93C,,"Parnassus, sacred to Apollo Musagetes"
@@ -442,20 +442,20 @@ http://iconclass.org/97O,,"metamorphoses of objects, plants and flowers"
 http://iconclass.org/98A,,events and situations from classical history
 http://iconclass.org/98B,📜🏛️👨,male persons from classical history
 http://iconclass.org/98C,📜🏛️👩,female persons from classical history
-http://iconclass.org/11A1,,God the Creator
+http://iconclass.org/11A1,✝🔱💡,God the Creator
 http://iconclass.org/11A2,,Divine Nature
-http://iconclass.org/11A3,,God's wrath
+http://iconclass.org/11A3,✝🔱😡,God's wrath
 http://iconclass.org/11B1,,Trinity represented by tripartite symbols
 http://iconclass.org/11B2,,"Trinity in which each of the Persons (God, Christ, Holy Ghost) is represented either by an object or by an animal"
 http://iconclass.org/11B3,,"Holy Trinity in which one, two or all figures are represented in human shape"
 http://iconclass.org/11B4,,"'Ratschluss der Erlösung', 'Prolog im Himmel'; Divine decree of Redemption"
 http://iconclass.org/11B5,,extensions of the Holy Trinity
-http://iconclass.org/11C1,,symbols of God the Father
+http://iconclass.org/11C1,✝️👴🔣,symbols of God the Father
 http://iconclass.org/11C2,,"God the Father represented as human being, usually with crown or tiara or sceptre and/or globe"
 http://iconclass.org/11C3,,Christ sitting at God's right hand
 http://iconclass.org/11C4,,"'Scala Salutis', Christ and Mary interceding with God the Father"
 http://iconclass.org/11C5,,other representations ~ God the Father
-http://iconclass.org/11D1,,symbols and prefigurations of Christ
+http://iconclass.org/11D1,✝️👶🔣,symbols and prefigurations of Christ
 http://iconclass.org/11D2,,Christ as child or youth (in general) ~ Christian religion
 http://iconclass.org/11D3,,Christ as adult
 http://iconclass.org/11D4,,legends and devotions ~ Christ
@@ -478,7 +478,7 @@ http://iconclass.org/11F8,,"miracles, appearances, and legends ~ Mary"
 http://iconclass.org/11F9,🧎🤰,Mary devotion
 http://iconclass.org/11G1,,"the nine choirs of angels, hierarchy of angels"
 http://iconclass.org/11G2,,activities of angels (in heaven)
-http://iconclass.org/11G3,,angels fighting
+http://iconclass.org/11G3,👼⚔️,angels fighting
 http://iconclass.org/11G4,,"specific aspects of angels, e.g. intervening in human affairs"
 http://iconclass.org/11HH,😇♀️,female saints
 http://iconclass.org/11I1,,"groups of prophets, usually holding books or scrolls (Isaiah, Jeremiah, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi)"
@@ -510,9 +510,9 @@ http://iconclass.org/11N3,,the Seven Deadly Sins (personified)
 http://iconclass.org/11N4,,"Unbelief, 'Infidelitas'"
 http://iconclass.org/11N5,,venial sin
 http://iconclass.org/11O1,,one Virtue fighting against or treading upon one Vice
-http://iconclass.org/11P1,,allegorical and symbolical representations ~ the Church and Religion
+http://iconclass.org/11P1,⛪🖼️,allegorical and symbolical representations ~ the Church and Religion
 http://iconclass.org/11P2,✝️☦️,the Christian Churches
-http://iconclass.org/11P3,,"organization, functionaries and dignitaries in churches and in related institutions"
+http://iconclass.org/11P3,⛪®️,"organization, functionaries and dignitaries in churches and in related institutions"
 http://iconclass.org/11P4,,"representants of the Church (Christians in general, laymen, monks, etc.) in strife with each other or with opponents"
 http://iconclass.org/11P5,,spreading the gospel; missionary work
 http://iconclass.org/11P6,💥🗿,destruction of pagan idols
@@ -564,15 +564,15 @@ http://iconclass.org/11V8,,the (seven) spiritual Acts of Mercy
 http://iconclass.org/11V9,,works of mercilessness
 http://iconclass.org/11VV,,the (seven) Acts of Mercy - VV - Christ present
 http://iconclass.org/12A0,,"'Synagoga', Synagogue, i.e. Jewish religion personified (or symbolized)"
-http://iconclass.org/12A1,,God ~ Jewish religion
+http://iconclass.org/12A1,✡️🔱,God ~ Jewish religion
 http://iconclass.org/12A2,✡️⚖️,"biblical laws, justice and government ~ Jewish religion"
 http://iconclass.org/12A3,,"religious practices, worship, liturgy ~ Jewish religion"
 http://iconclass.org/12A4,,"Tabernacle, Temple, Synagogue, and other sanctuaries ~ Jewish religion"
 http://iconclass.org/12A5,,"Jewish spiritual leaders and divisions, religious functionaries"
-http://iconclass.org/12A6,,"Jewish festivals, feasts and holidays (including liturgy, ceremonies, rites and customs)"
+http://iconclass.org/12A6,✡️📅🎉,"Jewish festivals, feasts and holidays (including liturgy, ceremonies, rites and customs)"
 http://iconclass.org/12A7,,"the Jews, Jewish life"
 http://iconclass.org/12A8,,"symbols, religious and magic concepts, occupations, fashions, realities, general ideas ~ Judaism and Jewry"
-http://iconclass.org/12A9,,anti-semitism
+http://iconclass.org/12A9,✡️💥,anti-semitism
 http://iconclass.org/12B1,,conceptions and ideas visualized ~ non-Christian religions
 http://iconclass.org/12B2,,ritual practices ~ non-Christian religions
 http://iconclass.org/12B3,,ritual practices with particular objectives ~ non-Christian religions
@@ -662,7 +662,7 @@ http://iconclass.org/13B2,🧙👈,"sorcerer, magician, wizard, warlock"
 http://iconclass.org/13B3,🧙‍♀️🧙‍♀️👈,"witches' sabbath, i.e. ceremonial gathering of witches and/or sorcerers"
 http://iconclass.org/13B4,,"witch(es), sorcerer(s) at work"
 http://iconclass.org/13B5,🧙‍♀️👿,"witch, sorcerer with the devil and/or demons"
-http://iconclass.org/13B6,,"witch-hunt, persecution of witches and sorcerers"
+http://iconclass.org/13B6,🧙‍♀️🕸️🏹🔥,"witch-hunt, persecution of witches and sorcerers"
 http://iconclass.org/13C1,,magic gestures and dances
 http://iconclass.org/13C2,,"magic mathematical figures; magic numbers, words, monograms"
 http://iconclass.org/13C3,,magic objects and 'apotropaia'
@@ -698,8 +698,8 @@ http://iconclass.org/22A0,,Matter (allegorical representation)
 http://iconclass.org/22A1,,chemical substances
 http://iconclass.org/22A2,,chemical phenomena
 http://iconclass.org/22A3,,physical phenomena
-http://iconclass.org/22B1,,electrical phenomena
-http://iconclass.org/22B2,,magnetic phenomena
+http://iconclass.org/22B1,⚡🤷,electrical phenomena
+http://iconclass.org/22B2,🧲🤷,magnetic phenomena
 http://iconclass.org/22C1,,natural light
 http://iconclass.org/22C2,,artificial light
 http://iconclass.org/22C3,,supernatural light
@@ -713,12 +713,12 @@ http://iconclass.org/22D3,🔉🛑,sound-barrier
 http://iconclass.org/22D4,,echo
 http://iconclass.org/22D9,🔇,silence
 http://iconclass.org/22E1,,heat
-http://iconclass.org/22E2,,coldness
+http://iconclass.org/22E2,❄️🤔,coldness
 http://iconclass.org/22E3,🌡️📏,temperature scales
 http://iconclass.org/22E4,🌡️👈,thermometer
 http://iconclass.org/23A1,,"Father Time, man with wings and scythe"
-http://iconclass.org/23A2,,"Eternity, 'Aeternitas'; 'Eternità','Eternità o Perpetuità' (Ripa)"
-http://iconclass.org/23A3,,"past, present and future"
+http://iconclass.org/23A2,⏳♾️🖼️,"Eternity, 'Aeternitas'; 'Eternità','Eternità o Perpetuità' (Ripa)"
+http://iconclass.org/23A3,⏳◀️▶️⏩,"past, present and future"
 http://iconclass.org/23A4,,allegorical representations of the effects of time
 http://iconclass.org/23B1,,period of more than 1000 years
 http://iconclass.org/23B2,,millennium
@@ -801,8 +801,8 @@ http://iconclass.org/23T1,,history of the world divided into seven epochs from A
 http://iconclass.org/23T2,,modern division of historical epochs
 http://iconclass.org/23U1,,"calendar, almanac"
 http://iconclass.org/23U2,,(instruments for) measurement of time
-http://iconclass.org/24A1,,sunrise
-http://iconclass.org/24A2,,sunset
+http://iconclass.org/24A1,🌄,sunrise
+http://iconclass.org/24A2,🌇,sunset
 http://iconclass.org/24A3,,solar eclipse
 http://iconclass.org/24A4,,midnight sun
 http://iconclass.org/24A5,,physical aspects of the sun
@@ -810,7 +810,7 @@ http://iconclass.org/24A6,🌞,"sun represented as face, wheel, etc."
 http://iconclass.org/24A7,,positions of the sun
 http://iconclass.org/24A8,,sunlight
 http://iconclass.org/24B1,🌒,"waxing moon, i.e. facing this way: )"
-http://iconclass.org/24B2,,full moon
+http://iconclass.org/24B2,🌕,full moon
 http://iconclass.org/24B3,🌘,"waning moon, i.e. facing this way ("
 http://iconclass.org/24B4,,eclipse of the moon
 http://iconclass.org/24B5,,surface of the moon
@@ -831,23 +831,23 @@ http://iconclass.org/24F2,,stars in the firmament
 http://iconclass.org/24G1,,empyrean
 http://iconclass.org/25A1,🗺️,map of the world
 http://iconclass.org/25A2,,maps of the continents and the polar regions
-http://iconclass.org/25A3,,maps of separate countries or regions
+http://iconclass.org/25A3,🗺️🏳️,maps of separate countries or regions
 http://iconclass.org/25A4,🗺️🏙️,maps of cities
 http://iconclass.org/25A5,🗺️🌊,marine charts
 http://iconclass.org/25A9,🗺️✍️,map making
-http://iconclass.org/25B1,,Europe represented allegorically; 'Europa' (Ripa)
-http://iconclass.org/25B2,,Asia represented allegorically; 'Asia' (Ripa)
-http://iconclass.org/25B3,,Africa represented allegorically; 'Africa' (Ripa)
-http://iconclass.org/25B4,,America represented allegorically; 'America' (Ripa)
-http://iconclass.org/25B5,,Australia represented allegorically
-http://iconclass.org/25B6,,"the polar regions, frigid zones represented allegorically"
+http://iconclass.org/25B1,🖼️🇪🇺,Europe represented allegorically; 'Europa' (Ripa)
+http://iconclass.org/25B2,🖼️🌏,Asia represented allegorically; 'Asia' (Ripa)
+http://iconclass.org/25B3,🖼🌍,Africa represented allegorically; 'Africa' (Ripa)
+http://iconclass.org/25B4,🖼🌎,America represented allegorically; 'America' (Ripa)
+http://iconclass.org/25B5,🖼🇦🇺,Australia represented allegorically
+http://iconclass.org/25B6,🖼🌎❄️,"the polar regions, frigid zones represented allegorically"
 http://iconclass.org/25C1,🌋,volcanism
 http://iconclass.org/25C2,🌍🧲,terrestrial magnetism
-http://iconclass.org/25D1,,rock types
+http://iconclass.org/25D1,🪨🤷,rock types
 http://iconclass.org/25D2,,soil types
 http://iconclass.org/25D3,⛏️💎,mining
-http://iconclass.org/25D4,,fluids and gases extracted from the earth
-http://iconclass.org/25D5,,movement in geological layers
+http://iconclass.org/25D4,💨💧⛏️,fluids and gases extracted from the earth
+http://iconclass.org/25D5,🌎🌋,movement in geological layers
 http://iconclass.org/25F1,,groups of animals
 http://iconclass.org/25F2,,mammals
 http://iconclass.org/25F3,,birds
@@ -864,8 +864,8 @@ http://iconclass.org/25G3,,trees
 http://iconclass.org/25G4,,plants and herbs
 http://iconclass.org/25G5,,lower plants
 http://iconclass.org/25G6,,extinct plants
-http://iconclass.org/25G7,,language of flowers
-http://iconclass.org/25GG,,"fantastic plants, fabulous vegetation"
+http://iconclass.org/25G7,💐💭,language of flowers
+http://iconclass.org/25GG,🦄🌱,"fantastic plants, fabulous vegetation"
 http://iconclass.org/25H1,,landscapes in the temperate zone
 http://iconclass.org/25H2,,"landscapes with waters, waterscapes, seascapes (in the temperate zone)"
 http://iconclass.org/25HH,,landscapes - HH - ideal landscapes
@@ -1356,90 +1356,90 @@ http://iconclass.org/48B1,🧑‍🎨⚙️,"artist at work, in his workshop"
 http://iconclass.org/48B2,🧑‍🎨🏖️,artist in non-work situation
 http://iconclass.org/48B3,🤳,"portrait, self-portrait of artist"
 http://iconclass.org/48B4,,(professional) organization of artists
-http://iconclass.org/48C1,,architecture
-http://iconclass.org/48C2,,sculpture
+http://iconclass.org/48C1,🏗️🖊️,architecture
+http://iconclass.org/48C2,🗿⛏️,sculpture
 http://iconclass.org/48C3,,"applied arts, arts and crafts; industrial design"
 http://iconclass.org/48C4,,the monumental arts
-http://iconclass.org/48C5,,"painting, drawing and the graphic arts"
+http://iconclass.org/48C5,🖌️🖊️,"painting, drawing and the graphic arts"
 http://iconclass.org/48C6,📷🎥,"photography, cinematography"
 http://iconclass.org/48C7,🎼,music
-http://iconclass.org/48C8,,"the arts of the stage: ballet, theatre, musical drama, motion picture"
-http://iconclass.org/48C9,,literature ~ arts
-http://iconclass.org/49A0,,"symbolic representations, allegories and emblems ~ education; 'Ammaestramento', Dottrina', 'Educatione', 'Istitutione' (Ripa)"
+http://iconclass.org/48C8,🎭,"the arts of the stage: ballet, theatre, musical drama, motion picture"
+http://iconclass.org/48C9,📖🎭,literature ~ arts
+http://iconclass.org/49A0,💭🖼️🏫 ,"symbolic representations, allegories and emblems ~ education; 'Ammaestramento', Dottrina', 'Educatione', 'Istitutione' (Ripa)"
 http://iconclass.org/49A1,🤓📖🏖️,study and diversion
 http://iconclass.org/49B1,👶🏫,nursery school
 http://iconclass.org/49B2,🧒🏫 ,"elementary school; class, form"
 http://iconclass.org/49B3,,further education
 http://iconclass.org/49B4,🎓🏫 ,university
-http://iconclass.org/49C0,,"symbolic representations, allegories and emblems ~ science, 'Scientia'; 'Scienza', 'Studio' (Ripa)"
+http://iconclass.org/49C0,💭🖼️🔬,"symbolic representations, allegories and emblems ~ science, 'Scientia'; 'Scienza', 'Studio' (Ripa)"
 http://iconclass.org/49C1,,"the liberal arts, 'Artes Liberales'"
 http://iconclass.org/49C2,📖💭🤔,philosophy
 http://iconclass.org/49C3,📖💭🤓,"scholar, philosopher"
 http://iconclass.org/49C4,,"discussion, dialogue, dispute ~ scholar, philosopher"
-http://iconclass.org/49D0,,'Mathematica'; 'Mathematica' (Ripa)
+http://iconclass.org/49D0,🧮🖼️,'Mathematica'; 'Mathematica' (Ripa)
 http://iconclass.org/49D1,🧮🤔,arithmetic
 http://iconclass.org/49D2,🧮📊,algebra and statistics
 http://iconclass.org/49D3,🌍📐,"planimetry, geometry"
 http://iconclass.org/49D4,,"stereometry, solid geometry"
-http://iconclass.org/49D5,✍️📏 🖩,"drawing, measuring, calculating"
+http://iconclass.org/49D5,✍️📏 🧮,"drawing, measuring, calculating"
 http://iconclass.org/49D6,🧮🤷,some other branches of mathematics
-http://iconclass.org/49D7,,mathematical perspective
+http://iconclass.org/49D7,🧮📷,mathematical perspective
 http://iconclass.org/49E1,🔭,astronomy (and cosmography)
 http://iconclass.org/49E2,🌐⚙️,physics and mechanics
 http://iconclass.org/49E3,🧪,chemistry
-http://iconclass.org/49E4,🔮📏,crystallography
-http://iconclass.org/49E5,🌍📏,geology
-http://iconclass.org/49E6,,meteorology
+http://iconclass.org/49E4,🔮🔬,crystallography
+http://iconclass.org/49E5,🌍🔬,geology
+http://iconclass.org/49E6,☁️🔬,meteorology
 http://iconclass.org/49E7,🎰⚙️,technology
 http://iconclass.org/49E8,🧪 🏠,laboratory
 http://iconclass.org/49E9,🧪 📊,"experiment, test ~ science and technology"
 http://iconclass.org/49F1,🌿🧑‍🔬,botany
-http://iconclass.org/49F2,🐾🔍,zoology
-http://iconclass.org/49F3,,physical anthropology
-http://iconclass.org/49G0,,"'Medicina', allegorical representations ~ medicine; 'Medicina' (Ripa)"
-http://iconclass.org/49G1,,"physician, doctor"
+http://iconclass.org/49F2,🐾🔬,zoology
+http://iconclass.org/49F3,👣🔬,physical anthropology
+http://iconclass.org/49G0,⚕️🔬🖼️,"'Medicina', allegorical representations ~ medicine; 'Medicina' (Ripa)"
+http://iconclass.org/49G1,🧑‍⚕️,"physician, doctor"
 http://iconclass.org/49G2,🤒,"patient, sick person"
 http://iconclass.org/49G3,🤒🔍,"medical examination, medical treatment"
 http://iconclass.org/49G4,🏥,hospital
 http://iconclass.org/49G5,,specialized institutions
-http://iconclass.org/49G6,,"medical research, branches of medicine"
-http://iconclass.org/49G7,🧠🔍 ,psychology and psychiatry
+http://iconclass.org/49G6,⚕️🔬💭,"medical research, branches of medicine"
+http://iconclass.org/49G7,🧠🔬,psychology and psychiatry
 http://iconclass.org/49G8,💊🏪,"pharmacy, pharmaceutics"
-http://iconclass.org/49G9,,"unprofessional or illegal practice, popular medicine"
+http://iconclass.org/49G9,⚕️🤪,"unprofessional or illegal practice, popular medicine"
 http://iconclass.org/49H1,👥🧑‍🔬,sociology
-http://iconclass.org/49H2,,"folklore, the study of popular tradition"
+http://iconclass.org/49H2,🧙🔬,"folklore, the study of popular tradition"
 http://iconclass.org/49H3,,"ethnology, cultural anthropology"
-http://iconclass.org/49I0,,'Geografia'
+http://iconclass.org/49I0,🌍🔬🖼️,'Geografia'
 http://iconclass.org/49I1,🚀🗺️,"exploration, expedition, voyage of discovery"
 http://iconclass.org/49K1,📜🏺,history and archaeology
 http://iconclass.org/49K2,📜🎨,history of art
-http://iconclass.org/49K3,,philology
+http://iconclass.org/49K3,🔤🔬,philology
 http://iconclass.org/49L1,🔤,"letters, alphabet, script"
 http://iconclass.org/49L2,🔤🖼️,pictorial and ideographic script
 http://iconclass.org/49L3,🔤✨📃,scripts for special purposes
 http://iconclass.org/49L4,✍️✨,calligraphy
 http://iconclass.org/49L5,✍️🧰,writing tools
 http://iconclass.org/49L6,,writing accessories
-http://iconclass.org/49L7,📝,"handwriting, written text"
+http://iconclass.org/49L7,✍️📝,"handwriting, written text"
 http://iconclass.org/49L8,🖼️📝 ,inscription
 http://iconclass.org/49M1,📚🏢,"printing, printing office"
 http://iconclass.org/49M2,,means of multiplying texts (other than printing)
-http://iconclass.org/49M3,,printed matter
-http://iconclass.org/49M4,,decoration of printed matter
-http://iconclass.org/49M5,,bookbinding
+http://iconclass.org/49M3,🖨️📰,printed matter
+http://iconclass.org/49M4,🖨️📰💅,decoration of printed matter
+http://iconclass.org/49M5,📚🗜️,bookbinding
 http://iconclass.org/49M6,📚🏭,"publishing, publisher"
 http://iconclass.org/49M7,📚🛒,"book-shop, bookseller"
-http://iconclass.org/49M8,,ex-libris
+http://iconclass.org/49M8,📚💰🏦,ex-libris
 http://iconclass.org/49M9,📚🏦,public library
-http://iconclass.org/49N1,📖🗣️👤,reading to somebody
-http://iconclass.org/49N2,📖👀🤷,reading-accessories
+http://iconclass.org/49N1,📖👀🗣️👤,reading to somebody
+http://iconclass.org/49N2,📖👀🧰,reading-accessories
 http://iconclass.org/51A1,,Existence
 http://iconclass.org/51A2,,Materiality
 http://iconclass.org/51A3,,Concreteness
 http://iconclass.org/51A4,,Presence
 http://iconclass.org/51A5,,"Intrinsic Nature, Essence, Idea (according to Plato)"
 http://iconclass.org/51A6,,"Elementariness, Irreducibility"
-http://iconclass.org/51A7,,"Perfection, Completeness; 'Perfettione', 'Operatione perfetta' (Ripa)"
+http://iconclass.org/51A7,👌,"Perfection, Completeness; 'Perfettione', 'Operatione perfetta' (Ripa)"
 http://iconclass.org/51A8,,"Things Known, the Known"
 http://iconclass.org/51AA,,Existence and Modes of Existence (opposing concepts)
 http://iconclass.org/51B1,,Relation
@@ -1456,16 +1456,16 @@ http://iconclass.org/51CC,,Causation (opposing concepts)
 http://iconclass.org/51D1,,"Order, Arrangement, Organization"
 http://iconclass.org/51D2,,"Harmony, Regularity"
 http://iconclass.org/51D3,,Symmetry; 'Simmetria' (Ripa)
-http://iconclass.org/51D4,,Beauty; 'Bellezza' (Ripa)
-http://iconclass.org/51D5,,"Balance, Equilibrium"
+http://iconclass.org/51D4,💅🖼️,Beauty; 'Bellezza' (Ripa)
+http://iconclass.org/51D5,⚖️🖼️,"Balance, Equilibrium"
 http://iconclass.org/51DD,,Order and Disorder (opposing concepts)
 http://iconclass.org/51E1,,"Independence, Autonomy"
-http://iconclass.org/51E2,,Superiority
+http://iconclass.org/51E2,👑🖼,Superiority
 http://iconclass.org/51E3,,Conformity; 'Temperamento delle cose terrene con le celesti' (Ripa)
 http://iconclass.org/51E4,,Coherence
 http://iconclass.org/51EE,,Hierarchical Order (opposing concepts)
 http://iconclass.org/51F1,,Precedence
-http://iconclass.org/51F2,,Continuity
+http://iconclass.org/51F2,♾️🖼️,Continuity
 http://iconclass.org/51F3,,"Priority, Pre-eminence"
 http://iconclass.org/51F4,,Simultaneity
 http://iconclass.org/51F5,,Beginning; 'Principio' (Ripa)
@@ -1477,7 +1477,7 @@ http://iconclass.org/51G1,,"Largeness, Magnitude"
 http://iconclass.org/51G2,,Heaviness
 http://iconclass.org/51G3,,Toughness
 http://iconclass.org/51G4,,Hardness
-http://iconclass.org/51G5,,Visibility
+http://iconclass.org/51G5,👀,Visibility
 http://iconclass.org/51G6,,Smoothness
 http://iconclass.org/51GG,,Some Characteristics of Matter (opposing concepts)
 http://iconclass.org/51H1,,"Totality, the Whole"
@@ -1489,7 +1489,7 @@ http://iconclass.org/51HH,,Quantity and Degree (opposing concepts)
 http://iconclass.org/51I1,,"Limited, Defined Space"
 http://iconclass.org/51I2,,Fullness
 http://iconclass.org/51I3,📍,"Location, Position"
-http://iconclass.org/51I4,,Nearness
+http://iconclass.org/51I4,📍📏,Nearness
 http://iconclass.org/51I5,,Middle; 'Mezo' (Ripa)
 http://iconclass.org/51I6,🔝,"High, Top"
 http://iconclass.org/51II,,Space (opposing concepts)
@@ -1499,15 +1499,15 @@ http://iconclass.org/51K3,,Substitution
 http://iconclass.org/51K4,🧬♻️,Evolution
 http://iconclass.org/51K5,,Reaction
 http://iconclass.org/51KK,,Aspects of Change (opposing concepts)
-http://iconclass.org/51L1,,Motion
+http://iconclass.org/51L1,⚙️💨,Motion
 http://iconclass.org/51L2,,Regular Motion
-http://iconclass.org/51L3,,"Direction, Orientation"
-http://iconclass.org/51L4,,"Progression, Forward Movement"
+http://iconclass.org/51L3,⚙️⏱️,"Direction, Orientation"
+http://iconclass.org/51L4,⚙️➡️,"Progression, Forward Movement"
 http://iconclass.org/51L5,🔝⚙️,Ascent
-http://iconclass.org/51LL,,Types of Motion (opposing concepts)
-http://iconclass.org/51M1,,Fast Motion
+http://iconclass.org/51LL,⚙️💨🤷,Types of Motion (opposing concepts)
+http://iconclass.org/51M1,⚙️💨💨,Fast Motion
 http://iconclass.org/51MM,,Quality of Motion (opposing concepts)
-http://iconclass.org/52A1,,"Intellect, Intelligence; 'Intelletto', 'Intelligenza' (Ripa)"
+http://iconclass.org/52A1,🧠💪,"Intellect, Intelligence; 'Intelletto', 'Intelligenza' (Ripa)"
 http://iconclass.org/52A2,,"Forethought, Deliberation; 'Previdenza', 'Providenza' (Ripa)"
 http://iconclass.org/52A3,💭📜,Memory; 'Memoria' (Ripa)
 http://iconclass.org/52A4,💭🦄,Imagination; 'Imaginatione' (Ripa)
@@ -1515,7 +1515,7 @@ http://iconclass.org/52A5,💭,"Knowledge; 'Cognitione', 'Cognitione delle cose'
 http://iconclass.org/52A6,💭✔️,Truth; 'Verità' (Ripa)
 http://iconclass.org/52A7,💭♾️,Omniscience
 http://iconclass.org/52AA,,Intelligence and Intellectual Faculties (opposing concepts)
-http://iconclass.org/52B1,💭⚙️👤,"Thinking, Thought, Reflection; 'Pensiero' (Ripa)"
+http://iconclass.org/52B1,🤔👈,"Thinking, Thought, Reflection; 'Pensiero' (Ripa)"
 http://iconclass.org/52B2,,"Admission, Belief"
 http://iconclass.org/52B3,💭🙏,Expectation
 http://iconclass.org/52B4,,Verification
@@ -1589,9 +1589,9 @@ http://iconclass.org/54E3,,"Accord, Accordance"
 http://iconclass.org/54E4,,Defence
 http://iconclass.org/54EE,,Reciprocal Action (opposing concepts)
 http://iconclass.org/54F1,,Success; 'Evento buono' (Ripa)
-http://iconclass.org/54F2,,Victory
+http://iconclass.org/54F2,⚔️✔️,Victory
 http://iconclass.org/54FF,,Fortune and Misfortune (opposing concepts)
-http://iconclass.org/55A1,,"Acquisition, Gain, Profit"
+http://iconclass.org/55A1,🏷️📈,"Acquisition, Gain, Profit"
 http://iconclass.org/55AA,,Acquisition and Loss (opposing concepts)
 http://iconclass.org/55B1,,"Wealth, Opulence; 'Opulenza', 'Richezza' (Ripa)"
 http://iconclass.org/55B2,,"Luxury, Luxuriousness"
@@ -1606,7 +1606,7 @@ http://iconclass.org/55CC,,Use of Property (opposing concepts)
 http://iconclass.org/56A1,,"Sensation, Sensibility, Sensitivity"
 http://iconclass.org/56A2,,Excitation
 http://iconclass.org/56AA,,Feeling (opposing concepts)
-http://iconclass.org/56B1,,"Pleasure, Enjoyment, Joy; 'Allegrezza', 'Allegrezza da le medaglie', 'Allegrezza, letitia e giubilo', 'Diletto', 'Piacere', 'Piacere honesto' (Ripa)"
+http://iconclass.org/56B1,😆,"Pleasure, Enjoyment, Joy; 'Allegrezza', 'Allegrezza da le medaglie', 'Allegrezza, letitia e giubilo', 'Diletto', 'Piacere', 'Piacere honesto' (Ripa)"
 http://iconclass.org/56B2,,"Happiness, Felicity"
 http://iconclass.org/56B3,,"Satisfaction, Contentment; 'Contento' (Ripa)"
 http://iconclass.org/56B4,,Amusement
@@ -1626,10 +1626,10 @@ http://iconclass.org/56EE,,Anger and Meekness (opposing concepts)
 http://iconclass.org/56F1,,Desire; 'Desiderio' (Ripa)
 http://iconclass.org/56F2,,(personifications and symbolic representations of) Love; 'Amore (secondo Seneca)' (Ripa)
 http://iconclass.org/56FF,,Desire and Aversion (opposing concepts)
-http://iconclass.org/57A1,,Good Behaviour
+http://iconclass.org/57A1,😇👍,Good Behaviour
 http://iconclass.org/57A2,,"Sense of Duty, Devotion to Duty"
 http://iconclass.org/57A3,,Conscience; 'Coscienza' (Ripa)
-http://iconclass.org/57A4,,Shame
+http://iconclass.org/57A4,😖,Shame
 http://iconclass.org/57A5,,"Decency, Shyness, Bashfulness"
 http://iconclass.org/57A6,,"Virtuousness; 'Amor di Virtù', 'Attione virtuosa', 'Guida sicura de' veri honori', 'Virtù', 'Virtù insuperabile' (Ripa)"
 http://iconclass.org/57A7,,"Benevolence, Beneficence; 'Beneficio', 'Benevolenza o Affettione' (Ripa)"
@@ -1641,49 +1641,49 @@ http://iconclass.org/57B2,,"Respect, Reverence, Esteem"
 http://iconclass.org/57B3,,"Justification, Vindication"
 http://iconclass.org/57BB,,Judgment of Conduct (opposing concepts)
 http://iconclass.org/58A1,,Originating
-http://iconclass.org/58A2,,Procreation
+http://iconclass.org/58A2,🍑🍆🤰,Procreation
 http://iconclass.org/58A3,,"Fruitfulness, Productiveness, Fertility, Fecundity; 'Fecondità' (Ripa)"
 http://iconclass.org/58AA,,Creation and Destruction (opposing concepts)
 http://iconclass.org/58B1,,"Vitality, Viability, Vital Force"
-http://iconclass.org/58B2,,Life
-http://iconclass.org/58B3,,"Immortality, Imperishableness; 'Immortalità' (Ripa)"
-http://iconclass.org/58B4,,"Rebirth, Renaissance, Regeneration"
-http://iconclass.org/58B5,,Heredity
+http://iconclass.org/58B2,🧬,Life
+http://iconclass.org/58B3,🧬♾,"Immortality, Imperishableness; 'Immortalità' (Ripa)"
+http://iconclass.org/58B4,🧬🧟,"Rebirth, Renaissance, Regeneration"
+http://iconclass.org/58B5,🧬👪,Heredity
 http://iconclass.org/58B6,,"Instinct, Natural Disposition; 'Instinto naturale' (Ripa)"
 http://iconclass.org/58BB,,Vitality and Mortality (opposing concepts)
 http://iconclass.org/59A1,,Sociality
-http://iconclass.org/59A2,,"Refinement, Taste"
+http://iconclass.org/59A2,💋👌,"Refinement, Taste"
 http://iconclass.org/59A3,,"Propriety, Decorum; 'Decoro' (Ripa)"
 http://iconclass.org/59A4,,Elegance
 http://iconclass.org/59A5,,Hospitality; 'Hospitalità' (Ripa)
 http://iconclass.org/59AA,,Man ~ Community (opposing concepts)
 http://iconclass.org/59B1,,"Everyman, 'Elckerlyc'"
-http://iconclass.org/59B2,,"Advancement, Promotion"
+http://iconclass.org/59B2,👥📈,"Advancement, Promotion"
 http://iconclass.org/59B3,,"Repute, Renown; 'Splendore del nome' (Ripa)"
 http://iconclass.org/59B4,,Dignity; 'Dignità' (Ripa)
 http://iconclass.org/59B5,,Merit; 'Merito' (Ripa)
 http://iconclass.org/59BB,,Social Position (opposing concepts)
 http://iconclass.org/59C1,,Maintenance of the Law
 http://iconclass.org/59C2,,"Justice; 'Forza alla giustitia sottoposta', 'Giustitia', 'Giustitia retta', 'Giustitia rigorosa', 'Impietà e violenza soggetta alla giustitia' (Ripa)"
-http://iconclass.org/59C3,,Legality
-http://iconclass.org/59CC,,Justice and Injustice (opposing concepts)
-http://iconclass.org/61B1,,historical persons not known by name
-http://iconclass.org/61B2,,historical persons
-http://iconclass.org/61BB,,historical persons (portraits and scenes from the life) - BB - woman
+http://iconclass.org/59C3,⚖️✔️,Legality
+http://iconclass.org/59CC,✔️⚖️❌,Justice and Injustice (opposing concepts)
+http://iconclass.org/61B1,📜👥🏷️🤷,historical persons not known by name
+http://iconclass.org/61B2,📜👥,historical persons
+http://iconclass.org/61BB,📜👥🖼️,historical persons (portraits and scenes from the life) - BB - woman
 http://iconclass.org/61C1,🌿🏷️,proper names of plants
 http://iconclass.org/61C2,🐾🏷️,proper names of animals
 http://iconclass.org/71A1,,'In the beginning ...' the ordering of chaos (Genesis 1:1-2)
 http://iconclass.org/71A2,,the six days of creation (Genesis 1:3-25)
 http://iconclass.org/71A3,,creation of man; the Garden of Eden (Genesis 1:26 - 2)
-http://iconclass.org/71A4,,Temptation and Fall (Genesis 3:1-7)
+http://iconclass.org/71A4,🍎🐍😭,Temptation and Fall (Genesis 3:1-7)
 http://iconclass.org/71A5,,Temptation and Fall: Adam and Eve in paradise (after the Fall) (Genesis 3:8-21)
-http://iconclass.org/71A6,,expulsion of Adam and Eve from paradise (Genesis 3:22-24)
+http://iconclass.org/71A6,🏞🚫️👫🍎🐍,expulsion of Adam and Eve from paradise (Genesis 3:22-24)
 http://iconclass.org/71A7,,the labours of Adam and Eve; infancy of Cain and Abel (Genesis 4:1-2)
-http://iconclass.org/71A8,,the story of Cain and Abel (Genesis 4:3-17)
+http://iconclass.org/71A8,📖🍎🐍👶👶,the story of Cain and Abel (Genesis 4:3-17)
 http://iconclass.org/71A9,,"declining years and death of Adam and Eve, and the story of Seth (Genesis 4:25, 5:1-8)"
 http://iconclass.org/71B1,,"the descendants of Cain, the Cainites (Genesis 4:18-24)"
 http://iconclass.org/71B2,,"the descendants of Seth (Genesis 4:26, 5:9-32)"
-http://iconclass.org/71B3,,story of Noah
+http://iconclass.org/71B3,📖🚢🐑🐏,story of Noah
 http://iconclass.org/71B4,,story of the Tower of Babel (Genesis 11:1-9)
 http://iconclass.org/71C1,,story of Abraham
 http://iconclass.org/71C2,,story of Isaac
@@ -1846,7 +1846,7 @@ http://iconclass.org/73C7,✝🧑‍🏫💬,Christ as teacher (part I): explain
 http://iconclass.org/73C8,,Christ as teacher (part II): parables and proverbial sayings of Christ
 http://iconclass.org/73C9,✝🧑‍🙏,Christ and prayer
 http://iconclass.org/73D1,,prelude to Christ's Passion
-http://iconclass.org/73D2,✝🧑‍🍽️,the episode of the Last Supper
+http://iconclass.org/73D2,✝🧑‍⌛🍽️,the episode of the Last Supper
 http://iconclass.org/73D3,✝🧑⛓️⚖️ 😭,"Christ's arrest, trial, and torture"
 http://iconclass.org/73D4,,from Pilate's palace to Golgotha: the procession to Calvary (Matthew 27:31-33; Mark 15:20-22; Luke 23:26-33; John 19:17)
 http://iconclass.org/73D5,,the crucifixion of Christ: prelude to Christ's death on the cross (Matthew 27:34-44; Mark 15:23-32; Luke 23:33-43; John 19:18-24)
@@ -1857,7 +1857,7 @@ http://iconclass.org/73D9,,"Christ in the underworld, harrowing of hell, Christ 
 http://iconclass.org/73E1,✝🧟,Resurrection of Christ
 http://iconclass.org/73E2,,the empty tomb ~ Resurrection of Christ
 http://iconclass.org/73E3,,appearances of Christ after the Resurrection
-http://iconclass.org/73E4,✝🤝⛰️,Christ and his apostles on the Mount of Olives
+http://iconclass.org/73E4,✝🤝⛰️🫒,Christ and his apostles on the Mount of Olives
 http://iconclass.org/73E5,,"Pentecost: the Holy Ghost descends upon (Mary and) the apostles, sometimes Paul and/or representatives of the nations present (Acts 2:1-4)"
 http://iconclass.org/73E6,,"the apostles, inspired by the Holy Ghost, address the representatives of the nations ~ Pentecost (Acts 2:5-41)"
 http://iconclass.org/73E7,,"Mary's death, assumption and coronation (sometimes some of the 'daughters of the Hebrews' present)"
@@ -1872,7 +1872,7 @@ http://iconclass.org/73G3,,Revelation 6-11
 http://iconclass.org/73G4,,Revelation 12-18
 http://iconclass.org/73G5,,Revelation 19-22
 http://iconclass.org/73G6,,John adoring the angel after the Revelation
-http://iconclass.org/82AA,,female literary characters
+http://iconclass.org/82AA,📖👥♀️,female literary characters
 http://iconclass.org/91A1,,"primeval deities, elementary gods ~ classical mythology"
 http://iconclass.org/91A2,,separation of the elements by some creative force ~ classical mythology
 http://iconclass.org/91B1,,Titans
@@ -1925,7 +1925,7 @@ http://iconclass.org/92G4,,(story of) Momus
 http://iconclass.org/92G5,,Eris (Discordia)
 http://iconclass.org/92G6,,Ate
 http://iconclass.org/92G7,,"other lesser deities of Heaven ~ destiny, fate, adversity"
-http://iconclass.org/92H1,,(story of) Neptune (Poseidon)
+http://iconclass.org/92H1,📖🌊🔱,(story of) Neptune (Poseidon)
 http://iconclass.org/92H2,,(story of) Amphitrite
 http://iconclass.org/92H3,,(story of) Triton
 http://iconclass.org/92H4,,Proteus
@@ -1948,7 +1948,7 @@ http://iconclass.org/92L3,,nymphs (in general); 'Ninfe in commune' (Ripa)
 http://iconclass.org/92L4,,"satyrs, fauns, Sileni"
 http://iconclass.org/92L5,,(story of) Pan
 http://iconclass.org/92L6,,(story of) Priapus
-http://iconclass.org/92L7,♐,centaurs
+http://iconclass.org/92L7,♐🏹,centaurs
 http://iconclass.org/92L8,🔱⛰️,mountain gods
 http://iconclass.org/92M1,,(story of) Ceres (Demeter)
 http://iconclass.org/92M2,,"(story of) Proserpina (Persephone, Core), Libera"
@@ -2208,10 +2208,10 @@ http://iconclass.org/97O5,,"statue coming to life: at Pygmalion's prayer, a stat
 http://iconclass.org/97O6,,"stones turning into men: stones thrown by Deucalion and Pyrrha, as directed by the oracle of Themis, turn into men (Ovid, Metamorphoses X 400)"
 http://iconclass.org/97O7,,"objects turning to gold: because of Midas' kindness to Silenus, the things he touches turn into gold; a gift from Bacchus (Midas may be seen at table, trying to eat) (Ovid, Metamorphoses XI 92)"
 http://iconclass.org/97O8,,"other metamorphoses of objects, plants or flowers"
-http://iconclass.org/11A11,,God measuring the Universe (with compasses)
+http://iconclass.org/11A11,✝🔱📏🌌,God measuring the Universe (with compasses)
 http://iconclass.org/11A21,,"Divinity, 'Divinità' (Ripa)"
-http://iconclass.org/11A22,,symbols ~ Divine Nature
-http://iconclass.org/11A23,,God's perfections
+http://iconclass.org/11A22,✝️🔣,symbols ~ Divine Nature
+http://iconclass.org/11A23,✝🔱👌,God's perfections
 http://iconclass.org/11A31,,'Flagello di Dio' (Ripa)
 http://iconclass.org/11B11,,symbols of the Trinity ~ circular and/or triangular forms or arrangements
 http://iconclass.org/11B12,,Trinity represented as a person with three heads
@@ -2230,21 +2230,21 @@ http://iconclass.org/11B44,,sending of the Son ~ 'Ratschluss der Erlösung'
 http://iconclass.org/11B45,,return of the Son ~ 'Ratschluss der Erlösung'
 http://iconclass.org/11B51,,Quaternity (i.e. Trinity with Mary)
 http://iconclass.org/11B52,,Quinity
-http://iconclass.org/11C11,,"the all-seeing eye, triangle with eye ~ symbol of God the Father"
-http://iconclass.org/11C12,,"hand, 'Dextera Dei' ~ symbol of God the Father"
+http://iconclass.org/11C11,👁️⚠️,"the all-seeing eye, triangle with eye ~ symbol of God the Father"
+http://iconclass.org/11C12,✝️👴✋,"hand, 'Dextera Dei' ~ symbol of God the Father"
 http://iconclass.org/11C13,,tetragram (in Roman or Hebrew script) ~ symbol of God the Father
 http://iconclass.org/11C14,,(pillar of) fire ~ symbol of God the Father
-http://iconclass.org/11C15,,(rays of) light ~ symbol of God the Father
+http://iconclass.org/11C15,✝️👴☀️,(rays of) light ~ symbol of God the Father
 http://iconclass.org/11C16,,alpha and omega ~ symbol of God the Father
 http://iconclass.org/11C21,,God the Father as young or adult man (perhaps resembling Christ)
 http://iconclass.org/11C22,,God the Father as young or adult man resembling Jupiter
 http://iconclass.org/11C23,,"God the Father as bearded old man, usually with crown or tiara or sceptre and/or globe"
-http://iconclass.org/11C31,,God crowning Christ
-http://iconclass.org/11C32,,God simultaneously crowning Christ and Mary
+http://iconclass.org/11C31,✝️🔱👑👶,God crowning Christ
+http://iconclass.org/11C32,✝️🔱👑👶🤰,God simultaneously crowning Christ and Mary
 http://iconclass.org/11C41,,Christ interceding with God the Father
-http://iconclass.org/11C51,,God the Father between the sun and the moon
-http://iconclass.org/11D11,,letters and monograms ~ symbols of Christ
-http://iconclass.org/11D12,,the cross ~ symbols of Christ
+http://iconclass.org/11C51,☀️✝️👴🌙,God the Father between the sun and the moon
+http://iconclass.org/11D11,✝️👶🔤,letters and monograms ~ symbols of Christ
+http://iconclass.org/11D12,🔣✝️👈,the cross ~ symbols of Christ
 http://iconclass.org/11D13,,(other) symbols of Christ
 http://iconclass.org/11D14,,"prefigurations of Christ, Christ and his prefigurations"
 http://iconclass.org/11D15,,the Incarnation ~ Christ
@@ -2422,10 +2422,10 @@ http://iconclass.org/11O12,,figure representing a Virtue vs. a Vice
 http://iconclass.org/11P11,,"the Church personified, 'Ecclesia', usually with chalice and banner"
 http://iconclass.org/11P12,,"allegorical representations ~ religion; 'Religione', 'Religione de SS. Mauritio e Lazaro', 'Religione vera christiana' (Ripa)"
 http://iconclass.org/11P13,,(four) characteristics of the True Church
-http://iconclass.org/11P14,⛪⚔️,the militant Church (on earth)
+http://iconclass.org/11P14,🌍⛪⚔️,the militant Church (on earth)
 http://iconclass.org/11P15,,the Church symbolized
 http://iconclass.org/11P16,⛪✔️,the (True) Church vs. other churches and ideas
-http://iconclass.org/11P21,,"the early Christian Churches, e.g. Armenians, Copts, Syrians"
+http://iconclass.org/11P21,📜✝️☦️,"the early Christian Churches, e.g. Armenians, Copts, Syrians"
 http://iconclass.org/11P22,☦️⛪,Orthodox Churches
 http://iconclass.org/11P23,✝️⛪,Roman Catholic Church
 http://iconclass.org/11P24,🇬🇧⛪,"non-Roman Catholic Episcopal Churches, e.g. Anglicans"
@@ -2441,9 +2441,9 @@ http://iconclass.org/11P41,,strife of laity and clergy
 http://iconclass.org/11P42,✝️😤✡️,dispute of Christians and Jews
 http://iconclass.org/11P43,,aggression against the Church
 http://iconclass.org/11P44,,persecution of believers
-http://iconclass.org/11P45,⛪🛑,excommunication
+http://iconclass.org/11P45,⛪🚫,excommunication
 http://iconclass.org/11P51,,converts abjuring their former faith
-http://iconclass.org/11P91,,the richness of the Church opposed to Christ's humility
+http://iconclass.org/11P91,✝️💰,the richness of the Church opposed to Christ's humility
 http://iconclass.org/11Q01,,love towards God; 'Amore verso Iddio' (Ripa)
 http://iconclass.org/11Q02,,'Desiderio verso Iddio' (Ripa)
 http://iconclass.org/11Q03,,'Obedienza verso Dio' (Ripa)
@@ -2452,7 +2452,7 @@ http://iconclass.org/11Q11,🙏👤👈,the believer
 http://iconclass.org/11Q12,,"penitence, repentance; 'Penitenza', 'Pentimento', 'Pentimento de'peccati', 'Purgatione de peccati' (Ripa)"
 http://iconclass.org/11Q13,,'Imitatio Christi'
 http://iconclass.org/11Q14,,martyr(s) (often with palm-branches)
-http://iconclass.org/11Q15,,"the Christian knight, 'Miles Christianus'"
+http://iconclass.org/11Q15,✝️♘,"the Christian knight, 'Miles Christianus'"
 http://iconclass.org/11Q16,,"the commandments of the Church, e.g. Sunday observance"
 http://iconclass.org/11Q21,🙏👤,one person praying
 http://iconclass.org/11Q22,📿,"aids for prayer, e.g. rosary"
@@ -2464,7 +2464,7 @@ http://iconclass.org/11Q33,,withdrawal into the wilderness or desert ~ ascetic l
 http://iconclass.org/11Q41,🙏🤔,contemplation
 http://iconclass.org/11Q42,🙏😂,"ecstasy, spiritual exaltation, rapture"
 http://iconclass.org/11Q43,,"stigmatization, stigmata"
-http://iconclass.org/11Q44,,mystic marriage
+http://iconclass.org/11Q44,🔮💒,mystic marriage
 http://iconclass.org/11Q51,📖✨👀,reading the Bible or other religious books
 http://iconclass.org/11Q52,📖✨🎵,"singing of psalms, hymns, etc."
 http://iconclass.org/11Q53,,private religious instruction
@@ -2486,7 +2486,7 @@ http://iconclass.org/11R51,,scenes symbolizing 'Vanitas'
 http://iconclass.org/11R61,,person(s) sitting among objects forming a 'Vanitas' still life
 http://iconclass.org/11R71,,skull as symbol of 'Vanitas'
 http://iconclass.org/11R72,,smoking pot as symbol of 'Vanitas'
-http://iconclass.org/11S11,,"heaven represented in the air, with clouds (in concentric circles) and light"
+http://iconclass.org/11S11,🏰☁✨,"heaven represented in the air, with clouds (in concentric circles) and light"
 http://iconclass.org/11S12,,heaven represented as paradisaical landscape
 http://iconclass.org/11S13,,heaven represented as a meadow
 http://iconclass.org/11S14,,heaven represented as Sea of Glass
@@ -2533,7 +2533,7 @@ http://iconclass.org/11VV6,,"visiting or liberating the imprisoned, 'incarceratu
 http://iconclass.org/11VV7,,"burying the dead, 'mortuus sepellitur' ~ one of the (seven) Acts of Mercy - VV - Christ present"
 http://iconclass.org/11VV8,,the (seven) spiritual Acts of Mercy - VV - Christ present
 http://iconclass.org/11VV9,,works of mercilessness - VV - Christ present
-http://iconclass.org/12A11,,the name of God ~ Jewish religion
+http://iconclass.org/12A11,✡️🔱🏷️,the name of God ~ Jewish religion
 http://iconclass.org/12A21,,"Jewish laws against paganism, idolatry, and blasphemy"
 http://iconclass.org/12A22,✡️⚖️🛁,Jewish laws of cleanliness and uncleanliness
 http://iconclass.org/12A23,✡️⚖️🍽️,"Jewish dietary laws (Leviticus 11, 19:23-24, 23:14; Deuteronomy 12:15-28)"
@@ -2552,7 +2552,7 @@ http://iconclass.org/12A38,✡️🙏,"prayer, praying ~ Jewish religion"
 http://iconclass.org/12A39,✡️🙏🤷,other Jewish rites and ceremonies
 http://iconclass.org/12A41,,worship of God in the open air ~ Jewish religion
 http://iconclass.org/12A42,,"tabernacle, 'mishkan' ~ Jewish religion"
-http://iconclass.org/12A43,📜🕍,the Temple (in general) ~ Jewish religion
+http://iconclass.org/12A43,,the Temple (in general) ~ Jewish religion
 http://iconclass.org/12A44,🕍,the Synagogue (as building and place of worship ~ Jewish religion)
 http://iconclass.org/12A45,,"'Bet Ha-midrash', house of study, 'Schola Judaeorum'"
 http://iconclass.org/12A51,,Messiah
@@ -2576,12 +2576,12 @@ http://iconclass.org/12A78,,Jewish communities
 http://iconclass.org/12A79,,excommunication ~ Jewish congregation
 http://iconclass.org/12A81,✡️🔣,symbols ~ Judaism and Jewry
 http://iconclass.org/12A82,,"religious and magic concepts, occupations, fashions, realities, general ideas ~ Judaism and Jewry"
-http://iconclass.org/12A91,✡️💥,anti-semitic insinuations
+http://iconclass.org/12A91,✡️💥🤔,anti-semitic insinuations
 http://iconclass.org/12A92,,conversion of Jews by force ~ anti-semitism
 http://iconclass.org/12A93,,economic and social measures ~ anti-semitism
 http://iconclass.org/12A94,,outbreaks of violence ~ anti-semitism
 http://iconclass.org/12A95,,anti-semitic organizations
-http://iconclass.org/12A96,,anti-semitic symbols
+http://iconclass.org/12A96,✡️💥🔣,anti-semitic symbols
 http://iconclass.org/12B10,,non-Christian religion personified or symbolized
 http://iconclass.org/12B11,,general ideas ~ non-Christian religions
 http://iconclass.org/12B12,,"supreme being, creator, etc. ~ non-Christian religions"
@@ -2793,14 +2793,14 @@ http://iconclass.org/13B34,,pact with the devil during witches' sabbath
 http://iconclass.org/13B35,,other activities during witches' sabbath
 http://iconclass.org/13B36,,sites for witches' sabbaths
 http://iconclass.org/13B37,,"other gatherings of witches and/or sorcerers, e.g. witches' procession"
-http://iconclass.org/13B41,,"brewing, boiling (in a cauldron); witches' kitchen"
+http://iconclass.org/13B41,🧙🍲,"brewing, boiling (in a cauldron); witches' kitchen"
 http://iconclass.org/13B42,,"bewitching, cursing, casting spells"
 http://iconclass.org/13B43,,"witches controlling the elements, e.g. raising a storm"
 http://iconclass.org/13B44,,witches causing strange torments or passions
-http://iconclass.org/13B45,,"raising the dead by witches, sorcerers"
+http://iconclass.org/13B45,🧙🧟,"raising the dead by witches, sorcerers"
 http://iconclass.org/13B46,,making things or persons invisible
-http://iconclass.org/13B47,,"imps, familiars of witches and sorcerers"
-http://iconclass.org/13B48,,"conjuring book, blackbook, 'grimoire'"
+http://iconclass.org/13B47,🧙🐈‍⬛,"imps, familiars of witches and sorcerers"
+http://iconclass.org/13B48,🧙📖✨,"conjuring book, blackbook, 'grimoire'"
 http://iconclass.org/13B51,,evoking the devil or demons
 http://iconclass.org/13B52,,devil forcing a pact upon those who made him appear while standing in a magic circle
 http://iconclass.org/13B53,,"devil demanding payment of the 'debt', e.g. devil carrying off a child promised to him by a pact"
@@ -2821,10 +2821,10 @@ http://iconclass.org/13C34,,"dowsing-rod, divining-rod"
 http://iconclass.org/13C41,,'birth' of 'homo artificialis'
 http://iconclass.org/13D21,,metamorphosed human beings
 http://iconclass.org/13D31,,"countercharms, e.g. against the evil eye"
-http://iconclass.org/13D41,,"love potion, philtre"
+http://iconclass.org/13D41,🧪❤,"love potion, philtre"
 http://iconclass.org/13E11,,trance caused by ascending vapours
-http://iconclass.org/13E21,,divination with crystal sphere
-http://iconclass.org/13E22,,divination with the aid of cards
+http://iconclass.org/13E21,👉🔮🤔,divination with crystal sphere
+http://iconclass.org/13E22,🔮🤔♣️,divination with the aid of cards
 http://iconclass.org/13E23,,divination with the aid of divining-rod
 http://iconclass.org/13E24,,divination with the aid of coffee-grounds or tea-leaves
 http://iconclass.org/13E25,,divination ~ water: hydromancy
@@ -2833,16 +2833,16 @@ http://iconclass.org/13E27,,divination ~ smoke
 http://iconclass.org/13E29,,other types of divination ~ objects or substances
 http://iconclass.org/13E31,,divination ~ entrails of animals
 http://iconclass.org/13E32,,divination ~ liver of animals
-http://iconclass.org/13E41,,"divination ~ human corpse, necromancy"
-http://iconclass.org/13E42,,"chiromancy, handreading, palmistry"
+http://iconclass.org/13E41,🔮💀,"divination ~ human corpse, necromancy"
+http://iconclass.org/13E42,🔮✋,"chiromancy, handreading, palmistry"
 http://iconclass.org/13E43,,divination ~ external particularities of the human body
 http://iconclass.org/13E44,,divination ~ involuntary movements
 http://iconclass.org/13E61,,'vaticinia ex evento'
-http://iconclass.org/22A21,,chemical reaction
+http://iconclass.org/22A21,🧪💥,chemical reaction
 http://iconclass.org/22A31,,states of matter
 http://iconclass.org/22B11,,spark ~ electricity
 http://iconclass.org/22B21,🧲,magnet
-http://iconclass.org/22B22,,magnetic force
+http://iconclass.org/22B22,🧲↔️,magnetic force
 http://iconclass.org/22C11,,rays of natural light
 http://iconclass.org/22C21,,rays of artificial light
 http://iconclass.org/22C31,,radiance emanating from persons or things
@@ -2862,18 +2862,18 @@ http://iconclass.org/22E32,,Réaumur (temperature scale)
 http://iconclass.org/22E33,,Celsius (temperature scale)
 http://iconclass.org/22E34,,other temperature scales
 http://iconclass.org/23A11,,"other allegories of Time, e.g. 'Tempo' (Ripa)"
-http://iconclass.org/23A21,,serpent Ouroboros
-http://iconclass.org/23A31,,past
-http://iconclass.org/23A32,,present
-http://iconclass.org/23A33,,future
+http://iconclass.org/23A21,🐍🔄,serpent Ouroboros
+http://iconclass.org/23A31,⏳◀️,past
+http://iconclass.org/23A32,⏳▶️,present
+http://iconclass.org/23A33,⏳⏩,future
 http://iconclass.org/23A41,,Time revealing Truth; Time carrying Truth aloft
 http://iconclass.org/23A42,,Time concealing the Past
 http://iconclass.org/23A43,,Time rewarding Industry and punishing Sloth
 http://iconclass.org/23A44,,fugacity of Time
 http://iconclass.org/23A45,,Time abducting Beauty
 http://iconclass.org/23B30,,'Secolo' (Ripa)
-http://iconclass.org/23D21,,winter half-year
-http://iconclass.org/23D22,,summer half-year
+http://iconclass.org/23D21,📅❄️,winter half-year
+http://iconclass.org/23D22,📅☀️,summer half-year
 http://iconclass.org/23D23,,strife of summer and winter
 http://iconclass.org/23D31,,year divided into three seasons (first series)
 http://iconclass.org/23D32,,year divided into three seasons (second series)
@@ -2987,18 +2987,18 @@ http://iconclass.org/23N33,,September ~ other concepts
 http://iconclass.org/23N41,,October ~ other concepts
 http://iconclass.org/23N42,,November ~ other concepts
 http://iconclass.org/23N43,,December ~ other concepts
-http://iconclass.org/23O11,,Capricorn (zodiacal sign of December)
-http://iconclass.org/23O12,,Aquarius (zodiacal sign of January)
-http://iconclass.org/23O13,,Pisces (zodiacal sign of February)
-http://iconclass.org/23O21,,Aries (zodical sign of March)
-http://iconclass.org/23O22,,Taurus (zodiacal sign of April)
-http://iconclass.org/23O23,,Gemini (zodiacal sign of May)
-http://iconclass.org/23O31,,Cancer (zodiacal sign of June)
-http://iconclass.org/23O32,,Leo (zodiacal sign of July)
-http://iconclass.org/23O33,,Virgo (zodiacal sign of August)
-http://iconclass.org/23O41,,Libra (zodiacal sign of September)
-http://iconclass.org/23O42,,Scorpio (zodiacal sign of October)
-http://iconclass.org/23O43,,Sagittarius (zodiacal sign of November)
+http://iconclass.org/23O11,♑,Capricorn (zodiacal sign of December)
+http://iconclass.org/23O12,♒,Aquarius (zodiacal sign of January)
+http://iconclass.org/23O13,♓,Pisces (zodiacal sign of February)
+http://iconclass.org/23O21,♈,Aries (zodical sign of March)
+http://iconclass.org/23O22,♉,Taurus (zodiacal sign of April)
+http://iconclass.org/23O23,♊,Gemini (zodiacal sign of May)
+http://iconclass.org/23O31,♋,Cancer (zodiacal sign of June)
+http://iconclass.org/23O32,♌,Leo (zodiacal sign of July)
+http://iconclass.org/23O33,♍,Virgo (zodiacal sign of August)
+http://iconclass.org/23O41,♎,Libra (zodiacal sign of September)
+http://iconclass.org/23O42,♏,Scorpio (zodiacal sign of October)
+http://iconclass.org/23O43,♐,Sagittarius (zodiacal sign of November)
 http://iconclass.org/23Q81,,the day after tomorrow
 http://iconclass.org/23R10,,"'Giorno naturale', 'Carro del giorno naturale' (Ripa)"
 http://iconclass.org/23R11,,morning
@@ -3030,24 +3030,24 @@ http://iconclass.org/23T26,,"Renaissance (historical epoch, through 16th century
 http://iconclass.org/23T27,,modern division of historical epochs ~ centuries
 http://iconclass.org/23U11,,perpetual calendar
 http://iconclass.org/23U20,,'Horografia' (Ripa)
-http://iconclass.org/23U21,,sundial
-http://iconclass.org/23U22,,hourglass
-http://iconclass.org/23U23,,water clock
-http://iconclass.org/23U24,,clock
-http://iconclass.org/23U25,,watch
+http://iconclass.org/23U21,☀️🕒,sundial
+http://iconclass.org/23U22,⏳,hourglass
+http://iconclass.org/23U23,🌊🕒 ,water clock
+http://iconclass.org/23U24,🕒,clock
+http://iconclass.org/23U25,⌚,watch
 http://iconclass.org/24A11,,dawn
-http://iconclass.org/24A21,,"dusk, evening twilight"
+http://iconclass.org/24A21,🌆,"dusk, evening twilight"
 http://iconclass.org/24A31,,total solar eclipse with corona
 http://iconclass.org/24A51,,sun-spots
-http://iconclass.org/24A52,,"unusual solar phenomena: parhelion or mock sun, spots on solar halo, etc."
+http://iconclass.org/24A52,☀️🤷,"unusual solar phenomena: parhelion or mock sun, spots on solar halo, etc."
 http://iconclass.org/24A71,,"summer solstice, midsummer's day"
 http://iconclass.org/24A72,,autumnal equinox
 http://iconclass.org/24A73,,winter solstice
 http://iconclass.org/24A74,,vernal equinox
 http://iconclass.org/24A81,,sunbeams
-http://iconclass.org/24B11,,waxing moon represented as face
-http://iconclass.org/24B21,,full moon represented as face
-http://iconclass.org/24B31,,waning moon represented as face
+http://iconclass.org/24B11,🌛,waxing moon represented as face
+http://iconclass.org/24B21,🌝,full moon represented as face
+http://iconclass.org/24B31,🌛,waning moon represented as face
 http://iconclass.org/24B61,,moonbeams
 http://iconclass.org/24B62,,"contemplation of the moon, 'schwärmen'"
 http://iconclass.org/24C11,,Ceres (planet)
@@ -3713,8 +3713,8 @@ http://iconclass.org/41C76,,"scents, perfumes ~ stimulants, drugs"
 http://iconclass.org/41C91,,necrophagism
 http://iconclass.org/41CC4,,(family) meal - CC - out of doors
 http://iconclass.org/41CC5,,"celebration meal, feast, banquet - CC - out of doors"
-http://iconclass.org/41D11,,fashion plates
-http://iconclass.org/41D12,,fashion show
+http://iconclass.org/41D11,🖼️👚,fashion plates
+http://iconclass.org/41D12,👚🎭,fashion show
 http://iconclass.org/41D13,,fashion mongering
 http://iconclass.org/41D14,,fashion designer
 http://iconclass.org/41D21,,clothes covering the entire body
@@ -4405,7 +4405,7 @@ http://iconclass.org/46C20,,'Navigatione' (Ripa)
 http://iconclass.org/46C21,,ships (in general)
 http://iconclass.org/46C22,,harbouring
 http://iconclass.org/46C23,,boat propelled by man or animal
-http://iconclass.org/46C24,,"sailing-ship, sailing-boat"
+http://iconclass.org/46C24,⛵,"sailing-ship, sailing-boat"
 http://iconclass.org/46C25,🚢⚙️,"steamship, motorship"
 http://iconclass.org/46C26,,steamsailer
 http://iconclass.org/46C27,,crew and passengers ~ ship
@@ -4774,13 +4774,13 @@ http://iconclass.org/49C32,,scholar in his study
 http://iconclass.org/49C33,,"learned society, academy of sciences"
 http://iconclass.org/49C34,,wandering scholar
 http://iconclass.org/49C41,,"disturbance, interruption of philosophical discussion"
-http://iconclass.org/49D11,,numerals
-http://iconclass.org/49D12,,fundamental arithmetical operations
-http://iconclass.org/49D13,,scales of notation (arithmetic)
+http://iconclass.org/49D11,🔢,numerals
+http://iconclass.org/49D12,➕➖ ✖️ ➗,fundamental arithmetical operations
+http://iconclass.org/49D13,🔢📏,scales of notation (arithmetic)
 http://iconclass.org/49D21,,"algebraic formula, equation, etc."
 http://iconclass.org/49D22,,"statistic diagram, graph; pictorial chart, etc."
 http://iconclass.org/49D30,,"'Planimetria', 'Ichonografia' (Ripa)"
-http://iconclass.org/49D31,,"point (~ planimetry, geometry)"
+http://iconclass.org/49D31,🌍📍,"point (~ planimetry, geometry)"
 http://iconclass.org/49D32,,"line (~ planimetry, geometry)"
 http://iconclass.org/49D33,,"triangle (~ planimetry, geometry)"
 http://iconclass.org/49D34,,"quadrilateral (~ planimetry, geometry)"
@@ -4798,8 +4798,8 @@ http://iconclass.org/49D46,,cylinder ~ stereometry
 http://iconclass.org/49D47,,cone ~ stereometry
 http://iconclass.org/49D48,,"sphere, globe ~ stereometry"
 http://iconclass.org/49D51,,drawing (mathematics)
-http://iconclass.org/49D52,📏,measuring
-http://iconclass.org/49D53,,"counting, calculating"
+http://iconclass.org/49D52,📏⚙️,measuring
+http://iconclass.org/49D53,🧮⚙️,"counting, calculating"
 http://iconclass.org/49D54,🖥️,"computer, equation-solving machine"
 http://iconclass.org/49D61,,set theory
 http://iconclass.org/49D62,,non-Euclidean geometry
@@ -4819,65 +4819,65 @@ http://iconclass.org/49E24,👂💭,acoustics
 http://iconclass.org/49E25,👁️💭,optics
 http://iconclass.org/49E26,⚡🧲,"electromagnetics, electrodynamics"
 http://iconclass.org/49E27,☢️💭,"nuclear, atomic and molecular physics"
-http://iconclass.org/49E31,,chemical symbols
+http://iconclass.org/49E31,🧪🔣,chemical symbols
 http://iconclass.org/49E32,,inorganic chemistry
 http://iconclass.org/49E33,,organic chemistry
 http://iconclass.org/49E39,⚗️🥇,alchemy
-http://iconclass.org/49E51,💎💭,mineralogy
+http://iconclass.org/49E51,💎🔬,mineralogy
 http://iconclass.org/49E61,,meteorological observatory
-http://iconclass.org/49E71,,engineering
+http://iconclass.org/49E71,⚙️🔬,engineering
 http://iconclass.org/49E81,,laboratory apparatus and equipment
 http://iconclass.org/49E91,,"invention, discovery ~ science and technology"
 http://iconclass.org/49F11,,"botanic garden, 'hortus botanicus'"
 http://iconclass.org/49F12,,herbarium
-http://iconclass.org/49F21,,experimental zoology
-http://iconclass.org/49F22,,palaeontology
+http://iconclass.org/49F21,🐾🔬🤷,experimental zoology
+http://iconclass.org/49F22,🦕🔬,palaeontology
 http://iconclass.org/49F31,,craniology
-http://iconclass.org/49G01,,"symbol, emblem, sign ~ medicine"
+http://iconclass.org/49G01,⚕️🖼️,"symbol, emblem, sign ~ medicine"
 http://iconclass.org/49G11,💈✂️,barber; surgeon
 http://iconclass.org/49G12,💈🦷,(barber as) dentist
-http://iconclass.org/49G13,,ophthalmologist
+http://iconclass.org/49G13,👀👨‍⚕️,ophthalmologist
 http://iconclass.org/49G21,🛏️🤒,sick-bed
-http://iconclass.org/49G22,,"nursing, tending the sick"
-http://iconclass.org/49G23,,healing of sick person
-http://iconclass.org/49G24,,"administering, taking medicine"
+http://iconclass.org/49G22,🤒😷,"nursing, tending the sick"
+http://iconclass.org/49G23,🤒🧑‍⚕️,healing of sick person
+http://iconclass.org/49G24,💊🧑‍⚕️,"administering, taking medicine"
 http://iconclass.org/49G25,,"recovery, convalescence of sick person"
 http://iconclass.org/49G26,,person feigning illness
 http://iconclass.org/49G29,,hypochondriac
 http://iconclass.org/49G31,,"examination, diagnosis; physician speaking with patient"
-http://iconclass.org/49G32,,antiseptics
+http://iconclass.org/49G32,🦠🚫,antiseptics
 http://iconclass.org/49G33,,purging
 http://iconclass.org/49G34,🩸💉,"bleeding, blood-letting, e.g.: with the aid of cupping-glasses"
-http://iconclass.org/49G35,,"operation, surgery"
+http://iconclass.org/49G35,⚕️🗡️,"operation, surgery"
 http://iconclass.org/49G36,,course of waters
 http://iconclass.org/49G37,💉,injection ~ medicine
-http://iconclass.org/49G38,,"electrotherapy, radiotherapy"
-http://iconclass.org/49G39,,massage ~ medical treatment
+http://iconclass.org/49G38,⚕️⚡,"electrotherapy, radiotherapy"
+http://iconclass.org/49G39,⚕️👐,massage ~ medical treatment
 http://iconclass.org/49G41,,ward; room (in hospital)
-http://iconclass.org/49G42,,visiting the sick in hospital
+http://iconclass.org/49G42,🤒🏥👀,visiting the sick in hospital
 http://iconclass.org/49G43,👩‍⚕️,nurse ~ hospital
-http://iconclass.org/49G44,,transport of the sick
-http://iconclass.org/49G51,,institution for contagious diseases
-http://iconclass.org/49G52,,"lunatic asylum, mental home"
-http://iconclass.org/49G61,,physiology and anatomy
+http://iconclass.org/49G44,🚑,transport of the sick
+http://iconclass.org/49G51,🏥💭🦠,institution for contagious diseases
+http://iconclass.org/49G52,🏠🤪,"lunatic asylum, mental home"
+http://iconclass.org/49G61,💪🦵🔬,physiology and anatomy
 http://iconclass.org/49G62,,some aspects of anatomy in particular
-http://iconclass.org/49G63,,bacteriology
-http://iconclass.org/49G64,,paediatrics
-http://iconclass.org/49G65,,geriatrics
+http://iconclass.org/49G63,🦠🔬 ,bacteriology
+http://iconclass.org/49G64,👶🔬 ,paediatrics
+http://iconclass.org/49G65,🧓🔬,geriatrics
 http://iconclass.org/49G71,,psychology
 http://iconclass.org/49G72,,psychiatry
 http://iconclass.org/49G81,,"medicament, medicine"
-http://iconclass.org/49G82,,"pharmacist, druggist, apothecary; pharmacy, drugstore, dispensing chemist"
-http://iconclass.org/49G83,,tools and implements of pharmacist
+http://iconclass.org/49G82,🏪,"pharmacist, druggist, apothecary; pharmacy, drugstore, dispensing chemist"
+http://iconclass.org/49G83,🏪🧰,tools and implements of pharmacist
 http://iconclass.org/49G84,,"'gaper', i.e. grotesque yawning head as sign of druggist's shop"
 http://iconclass.org/49G91,,"quack, charlatan, mountebank, 'saltimbanco'"
 http://iconclass.org/49I11,,explorer
-http://iconclass.org/49K10,,'Historia'; 'Historia' (Ripa)
+http://iconclass.org/49K10,📜🔬🖼️,'Historia'; 'Historia' (Ripa)
 http://iconclass.org/49K11,⛏️🏺,excavation ~ archaeology
 http://iconclass.org/49K12,📜📖,"history-book, e.g.: chronicle, annal"
 http://iconclass.org/49K31,,linguistics
 http://iconclass.org/49K32,,language ~ philology
-http://iconclass.org/49L10,,invention of letters
+http://iconclass.org/49L10,🔤🆕,invention of letters
 http://iconclass.org/49L11,✍️👈,"handwriting, writing as activity"
 http://iconclass.org/49L12,🔤,Roman script; scripts based on the Roman alphabet
 http://iconclass.org/49L13,🏛️🔤,Greek script
@@ -4887,18 +4887,18 @@ http://iconclass.org/49L16,,"letter combinations such as letterword, anagram, le
 http://iconclass.org/49L17,,initial
 http://iconclass.org/49L21,🇪🇬🔤,Egyptian hieroglyphs
 http://iconclass.org/49L22,🇮🇶🔤,cuneiform writing
-http://iconclass.org/49L23,,"oriental ideographic script (Chinese, Korean, Japanese)"
-http://iconclass.org/49L24,,"ancient American script (Maya, Aztec, Inca)"
+http://iconclass.org/49L23,🌏🔤,"oriental ideographic script (Chinese, Korean, Japanese)"
+http://iconclass.org/49L24,📜🔤🌎,"ancient American script (Maya, Aztec, Inca)"
 http://iconclass.org/49L25,🖼️🔤,pictograph
 http://iconclass.org/49L26,,"'ars memorandi', mnemotechnics"
 http://iconclass.org/49L27,✍️🏷️,mark of ownership
 http://iconclass.org/49L31,✍️💨,"stenography, shorthand"
-http://iconclass.org/49L32,✍️🤐,"cryptography, secret writing"
-http://iconclass.org/49L33,,mirror writing
+http://iconclass.org/49L32,✍️🤫,"cryptography, secret writing"
+http://iconclass.org/49L33,✍️🪞,mirror writing
 http://iconclass.org/49L51,🖊️,pen
 http://iconclass.org/49L52,✏️,pencil
 http://iconclass.org/49L61,,ink
-http://iconclass.org/49L62,,ink-well
+http://iconclass.org/49L62,✒️🕳️,ink-well
 http://iconclass.org/49L63,,pen-knife
 http://iconclass.org/49L64,,"materials to write on, writing surfaces"
 http://iconclass.org/49L65,,"seal, stamp"
@@ -4910,13 +4910,13 @@ http://iconclass.org/49L73,,banderole
 http://iconclass.org/49M10,,'Stampa' (Ripa)
 http://iconclass.org/49M11,,printing press
 http://iconclass.org/49M12,,persons ~ printing
-http://iconclass.org/49M13,,printing type
-http://iconclass.org/49M14,,"tools, implements of printer"
+http://iconclass.org/49M13,🔤🖨️,printing type
+http://iconclass.org/49M14,🖨️🧰,"tools, implements of printer"
 http://iconclass.org/49M21,⌛💻,typewriter
 http://iconclass.org/49M22,,multiplicator
 http://iconclass.org/49M23,,photostatic apparatus
-http://iconclass.org/49M31,,"single printed leaf: broadsheet, leaflet"
-http://iconclass.org/49M32,,book
+http://iconclass.org/49M31,📰,"single printed leaf: broadsheet, leaflet"
+http://iconclass.org/49M32,📗👈,book
 http://iconclass.org/49M41,📖🖼️,"illustration ~ printed matter, book"
 http://iconclass.org/49M42,,"ornamental decoration ~ printed matter, book"
 http://iconclass.org/49M43,,title-page
@@ -4925,10 +4925,10 @@ http://iconclass.org/49M52,,book with clasps
 http://iconclass.org/49M53,,'Beutelbuch'
 http://iconclass.org/49M71,,second-hand book-shop
 http://iconclass.org/49M72,,"book-stall, kiosk"
-http://iconclass.org/49M91,,archive
+http://iconclass.org/49M91,📦🏦,archive
 http://iconclass.org/49N21,,lectern ~ reading
 http://iconclass.org/49N22,,pointer ~ reading
-http://iconclass.org/49N23,,book-marker
+http://iconclass.org/49N23,🔖,book-marker
 http://iconclass.org/51A11,,the Universe
 http://iconclass.org/51A51,,"Interior, Interiority"
 http://iconclass.org/51AA1,,Non-existence
@@ -4947,7 +4947,7 @@ http://iconclass.org/51BB4,,"Multiformity, Variety"
 http://iconclass.org/51BB5,,Contrariety; 'Contrarietà' (Ripa)
 http://iconclass.org/51BB6,,Originality
 http://iconclass.org/51BB7,,Abnormality
-http://iconclass.org/51CC1,,"Effect, Result"
+http://iconclass.org/51CC1,📊,"Effect, Result"
 http://iconclass.org/51CC2,,"Chance, Haphazard"
 http://iconclass.org/51D21,,Eurhythmy
 http://iconclass.org/51D41,,"Grace, Charm; 'Gratia', 'Venustà' (Ripa)"
@@ -4964,7 +4964,7 @@ http://iconclass.org/51EE1,,Dependence
 http://iconclass.org/51EE2,,Inferiority
 http://iconclass.org/51EE3,,Nonconformity
 http://iconclass.org/51EE4,,Incoherence
-http://iconclass.org/51F51,,Newness
+http://iconclass.org/51F51,🆕👈,Newness
 http://iconclass.org/51F52,,Earliness
 http://iconclass.org/51F71,,Periodicity
 http://iconclass.org/51FF1,,Subsequence
@@ -4997,7 +4997,7 @@ http://iconclass.org/51II5,,Isolation
 http://iconclass.org/51II6,,"Low, Bottom"
 http://iconclass.org/51K11,,Reform; 'Riforma' (Ripa)
 http://iconclass.org/51K31,,Alternation
-http://iconclass.org/51K41,,Revolution
+http://iconclass.org/51K41,🗳️♻️,Revolution
 http://iconclass.org/51KK1,,Permanence
 http://iconclass.org/51KK2,,Immutability
 http://iconclass.org/51KK3,,"Interchange, Exchange"
@@ -5009,7 +5009,7 @@ http://iconclass.org/51LL2,,Irregular Motion
 http://iconclass.org/51LL3,,"Deviation, Divergence"
 http://iconclass.org/51LL4,,"Regression, Backward Movement"
 http://iconclass.org/51LL5,,Descent
-http://iconclass.org/51M11,,"Swiftness, Speed; 'Agilità', 'Celerità', 'Velocità' (Ripa)"
+http://iconclass.org/51M11,💨⏱️,"Swiftness, Speed; 'Agilità', 'Celerità', 'Velocità' (Ripa)"
 http://iconclass.org/51M12,💨,Haste
 http://iconclass.org/51MM1,🐢,Slow Motion
 http://iconclass.org/52A11,,"Attention, Concentration"
@@ -5019,22 +5019,22 @@ http://iconclass.org/52A21,,Method
 http://iconclass.org/52A22,,Tact
 http://iconclass.org/52A23,,"Alertness, Vigilance; 'Guardia', 'Vigilanza', 'Vigilanza per difendersi & oppugnare altri' (Ripa)"
 http://iconclass.org/52A24,,Precaution
-http://iconclass.org/52A41,,"Idea, Concept; 'Idea' (Ripa)"
-http://iconclass.org/52A42,,"Invention, Inventiveness; 'Inventione' (Ripa)"
+http://iconclass.org/52A41,💭👈,"Idea, Concept; 'Idea' (Ripa)"
+http://iconclass.org/52A42,💭🆕,"Invention, Inventiveness; 'Inventione' (Ripa)"
 http://iconclass.org/52A43,,Ingenuity; 'Ingegno' (Ripa)
 http://iconclass.org/52A44,🦄🤷,"Fantasy, Caprice; 'Capriccio' (Ripa)"
-http://iconclass.org/52A51,,"Wisdom; 'Sapienza', 'Sapienza humana', 'Sapienza vera' (Ripa)"
+http://iconclass.org/52A51,💭🦉,"Wisdom; 'Sapienza', 'Sapienza humana', 'Sapienza vera' (Ripa)"
 http://iconclass.org/52A52,,"Judgement, Discrimination; 'Giuditio' (Ripa)"
 http://iconclass.org/52A53,,Self-knowledge
 http://iconclass.org/52A54,,Docility; 'Docilità' (Ripa)
 http://iconclass.org/52A55,,"Subtlety, Acumen, Lucidity, Wit; 'Acutezza de l'Ingegno', 'Sottilità' (Ripa)"
-http://iconclass.org/52AA1,,"Stupidity, Poverty of Intellect; 'Stupidità overo Stolidità' (Ripa)"
-http://iconclass.org/52AA2,,Absent-mindedness
+http://iconclass.org/52AA1,🧠📉,"Stupidity, Poverty of Intellect; 'Stupidità overo Stolidità' (Ripa)"
+http://iconclass.org/52AA2,🙄,Absent-mindedness
 http://iconclass.org/52AA3,,Forgetfulness
 http://iconclass.org/52AA4,,"Lack of Imagination, Inflexibility"
 http://iconclass.org/52AA5,,"Ignorance; 'Ignoranza', 'Ignoranza di tutte le cose', 'Ignoranza in un ricco senza lettere' (Ripa)"
 http://iconclass.org/52AA6,,Falsehood
-http://iconclass.org/52B11,,Contemplation
+http://iconclass.org/52B11,😌🤔👈,Contemplation
 http://iconclass.org/52B12,,Brooding
 http://iconclass.org/52B13,,Fixation
 http://iconclass.org/52B21,,Credulity
@@ -5045,10 +5045,10 @@ http://iconclass.org/52B51,,Reason; 'Ragione' (Ripa)
 http://iconclass.org/52B52,,"Syllogism, Demonstration"
 http://iconclass.org/52B53,,Proof
 http://iconclass.org/52BB1,,Thoughtlessness
-http://iconclass.org/52BB2,,Doubt; 'Dubbio' (Ripa)
-http://iconclass.org/52BB3,,"Surprise, Wonder; 'Maraviglia' (Ripa)"
+http://iconclass.org/52BB2,🙄🤷,Doubt; 'Dubbio' (Ripa)
+http://iconclass.org/52BB3,😮,"Surprise, Wonder; 'Maraviglia' (Ripa)"
 http://iconclass.org/52BB4,,Presumption
-http://iconclass.org/52BB5,,Irrationality
+http://iconclass.org/52BB5,🤪🤔,Irrationality
 http://iconclass.org/52BB6,,Frenzy
 http://iconclass.org/52C11,,Opinion
 http://iconclass.org/52C12,,"Sentence, 'Sententia'"
@@ -5082,15 +5082,15 @@ http://iconclass.org/53BB4,,Unwillingness
 http://iconclass.org/53BB5,,"Disobedience, Contumacy, Insubordination; 'Inubidienza' (Ripa)"
 http://iconclass.org/53BB6,,Indiscipline
 http://iconclass.org/53BB7,,Non-observance
-http://iconclass.org/53C11,,"Authority, Power; 'Dominio', 'Giurisdittione' (Ripa)"
+http://iconclass.org/53C11,👑⚙️,"Authority, Power; 'Dominio', 'Giurisdittione' (Ripa)"
 http://iconclass.org/53C12,,Severity; 'Severità' (Ripa)
 http://iconclass.org/53C13,,Sternness; 'Rigore' (Ripa)
 http://iconclass.org/53C21,,Compulsion
 http://iconclass.org/53C22,,"Menace, Intimidation; 'Minaccie' (Ripa)"
-http://iconclass.org/53CC1,,Subordination
+http://iconclass.org/53CC1,👑🦶,Subordination
 http://iconclass.org/53CC2,,Voluntariness
 http://iconclass.org/53CC3,,Supplication; 'Supplicatione' (Ripa)
-http://iconclass.org/53D11,,Permission
+http://iconclass.org/53D11,💭🎫,Permission
 http://iconclass.org/53D12,,Favour; 'Favore' (Ripa)
 http://iconclass.org/53DD1,,Refusal
 http://iconclass.org/53DD2,,Breach of Promise
@@ -5112,7 +5112,7 @@ http://iconclass.org/54A71,💪♾️,Invincibility
 http://iconclass.org/54A72,🩸♾️,Invulnerability
 http://iconclass.org/54A81,,"Fearlessness, Intrepidity; 'Intrepidità & Costanza' (Ripa)"
 http://iconclass.org/54A82,,"Audacity, Temerity; 'Audacia' (Ripa)"
-http://iconclass.org/54AA1,,Inactivity
+http://iconclass.org/54AA1,😴,Inactivity
 http://iconclass.org/54AA2,,Negligence; 'Negligenza' (Ripa)
 http://iconclass.org/54AA3,,Incompetence
 http://iconclass.org/54AA4,,"Vehemence, Violence, Fierceness; 'Sforza con Inganno', 'Violenza' (Ripa)"
@@ -5160,7 +5160,7 @@ http://iconclass.org/54F12,,"Luck, Fortune, Lot; 'Fato', 'Fortuna', 'Fortuna aur
 http://iconclass.org/54F13,,"Progress, Improvement, Recovery"
 http://iconclass.org/54F14,,Advantage
 http://iconclass.org/54FF1,,Failure
-http://iconclass.org/54FF2,,Defeat
+http://iconclass.org/54FF2,⚔️❌,Defeat
 http://iconclass.org/55A11,,Retention
 http://iconclass.org/55A12,,"Reward, 'Praemium'; 'Premio', 'Remuneratione' (Ripa)"
 http://iconclass.org/55AA1,,Loss
@@ -5174,7 +5174,7 @@ http://iconclass.org/55CC2,,Receiving
 http://iconclass.org/55CC3,,"Borrowing, Hiring"
 http://iconclass.org/55CC4,,Restitution; 'Restitutione' (Ripa)
 http://iconclass.org/55CC5,,"Withholding, Keeping to oneself"
-http://iconclass.org/56A21,,"Ecstasy, Exaltation"
+http://iconclass.org/56A21,😅🤔️,"Ecstasy, Exaltation"
 http://iconclass.org/56AA1,,"Insensibility, Insensitivity"
 http://iconclass.org/56B11,🤣,"Mirth, Hilarity"
 http://iconclass.org/56B12,,Jovialness
@@ -5183,9 +5183,9 @@ http://iconclass.org/56B21,😀♾️,Eternal Bliss; 'Felicità eterna' (Ripa)
 http://iconclass.org/56B22,,Short Felicity; 'Felicità breve' (Ripa)
 http://iconclass.org/56B41,,"Fastidiousness, Epicurism"
 http://iconclass.org/56B42,,"Coarseness, Rusticity"
-http://iconclass.org/56BB1,,"Pain, Sorrow, Sadness; 'Dolore', 'Dolore di Zeusi' (Ripa)"
+http://iconclass.org/56BB1,😧☹️,"Pain, Sorrow, Sadness; 'Dolore', 'Dolore di Zeusi' (Ripa)"
 http://iconclass.org/56BB2,☹️,Unhappiness; 'Infelicità' (Ripa)
-http://iconclass.org/56BB3,🙁,Dissatisfaction
+http://iconclass.org/56BB3,😩,Dissatisfaction
 http://iconclass.org/56BB4,🤢,"Disgust, Dislike, Repulsion, Nausea"
 http://iconclass.org/56CC1,,Insensibility to Beauty
 http://iconclass.org/56CC2,,Depreciation
@@ -5215,7 +5215,7 @@ http://iconclass.org/57A22,,Obligation; 'Obligo' (Ripa)
 http://iconclass.org/57A23,,"Calling, Vocation, Mission"
 http://iconclass.org/57A24,,Task
 http://iconclass.org/57A25,,"Responsibility, Liability"
-http://iconclass.org/57A41,,Regret
+http://iconclass.org/57A41,😰,Regret
 http://iconclass.org/57A42,,"Compunction, Remorse; 'Compuntione' (Ripa)"
 http://iconclass.org/57A43,,Sense of Guilt
 http://iconclass.org/57A61,,Honesty; 'Honestà' (Ripa)
@@ -5249,12 +5249,12 @@ http://iconclass.org/57B31,,"Palliation, Extenuation"
 http://iconclass.org/57BB1,,"Disapprobation, Disapproval, Rebuking"
 http://iconclass.org/57BB2,,"Mockery, Derision, Irreverence; 'Derisione', 'Dispreggio della Virtù' (Ripa)"
 http://iconclass.org/57BB3,,"Accusation, Incrimination"
-http://iconclass.org/58AA1,,Destruction
-http://iconclass.org/58AA2,,Non-procreation
+http://iconclass.org/58AA1,🔥⚙️,Destruction
+http://iconclass.org/58AA2,🍑🍆🤰🚫,Non-procreation
 http://iconclass.org/58AA3,,"Unproductiveness, Fruitlessness, Lost Labour, Wasted Labour"
-http://iconclass.org/58B11,,Germination
-http://iconclass.org/58B21,,"Human Life; 'Vita humana', 'Vita inquieta', 'Vita e l'animo' (Ripa)"
-http://iconclass.org/58B22,,Struggle for Life
+http://iconclass.org/58B11,🌱🆕,Germination
+http://iconclass.org/58B21,🧬👥,"Human Life; 'Vita humana', 'Vita inquieta', 'Vita e l'animo' (Ripa)"
+http://iconclass.org/58B22,🧬😣,Struggle for Life
 http://iconclass.org/58BB1,,"Mortality, Extinction of Life"
 http://iconclass.org/59AA1,,Loneliness; 'Solitudine' (Ripa)
 http://iconclass.org/59AA2,,"Ill-breeding, Bad Taste"
@@ -5262,7 +5262,7 @@ http://iconclass.org/59AA3,😏🍆,Vulgarity
 http://iconclass.org/59AA4,,"Affectation, Mannerism"
 http://iconclass.org/59AA5,,Inhospitality
 http://iconclass.org/59B31,,"Honour, Glory; 'Ampiezza della Gloria', 'Gloria', 'Gloria de prencipi', 'Gloria & Honore', 'Honore', 'Sublimatà della Gloria' (Ripa)"
-http://iconclass.org/59B32,,"Fame; 'Fama', 'Fama buona', 'Fama chiara' (Ripa)"
+http://iconclass.org/59B32,👥🏆🥇,"Fame; 'Fama', 'Fama buona', 'Fama chiara' (Ripa)"
 http://iconclass.org/59B33,,Respectability; 'Precedenza et Preminenza de titoli' (Ripa)
 http://iconclass.org/59B34,,Illustriousness; 'Chiarezza' (Ripa)
 http://iconclass.org/59B41,,"Regality, Majesty; 'Maestà regia', 'Regalità' (Ripa)"
@@ -5273,40 +5273,40 @@ http://iconclass.org/59BB4,,Despicableness
 http://iconclass.org/59BB5,,Demerit
 http://iconclass.org/59C21,,"Equality, Equity, Fairness, Righteousness; 'Equalità', 'Equità', 'Giuditio giusto', 'Ordine dritto e giusto', 'Ugualità' (Ripa)"
 http://iconclass.org/59C22,,Impartiality
-http://iconclass.org/59CC1,,Violation of the Law
+http://iconclass.org/59CC1,⚖️💥,Violation of the Law
 http://iconclass.org/59CC2,,Injustice; 'Ingiustitia' (Ripa)
-http://iconclass.org/59CC3,,Illegality
-http://iconclass.org/61B11,,anonymous historical person portrayed
-http://iconclass.org/61B12,🖼️📜👥,scenes ~ anonymous historical person(s)
+http://iconclass.org/59CC3,⚖️❌,Illegality
+http://iconclass.org/61B11,📜👥🏷️🤷🖼️,anonymous historical person portrayed
+http://iconclass.org/61B12,🏞️📜👥🏷️🤷🖼️,scenes ~ anonymous historical person(s)
 http://iconclass.org/61BB1,,historical persons not known by name - BB - woman
-http://iconclass.org/61BB2,,historical persons - BB - woman
+http://iconclass.org/61BB2,📜👥♀️,historical persons - BB - woman
 http://iconclass.org/71A11,,the earth formless and desolate
 http://iconclass.org/71A12,,the spirit of God moves upon the waters
-http://iconclass.org/71A21,,division of light and darkness
+http://iconclass.org/71A21,⬛⬜,division of light and darkness
 http://iconclass.org/71A22,,creation of the firmament and division of the waters above and below it
-http://iconclass.org/71A23,,gathering of the waters below the firmament; dry land appears and produces all kinds of plants
-http://iconclass.org/71A24,,"creation of sun, moon and stars"
+http://iconclass.org/71A23,💡🌊,gathering of the waters below the firmament; dry land appears and produces all kinds of plants
+http://iconclass.org/71A24,💡☀️,"creation of sun, moon and stars"
 http://iconclass.org/71A25,,creation of the animals ~ Genesis
 http://iconclass.org/71A31,,God fashions man from clay
 http://iconclass.org/71A32,,God planting the Garden of Eden
 http://iconclass.org/71A33,🏞️🍎🐍👤,Adam in the Garden of Eden
 http://iconclass.org/71A34,,creation of Eve
-http://iconclass.org/71A35,🏞️🍎🐍👥,Adam and Eve in paradise (before the Fall)
+http://iconclass.org/71A35,🏞️🍎🐍👫,Adam and Eve in paradise (before the Fall)
 http://iconclass.org/71A36,✝️🔱📅💤,God rests on the seventh day
-http://iconclass.org/71A41,🍎🐍😭,Temptation and Fall (scenes with Eve alone)
+http://iconclass.org/71A41,,Temptation and Fall (scenes with Eve alone)
 http://iconclass.org/71A42,🍎🐍😭👫,Temptation and Fall (scenes with both Adam and Eve)
 http://iconclass.org/71A51,🍎🐍😰,Adam and/or Eve overcome with repentance
 http://iconclass.org/71A52,,God walks in the Garden of Eden
-http://iconclass.org/71A53,,Adam and Eve reproved by God
+http://iconclass.org/71A53,✝️🔱🤬🍎🐍,Adam and Eve reproved by God
 http://iconclass.org/71A54,,the punishment of Adam and Eve
-http://iconclass.org/71A55,,Adam and Eve are clothed by God
+http://iconclass.org/71A55,✝️🔱👚👫🍎🐍,Adam and Eve are clothed by God
 http://iconclass.org/71A61,,God expels Adam and Eve from paradise and has the tree of life guarded by an angel with a flaming sword
 http://iconclass.org/71A62,,"Adam and Eve outside Eden, whose entrance is guarded by shining cherubim"
 http://iconclass.org/71A63,🍎🐍🙏👫,Adam and Eve doing penance
 http://iconclass.org/71A71,🍎🐍🤰,Eve pregnant
 http://iconclass.org/71A72,,Adam (and Eve) engaged in agricultural activities
 http://iconclass.org/71A73,,"education, upbringing of Cain and Abel"
-http://iconclass.org/71A81,,"the sacrifice of Cain and Abel: Abel offers a lamb, Cain usually a sheaf of corn"
+http://iconclass.org/71A81,🍎🐍👶👶🗡️,"the sacrifice of Cain and Abel: Abel offers a lamb, Cain usually a sheaf of corn"
 http://iconclass.org/71A82,,"the killing of Abel: Cain slays him with a stone, a club or a jaw-bone, alternatively with a spade or another tool as weapon"
 http://iconclass.org/71A83,,the curse and flight of Cain
 http://iconclass.org/71A84,,later life of Cain
@@ -5327,13 +5327,13 @@ http://iconclass.org/71B26,,story of Methuselah
 http://iconclass.org/71B27,,"story of Lamech, son of Methuselah"
 http://iconclass.org/71B31,,before the Flood (Genesis 6-7:4)
 http://iconclass.org/71B32,🚢🚧🐑🐏,"the building of the ark, and the embarkation (Genesis 7:5-9)"
-http://iconclass.org/71B33,,the Flood and destruction of mankind ~ story of Noah (Genesis 7:10 - 8:17)
+http://iconclass.org/71B33,⛈️🌊🌍,the Flood and destruction of mankind ~ story of Noah (Genesis 7:10 - 8:17)
 http://iconclass.org/71B34,,the disembarkation ~ story of Noah (Genesis 8:18 - 9:17)
 http://iconclass.org/71B35,,Noah as wine-grower (Genesis 9:18-27)
 http://iconclass.org/71B36,,Noah's declining years (Genesis 9:28-29)
 http://iconclass.org/71B37,,"Noah's descendants (Genesis 10, 11:10-26)"
 http://iconclass.org/71B41,,the journey to Shinar
-http://iconclass.org/71B42,,the Tower of Babel
+http://iconclass.org/71B42,🗼🗣️,the Tower of Babel
 http://iconclass.org/71C11,,story of Abraham (part I)
 http://iconclass.org/71C12,,story of Abraham (part II)
 http://iconclass.org/71C13,,the story of Abraham (part III)
@@ -6091,7 +6091,7 @@ http://iconclass.org/73D92,,Christ enters hell
 http://iconclass.org/73D93,,Christ gains victory over diabolic powers
 http://iconclass.org/73D94,,"Christ leaving hell: he liberates patriarchs, prophets, kings and other persons from hell, among them Adam, Eve, Moses, David, and John the Baptist"
 http://iconclass.org/73D95,,"triumphal arrival in paradise of Christ and of those he rescued; they are received by Mary, by Enoch and Elijah, or by the Good Malefactor"
-http://iconclass.org/73E11,,events just before the Resurrection
+http://iconclass.org/73E11,⏪✝🧟,events just before the Resurrection
 http://iconclass.org/73E12,,"Christ, usually holding a banner, arises from the grave; often combined with sleeping and/or frightened soldiers"
 http://iconclass.org/73E13,,events immediately after the Resurrection
 http://iconclass.org/73E14,,symbolic representations of the Resurrection
@@ -6223,8 +6223,8 @@ http://iconclass.org/91E22,,"the silver age, 'Aetas argentea'; men plough the so
 http://iconclass.org/91E23,,"the bronze age, 'Aetas aenea'; characterized by Minerva and building activities"
 http://iconclass.org/91E24,,"the iron age, 'Aetas ferrea'; characterized by Mars, war and rapine"
 http://iconclass.org/91E31,,"Vulcan, assisted by Aeolus, as teacher of mankind"
-http://iconclass.org/91E32,🔥💡,discovery of fire
-http://iconclass.org/91E33,,"making of primitive buildings, e.g.: huts"
+http://iconclass.org/91E32,💡🔥,discovery of fire
+http://iconclass.org/91E33,🛖🔨,"making of primitive buildings, e.g.: huts"
 http://iconclass.org/91E41,,"(story of) Prometheus - early life, prime youth"
 http://iconclass.org/91E42,,(story of) Prometheus - love-affairs
 http://iconclass.org/91E43,,(story of) Prometheus - most important deeds
@@ -6429,8 +6429,8 @@ http://iconclass.org/92G46,,"(story of) Momus - suffering, misfortune"
 http://iconclass.org/92G47,,"(story of) Momus - specific aspects, allegorical aspects, as patron of"
 http://iconclass.org/92G48,,(story of) Momus - attributes
 http://iconclass.org/92G49,,"(story of) Momus - offspring, companion(s), train etc."
-http://iconclass.org/92H11,,"early life, prime youth of Neptune"
-http://iconclass.org/92H12,,love-affairs of Neptune
+http://iconclass.org/92H11,📖🌊🔱👶,"early life, prime youth of Neptune"
+http://iconclass.org/92H12,📖🌊🔱💘,love-affairs of Neptune
 http://iconclass.org/92H13,,(story of) Neptune (Poseidon) - most important deeds
 http://iconclass.org/92H14,,"aggressive, unfriendly activities and relationships of Neptune"
 http://iconclass.org/92H15,,"(story of) Neptune (Poseidon) - non-aggressive, friendly or neutral activities and relationships"
@@ -6535,7 +6535,7 @@ http://iconclass.org/92L66,,"(story of) Priapus - suffering, misfortune"
 http://iconclass.org/92L67,,"specific aspects, allegorical aspects of Priapus; Priapus as patron"
 http://iconclass.org/92L68,,(story of) Priapus - attributes
 http://iconclass.org/92L69,,"(story of) Priapus - offspring, companion(s), train etc."
-http://iconclass.org/92L71,♐🏹,centaurs (in general)
+http://iconclass.org/92L71,,centaurs (in general)
 http://iconclass.org/92L72,,single named centaurs
 http://iconclass.org/92M11,,"(story of) Ceres (Demeter) - early life, prime youth"
 http://iconclass.org/92M12,,love-affairs of Ceres
@@ -7051,7 +7051,7 @@ http://iconclass.org/97N51,,"Laelaps turns into stone as he helps Amphitryon to 
 http://iconclass.org/97N71,,"a snake is turned into stone by Apollo as it attacks Orpheus' severed head washed ashore (Ovid, Metamorphoses XI 58)"
 http://iconclass.org/97N72,,"a snake is turned into stone by Jupiter, after swallowing eight young birds and their mother (when the Greeks are assembled in Aulis before sailing to Troy)"
 http://iconclass.org/97O71,,Midas washes away the fatal gift in the river Pactolus
-http://iconclass.org/11A221,,circle symbolizing God's perfectness
+http://iconclass.org/11A221,✝🔱⚪,circle symbolizing God's perfectness
 http://iconclass.org/11B111,,three concentric circles ~ Trinity
 http://iconclass.org/11B112,,three interlocked circles ~ Trinity
 http://iconclass.org/11B113,,"triangle (within circle), with eye or tetragram ~ Trinity"
@@ -7061,12 +7061,12 @@ http://iconclass.org/11B121,,"'Tricephalus', three fused heads or faces only (~ 
 http://iconclass.org/11B311,,Trinity as three identical persons
 http://iconclass.org/11B312,,Father and Holy Ghost holding the crucified Christ (~ Trinity)
 http://iconclass.org/11B321,,"God the Father seated, holding the youthful Christ (Emmanuel) in his lap"
-http://iconclass.org/11B322,,God the Father and Christ enthroned
+http://iconclass.org/11B322,✝️👑💺👴👶,God the Father and Christ enthroned
 http://iconclass.org/11B323,,God the Father holding the crucified or dead Christ
 http://iconclass.org/11B331,,"representation of the Trinity: person (Father), lamb (Son), and dove (Holy Ghost)"
 http://iconclass.org/11B332,,"representation of the Trinity: person (Father), lion (Son), and dove (Holy Ghost)"
 http://iconclass.org/11B333,,"representation of the Trinity: symbol (Father), person (Son), dove (Holy Ghost)"
-http://iconclass.org/11C211,,"God the Father enthroned, usually with sceptre and/or globe"
+http://iconclass.org/11C211,✝️👴🌍💺,"God the Father enthroned, usually with sceptre and/or globe"
 http://iconclass.org/11C221,,"God the Father (resembling Jupiter) enthroned, usually with sceptre and/or globe"
 http://iconclass.org/11C231,,"God the Father (as bearded old man) enthroned, usually with crown or tiara, and with sceptre and/or globe"
 http://iconclass.org/11D111,,"alpha and omega, sometimes with wreath, triangle, instruments of the Passion, etc. ~ symbol of Christ"
@@ -7089,7 +7089,7 @@ http://iconclass.org/11D235,,"Christ-child winding a crown of thorns, or with th
 http://iconclass.org/11D236,,Christ-child carrying the cross
 http://iconclass.org/11D237,,Christ-child kneeling before the cross
 http://iconclass.org/11D238,,Christ-child sleeping on the cross
-http://iconclass.org/11D241,,Christ-child in or on a chalice
+http://iconclass.org/11D241,✝️👶🏆,Christ-child in or on a chalice
 http://iconclass.org/11D242,,Christ-child in the mystic mill
 http://iconclass.org/11D261,,Christ 'Emmanuel'
 http://iconclass.org/11D311,,"'Mandylion', i.e. portrait, perhaps made for King Abgar of Edessa by Christ himself, by pressing his face against a cloth"
@@ -7124,7 +7124,7 @@ http://iconclass.org/11D356,,Christ crucified on a 'living' cross
 http://iconclass.org/11D357,,the Virtues ~ crucified Christ
 http://iconclass.org/11D411,,legend of the True Cross
 http://iconclass.org/11D412,,legend of the bleeding Holy Lance
-http://iconclass.org/11D413,,legend of the Holy Grail
+http://iconclass.org/11D413,📖✝️🏆,legend of the Holy Grail
 http://iconclass.org/11D414,,"the prophecy of Basilides: on his way to Jerusalem, emperor Titus consults Basilides the Carmelite, who shows him a vision of God the Father with the dead Christ"
 http://iconclass.org/11D421,,the Seven Bleedings of Christ
 http://iconclass.org/11D422,❤️✝️,the Sacred Heart
@@ -7161,16 +7161,16 @@ http://iconclass.org/11F236,,'Aehrenkleidmaria' (sometimes with Christ-child)
 http://iconclass.org/11F241,,Our Lady of the Sorrows
 http://iconclass.org/11F242,,Our Lady of the Joys
 http://iconclass.org/11F243,😇🤰🦄,Mary and the unicorn
-http://iconclass.org/11F244,🤰👑,Mary enthroned
+http://iconclass.org/11F244,🤰👑💺,Mary enthroned
 http://iconclass.org/11F251,😇🤰😢,Mary weeping
 http://iconclass.org/11F252,😇🤰🗡️,Mary pierced by a sword
 http://iconclass.org/11F253,,Mary with the instruments of the Passion
-http://iconclass.org/11F261,😇🤰👻👰🕊️,Mary as bride of the Holy Ghost (with a dove on her bosom)
+http://iconclass.org/11F261,👻👰🕊️,Mary as bride of the Holy Ghost (with a dove on her bosom)
 http://iconclass.org/11F262,🤰🐑,Mary as shepherdess
 http://iconclass.org/11F263,,Mary as pilgrim
 http://iconclass.org/11F264,,"Mary as hermit (after Christ's death), 'Nostra señora de la Soledad'"
-http://iconclass.org/11F265,😇🤰🩺,Mary as doctor
-http://iconclass.org/11F266,😇🤰⚔️🏆👿,Mary conquering the devil
+http://iconclass.org/11F265,😇🤰👩‍⚕️,Mary as doctor
+http://iconclass.org/11F266,😇🤰️🏆👿,Mary conquering the devil
 http://iconclass.org/11F267,,Mary saving soul(s)
 http://iconclass.org/11F268,,"Mary as priestess, administering the Eucharist"
 http://iconclass.org/11F411,,"Mary standing (or half-length), the Christ-child in front of her, close to her bosom"
@@ -7306,7 +7306,7 @@ http://iconclass.org/11NN34,,Covetousness; 'Avaritia' (Ripa) ~ personification o
 http://iconclass.org/11NN35,,"Gluttony, Intemperance, 'Gula'; 'Gola', 'Ingordigia', 'Ingordigia overo Avidità', 'Voracità' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph"
 http://iconclass.org/11NN36,,"Lust, Luxury, 'Luxuria'; 'Lussuria' (Ripa) ~ personification of one of the Deadly Sins - NN - triumph"
 http://iconclass.org/11NN37,,"Sloth, Indolence, 'Acedia', 'Desidia'; 'Accidia' (Ripa) ~ personification of one of the Seven Deadly Sins - NN - triumph"
-http://iconclass.org/11P110,,triumph of the Church (or Religion)
+http://iconclass.org/11P110,⛪🏆,triumph of the Church (or Religion)
 http://iconclass.org/11P111,,'Ecclesia' born from Christ's side
 http://iconclass.org/11P112,,"'Ecclesia' as bride of Christ (the Lamb), 'Ecclesia sponsa Dei', 'sponsus-sponsa'"
 http://iconclass.org/11P113,,'Ecclesia ex circumcisione'
@@ -7321,7 +7321,7 @@ http://iconclass.org/11P132,,Sanctity ~ characteristic of the True Church
 http://iconclass.org/11P133,,Catholicity ~ characteristic of the True Church
 http://iconclass.org/11P134,,Apostolicity ~ characteristic of the True Church
 http://iconclass.org/11P141,,the militant Church suffering (in purgatory)
-http://iconclass.org/11P142,,the militant Church triumphant (in heaven)
+http://iconclass.org/11P142,☁️⛪⚔️,the militant Church triumphant (in heaven)
 http://iconclass.org/11P161,,Christian Religion vs. Mohammedanism
 http://iconclass.org/11P162,,the Church or Christian religion vs. paganism and unbelief
 http://iconclass.org/11P163,,"the True Church vs. the False Church, heresy or sectarianism; schism"
@@ -7350,7 +7350,7 @@ http://iconclass.org/11P342,,"organizations, assemblies, etc. in Protestant chur
 http://iconclass.org/11P351,,functionaries and dignitaries ~ movements related with or derived from Protestant churches
 http://iconclass.org/11P352,,"organizations, assemblies, etc. in movements related with or derived from Protestant churches"
 http://iconclass.org/11P361,,Christian sects
-http://iconclass.org/11P362,,Salvation Army
+http://iconclass.org/11P362,✝️💂,Salvation Army
 http://iconclass.org/11P371,,religious instruction of clergy
 http://iconclass.org/11P372,,"religious instruction of laity, e.g. Sunday School"
 http://iconclass.org/11P431,,disturbance of religious service
@@ -7415,8 +7415,8 @@ http://iconclass.org/11Q758,,procession ~ Christian religion
 http://iconclass.org/11Q759,,exorcism
 http://iconclass.org/11Q761,,cycle ~ birth of Christ
 http://iconclass.org/11Q762,,"Passion cycle, Lent"
-http://iconclass.org/11Q763,✝️🥚,Easter
-http://iconclass.org/11Q764,,Ascension Day
+http://iconclass.org/11Q763,📅✝️🥚,Easter
+http://iconclass.org/11Q764,📅✝️🧟,Ascension Day
 http://iconclass.org/11Q765,,"Pentecost, Whitsunday"
 http://iconclass.org/11Q766,,Mary-days
 http://iconclass.org/11Q767,,other feasts of the ecclesiastical year
@@ -7455,7 +7455,7 @@ http://iconclass.org/11VV85,,bearing injustice patiently ~ one of the (seven) sp
 http://iconclass.org/11VV86,,forgiving injuries ~ one of the (seven) spiritual Acts of Mercy - VV - Christ present
 http://iconclass.org/11VV87,,praying for the living and the dead ~ one of the (seven) spiritual Acts of Mercy - VV - Christ present
 http://iconclass.org/12A111,,tetragram (in Hebrew script) ~ Jewish religion
-http://iconclass.org/12A112,,other names of God ~ Jewish religion
+http://iconclass.org/12A112,✡️🔱🏷️🤷,other names of God ~ Jewish religion
 http://iconclass.org/12A211,,"Jewish law against idolatry (Exodus 20:3; Leviticus 20; Deuteronomy 12-13, 18:9-14)"
 http://iconclass.org/12A212,✡️⚖️🤬,Jewish law against blasphemy (Exodus 20:4)
 http://iconclass.org/12A221,,Jewish laws concerning leprosy (Leviticus 13-14)
@@ -7463,7 +7463,7 @@ http://iconclass.org/12A222,✡️⚖️♀️🩸,Jewish laws concerning menstr
 http://iconclass.org/12A223,,Jewish laws concerning purification of women after childbirth (Leviticus 12)
 http://iconclass.org/12A231,,Jewish law ~ clean and unclean animals (Deuteronomy 14:3-21)
 http://iconclass.org/12A232,,"Jewish dietary law ~ prohibited mixtures (Exodus 23:19, 34:26; Deuteronomy 16:21, 22:9-11)"
-http://iconclass.org/12A233,,Jewish dietary law ~ slaughtering (Leviticus 17)
+http://iconclass.org/12A233,✡️⚖🐾🗡️,Jewish dietary law ~ slaughtering (Leviticus 17)
 http://iconclass.org/12A251,✡️👑,king ~ Jewish culture
 http://iconclass.org/12A252,,"great assembly, great synagogue, 'Keneset ha-Gedolah' ~ Jewish culture"
 http://iconclass.org/12A253,,courts of justice ~ Jewish culture
@@ -7472,7 +7472,7 @@ http://iconclass.org/12A311,,"the altar of incense, the golden altar ~ Jewish re
 http://iconclass.org/12A312,,"the altar of burnt offering, the brazen altar ~ Jewish religion"
 http://iconclass.org/12A321,,sacrifice of the paschal lamb ~ Jewish religion
 http://iconclass.org/12A322,,sacrifice of the scapegoat ~ Jewish religion
-http://iconclass.org/12A323,,sacrifice of turtle doves ~ Jewish religion
+http://iconclass.org/12A323,✡️🕊️🗡️,sacrifice of turtle doves ~ Jewish religion
 http://iconclass.org/12A331,,"'minhah', meal-offering, grain offering ~ Jewish religion"
 http://iconclass.org/12A341,,daily services in the Temple ~ Jewish religion
 http://iconclass.org/12A342,🕍📅,daily services in the Synagogue ~ Jewish religion
@@ -7480,8 +7480,8 @@ http://iconclass.org/12A351,,priestly blessing (with arms raised) ~ Jewish relig
 http://iconclass.org/12A352,,other blessings or benedictions ~ Jewish religion
 http://iconclass.org/12A353,,blessing gestures ~ Jewish religion
 http://iconclass.org/12A361,,ablution of hands ~ Jewish religion
-http://iconclass.org/12A362,✡️🦶🛁,washing of the feet ~ Jewish religion
-http://iconclass.org/12A363,,immersion of the body ~ Jewish religion
+http://iconclass.org/12A362,✡️🦶🧼,washing of the feet ~ Jewish religion
+http://iconclass.org/12A363,✡️🛀,immersion of the body ~ Jewish religion
 http://iconclass.org/12A381,,the basic prayers ~ Jewish religion
 http://iconclass.org/12A382,,private prayers ~ Jewish religion
 http://iconclass.org/12A383,,"'siddur', Jewish prayer book"
@@ -7546,10 +7546,10 @@ http://iconclass.org/12A721,,"'bar mitzvah', Jewish initiatory rites for boys of
 http://iconclass.org/12A722,,confirmation (for boys and girls) ~ Jewish ceremonies
 http://iconclass.org/12A731,,"'kiddushin', Jewish wedding"
 http://iconclass.org/12A732,,levirate marriage ~ Jewish customs
-http://iconclass.org/12A733,,divorce ~ Jewish customs
+http://iconclass.org/12A733,✡💔,divorce ~ Jewish customs
 http://iconclass.org/12A741,,placing earth of Palestine in the coffin ~ Jewish burial
 http://iconclass.org/12A742,,washing of hands before leaving cemetery ~ Jewish burial
-http://iconclass.org/12A743,✡️🖤,Jewish mourning customs
+http://iconclass.org/12A743,✡️💀😭,Jewish mourning customs
 http://iconclass.org/12A744,,commemoration of the dead ~ Jewish customs
 http://iconclass.org/12A751,🕍🚶,going to the synagogue ~ personal duties in Jewish life
 http://iconclass.org/12A752,,giving hospitality ~ personal duties in Jewish life
@@ -7770,10 +7770,10 @@ http://iconclass.org/13B343,,devil giving blackbook in exchange for the gospels 
 http://iconclass.org/13B344,,witches receiving powder or ointment to ravage the land ~ witches' sabbath
 http://iconclass.org/13B351,,banqueting ~ witches' sabbath
 http://iconclass.org/13B352,,dancing ~ witches' sabbath
-http://iconclass.org/13B411,,collecting herbs and other materials by witches or sorcerers
-http://iconclass.org/13B412,,"potion, ointment ~ witches' kitchen"
-http://iconclass.org/13B421,,bewitching ~ poison
-http://iconclass.org/13B422,,"bewitching ~ wax or clay images, 'envoûtement'"
+http://iconclass.org/13B411,🧙🌿,collecting herbs and other materials by witches or sorcerers
+http://iconclass.org/13B412,🧙🧪,"potion, ointment ~ witches' kitchen"
+http://iconclass.org/13B421,🧙🧪💀,bewitching ~ poison
+http://iconclass.org/13B422,🧙🕯️🖼️,"bewitching ~ wax or clay images, 'envoûtement'"
 http://iconclass.org/13B423,🧙📖🎵,"incantation, magic sentence"
 http://iconclass.org/13B451,🧟,zombie
 http://iconclass.org/13B511,,"place to evoke devil and demons, ruined house, abandoned castle"
@@ -7787,7 +7787,7 @@ http://iconclass.org/13C221,,pentagram ~ magic mathematical figures
 http://iconclass.org/13C222,,six pointed star ~ magic mathematical figures
 http://iconclass.org/13C241,,'triple enceinte'
 http://iconclass.org/13D211,🐺🌙,"werewolf, lycanthrope"
-http://iconclass.org/13D212,,'Katzenmensch'
+http://iconclass.org/13D212,🐱,'Katzenmensch'
 http://iconclass.org/13D213,🧛,"vampire, e.g. Dracula"
 http://iconclass.org/13E221,🃏🤔,tarot
 http://iconclass.org/13E411,,necromancer
@@ -7797,8 +7797,8 @@ http://iconclass.org/13E432,,divination ~ significant lines in the face (forehea
 http://iconclass.org/22A311,,solid (state of matter)
 http://iconclass.org/22A312,,liquid (state of matter)
 http://iconclass.org/22A313,,gas (state of matter)
-http://iconclass.org/22B221,🧲,"attractive force, attraction ~ magnetic force"
-http://iconclass.org/22B222,,"repulsive force, repulsion ~ magnetic force"
+http://iconclass.org/22B221,🧲⬅️,"attractive force, attraction ~ magnetic force"
+http://iconclass.org/22B222,🧲➡️,"repulsive force, repulsion ~ magnetic force"
 http://iconclass.org/22C311,,"nimbus, halo ~ radiance emanating from persons or things"
 http://iconclass.org/22C312,,mandorla
 http://iconclass.org/22D110,,'Armonia' (Ripa)
@@ -8407,13 +8407,13 @@ http://iconclass.org/31D111,,"infant, baby ~ the ages of man"
 http://iconclass.org/31D112,,child
 http://iconclass.org/31D120,,"Youth, Adolescence, 'Iuventus'; 'Adolescenza', 'Gioventù' (Ripa)"
 http://iconclass.org/31D130,,Maidenhood
-http://iconclass.org/31D140,,"Adulthood, Majority; 'Virilità' (Ripa)"
-http://iconclass.org/31D150,,Womanhood
+http://iconclass.org/31D140,🔞,"Adulthood, Majority; 'Virilità' (Ripa)"
+http://iconclass.org/31D150,🔞♀️,Womanhood
 http://iconclass.org/31D160,,"Old Age, 'Senectus'; 'Vecchiezza' (Ripa)"
 http://iconclass.org/31D161,,'beau vieillard'
-http://iconclass.org/31D162,,ugly old man
-http://iconclass.org/31D171,,"beautiful old woman, 'belle vieille'"
-http://iconclass.org/31D172,,"ugly old woman, hag"
+http://iconclass.org/31D162,👴👹,ugly old man
+http://iconclass.org/31D171,👵💅,"beautiful old woman, 'belle vieille'"
+http://iconclass.org/31D172,👵👹,"ugly old woman, hag"
 http://iconclass.org/31D910,,'Vita longa' (Ripa)
 http://iconclass.org/31D920,,"'Velocità della vita humana', 'Vita breve' (Ripa)"
 http://iconclass.org/31DD30,,0-10 years - DD - decades above 100 years
@@ -8426,7 +8426,7 @@ http://iconclass.org/31DD36,,60-70 years - DD - decades above 100 years
 http://iconclass.org/31DD37,,70-80 years - DD - decades above 100 years
 http://iconclass.org/31DD38,,80-90 years - DD - decades above 100 years
 http://iconclass.org/31DD39,,90-100 years - DD - decades above 100 years
-http://iconclass.org/31E111,,making a testament
+http://iconclass.org/31E111,⚖️💬,making a testament
 http://iconclass.org/31E112,,assembly of relatives ~ dying person
 http://iconclass.org/31E113,,"last words and last favours, nuncupate"
 http://iconclass.org/31E121,,death with faith (peaceful death) versus death without faith (fear of death)
@@ -8612,11 +8612,11 @@ http://iconclass.org/36B111,💩🌬️,air pollution
 http://iconclass.org/36B112,💩🌊,water pollution
 http://iconclass.org/36B113,💩🌱,soil pollution
 http://iconclass.org/41A111,,"hôtel, i.e. small palace in city"
-http://iconclass.org/41A121,,fortified house in city
+http://iconclass.org/41A121,🏰🏠🏙️,fortified house in city
 http://iconclass.org/41A141,,the usual house or row of houses
 http://iconclass.org/41A142,🏠🏪,house combined with shop
 http://iconclass.org/41A143,🏠🏙️,detached house in city
-http://iconclass.org/41A144,,"flat-building, apartment house"
+http://iconclass.org/41A144,🏬,"flat-building, apartment house"
 http://iconclass.org/41A161,🏞️🏠,country-house
 http://iconclass.org/41A162,,villa
 http://iconclass.org/41A163,,cottage
@@ -9702,9 +9702,9 @@ http://iconclass.org/45M391,,sabotage by partisans
 http://iconclass.org/46A111,,"the three Estates: nobility, clergy, commoners"
 http://iconclass.org/46A112,,other divisions into classes (~ society)
 http://iconclass.org/46A121,,coronet
-http://iconclass.org/46A122,,"armorial bearing, heraldry"
+http://iconclass.org/46A122,🛡️🏳️,"armorial bearing, heraldry"
 http://iconclass.org/46A123,🛡️🖼️,herald
-http://iconclass.org/46A124,,knight
+http://iconclass.org/46A124,♘,knight
 http://iconclass.org/46A125,,"becoming a knight, knighting"
 http://iconclass.org/46A126,,"the nine worthies, 'les neuf preux'"
 http://iconclass.org/46A127,,"men of name or fame, heroes, 'homines illustres', 'uomini famosi'"
@@ -10377,10 +10377,10 @@ http://iconclass.org/48C873,,genres ~ film
 http://iconclass.org/48C901,,"symbolic representations, allegories and emblems ~ poetry; 'Poesia' (Ripa)"
 http://iconclass.org/48C902,,"symbolic representations, allegories and emblems ~ prose"
 http://iconclass.org/48C910,,inspiration of the poet; 'Furore poetico' (Ripa)
-http://iconclass.org/48C911,,"author, poet writing"
+http://iconclass.org/48C911,🧑✍️⚙️,"author, poet writing"
 http://iconclass.org/48C912,,'poète maudit'
-http://iconclass.org/48C913,,author reading from his own work
-http://iconclass.org/48C919,,author destroying his own work
+http://iconclass.org/48C913,📖👀✍️,author reading from his own work
+http://iconclass.org/48C919,✍️📖🔥,author destroying his own work
 http://iconclass.org/48C921,,"Fame ~ writer, 'poeta laureatus'"
 http://iconclass.org/48CC21,,sculptor at work - CC - out of doors
 http://iconclass.org/48CC70,,"'Musica', symbolic representations, allegories and emblems ~ music; 'Musica'(Ripa) - CC - out of doors"
@@ -10429,15 +10429,15 @@ http://iconclass.org/49C201,,'Philosophia' discussing with philosopher
 http://iconclass.org/49C211,,"metaphysics, 'Metaphysica'; 'Metafisica' (Ripa)"
 http://iconclass.org/49C212,,"logic, 'Logica'; 'Logica' (Ripa)"
 http://iconclass.org/49C213,,theory of knowledge
-http://iconclass.org/49C214,,aesthetics
-http://iconclass.org/49D110,,number symbolism
-http://iconclass.org/49D121,,addition
-http://iconclass.org/49D122,,subtraction
-http://iconclass.org/49D123,,multiplication
-http://iconclass.org/49D124,,division
+http://iconclass.org/49C214,💭💅,aesthetics
+http://iconclass.org/49D110,🔢🖼️,number symbolism
+http://iconclass.org/49D121,➕,addition
+http://iconclass.org/49D122,➖,subtraction
+http://iconclass.org/49D123,✖️,multiplication
+http://iconclass.org/49D124,➗,division
 http://iconclass.org/49D131,,decimal scale
 http://iconclass.org/49D132,,binary scale
-http://iconclass.org/49D133,,other scales of notation
+http://iconclass.org/49D133,🔢📏🤷,other scales of notation
 http://iconclass.org/49D321,,straight line
 http://iconclass.org/49D322,,curved line
 http://iconclass.org/49D331,,isosceles triangle
@@ -10472,55 +10472,55 @@ http://iconclass.org/49D461,,"helix, three-dimensional spiral"
 http://iconclass.org/49D471,,truncated cone
 http://iconclass.org/49D481,,ellipsoid of revolution
 http://iconclass.org/49D511,,drawing-instruments
-http://iconclass.org/49D521,,measuring-instruments
-http://iconclass.org/49D531,,calculating-instruments
-http://iconclass.org/49D541,,"laptop, notebook"
+http://iconclass.org/49D521,📏,measuring-instruments
+http://iconclass.org/49D531,🧮,calculating-instruments
+http://iconclass.org/49D541,💻,"laptop, notebook"
 http://iconclass.org/49D542,,tablet computer
 http://iconclass.org/49E111,,observatory (~ astronomy)
-http://iconclass.org/49E112,,radio-telescope (~ astronomy)
+http://iconclass.org/49E112,📡🔭,radio-telescope (~ astronomy)
 http://iconclass.org/49E121,,star-globe
 http://iconclass.org/49E122,,"armillary sphere, skeleton celestial globe"
 http://iconclass.org/49E123,,"orrery, planetarium"
-http://iconclass.org/49E131,,geocentric theory (cosmology)
-http://iconclass.org/49E132,,heliocentric theory (cosmology)
+http://iconclass.org/49E131,🌌🌍🌌💭,geocentric theory (cosmology)
+http://iconclass.org/49E132,🌌☀️🌌💭,heliocentric theory (cosmology)
 http://iconclass.org/49E133,,theory of the expanding universe (cosmology)
 http://iconclass.org/49E210,,'Fisica' (Ripa)
 http://iconclass.org/49E211,,general principles of physics
 http://iconclass.org/49E212,,quantum theory
 http://iconclass.org/49E220,,'Mecanica' (Ripa)
 http://iconclass.org/49E221,,"dynamics, kinetics"
-http://iconclass.org/49E222,,gravitation
-http://iconclass.org/49E223,,"fluid mechanics, hydraulics"
-http://iconclass.org/49E224,,"gasdynamics, aerodynamics"
-http://iconclass.org/49E251,,optical instruments
+http://iconclass.org/49E222,🍎️💭,gravitation
+http://iconclass.org/49E223,🌊⚙️💭,"fluid mechanics, hydraulics"
+http://iconclass.org/49E224,💨⚙️💭,"gasdynamics, aerodynamics"
+http://iconclass.org/49E251,👁️🔬,optical instruments
 http://iconclass.org/49E252,,refraction (optics)
 http://iconclass.org/49E253,,prism (optical instrument)
 http://iconclass.org/49E254,,"concave mirror, burning-mirror"
-http://iconclass.org/49E255,,magnification
-http://iconclass.org/49E271,,"elementary particles ~ nuclear, atomic and molecular physics"
-http://iconclass.org/49E272,,radioactivity
-http://iconclass.org/49E273,,nuclear reaction
+http://iconclass.org/49E255,🔍⚙️,magnification
+http://iconclass.org/49E271,⚛️,"elementary particles ~ nuclear, atomic and molecular physics"
+http://iconclass.org/49E272,☢️⚙️ ,radioactivity
+http://iconclass.org/49E273,☢️💥,nuclear reaction
 http://iconclass.org/49E391,,alchemist at work
-http://iconclass.org/49E392,,alchemistic symbols
+http://iconclass.org/49E392,⚗️🥇🔣 ,alchemistic symbols
 http://iconclass.org/49E393,,alchemistic equipment
 http://iconclass.org/49E394,,alchemistic substances
 http://iconclass.org/49E395,,alchemistic processes
 http://iconclass.org/49E811,,"popular laboratory device, used for demonstration"
-http://iconclass.org/49G011,,Aesculapian sign
+http://iconclass.org/49G011,⚕️,Aesculapian sign
 http://iconclass.org/49G012,,pentagram (medical symbol)
 http://iconclass.org/49G211,,visiting the sick; sick person together with others
 http://iconclass.org/49G231,,miraculous healing
 http://iconclass.org/49G232,,(healing by) imposition of hands
 http://iconclass.org/49G233,,spiritual healing
 http://iconclass.org/49G251,,deterioration of sick person
-http://iconclass.org/49G311,,examination of urine
-http://iconclass.org/49G312,,taking temperature of patient
-http://iconclass.org/49G313,,examining the tongue of patient
-http://iconclass.org/49G314,,examining patient with stethoscope
+http://iconclass.org/49G311,🚽🔍,examination of urine
+http://iconclass.org/49G312,🌡️🤒,taking temperature of patient
+http://iconclass.org/49G313,🤒👅🔍,examining the tongue of patient
+http://iconclass.org/49G314,🤒🩺🔍,examining patient with stethoscope
 http://iconclass.org/49G315,,percussing the body ~ medical examination
-http://iconclass.org/49G316,,feeling pulse or heart-beat
-http://iconclass.org/49G317,,physician writing (prescription)
-http://iconclass.org/49G321,,applying dressing or bandage
+http://iconclass.org/49G316,🤒💓⌚,feeling pulse or heart-beat
+http://iconclass.org/49G317,🧑‍⚕️✍️,physician writing (prescription)
+http://iconclass.org/49G321,🧑‍⚕️🧻,applying dressing or bandage
 http://iconclass.org/49G322,,"treatment by immobilization, sling, splint, plaster, etc."
 http://iconclass.org/49G331,,"enema, squirt"
 http://iconclass.org/49G341,,"bleeding, blood-letting with the aid of blood-suckers"
@@ -10528,67 +10528,67 @@ http://iconclass.org/49G342,,"cupping man (~ bleeding, blood-letting)"
 http://iconclass.org/49G350,,'Chirurgia'
 http://iconclass.org/49G351,,operating room
 http://iconclass.org/49G352,,narcosis
-http://iconclass.org/49G353,,amputation
+http://iconclass.org/49G353,🪚🦵,amputation
 http://iconclass.org/49G354,,transplantation ~ surgery
-http://iconclass.org/49G361,,"watering-place, spa"
-http://iconclass.org/49G371,,vaccination
+http://iconclass.org/49G361,📍⛲,"watering-place, spa"
+http://iconclass.org/49G371,💉🚫🦠,vaccination
 http://iconclass.org/49G372,,infusion ~ medicine
 http://iconclass.org/49G373,,transfusion of blood
-http://iconclass.org/49G381,,X-ray examination
-http://iconclass.org/49G431,,male nurse ~ hospital
-http://iconclass.org/49G441,,ambulance
-http://iconclass.org/49G511,,quarantine
-http://iconclass.org/49G611,,physiology and anatomy ~ circulatory system
-http://iconclass.org/49G612,,physiology and anatomy ~ respiratory system
+http://iconclass.org/49G381,🦴📷,X-ray examination
+http://iconclass.org/49G431,🏥👨‍⚕️,male nurse ~ hospital
+http://iconclass.org/49G441,🚑👈,ambulance
+http://iconclass.org/49G511,🏠😷,quarantine
+http://iconclass.org/49G611,🩸♻️,physiology and anatomy ~ circulatory system
+http://iconclass.org/49G612,🫁♻️,physiology and anatomy ~ respiratory system
 http://iconclass.org/49G613,,physiology and anatomy ~ alimentary tract (digestive system)
 http://iconclass.org/49G614,,physiology and anatomy ~ skin
 http://iconclass.org/49G615,,physiology and anatomy ~ endocrine system
-http://iconclass.org/49G616,,physiology and anatomy ~ urogenital system
+http://iconclass.org/49G616,🍆🔬,physiology and anatomy ~ urogenital system
 http://iconclass.org/49G617,,physiology and anatomy ~ locomotor system
 http://iconclass.org/49G618,,physiology and anatomy ~ sense organs
 http://iconclass.org/49G619,,"physiology and anatomy ~ nervous system, neurology"
 http://iconclass.org/49G621,,dissection
 http://iconclass.org/49G622,,anatomical models (usually series of five figures)
-http://iconclass.org/49G711,,psychological test
+http://iconclass.org/49G711,🧠🔬📋,psychological test
 http://iconclass.org/49G712,,graphological test
-http://iconclass.org/49G721,,"psychoanalysis, 'on the couch'"
+http://iconclass.org/49G721,🧠🔬🛋️,"psychoanalysis, 'on the couch'"
 http://iconclass.org/49G811,,doctrine of signatures
-http://iconclass.org/49G812,,poison ~ medicine
+http://iconclass.org/49G812,🧪⚕️,poison ~ medicine
 http://iconclass.org/49G831,,pestle and mortar
 http://iconclass.org/49G911,,"stone-operation, e.g.: by the witch of Malleghem"
 http://iconclass.org/49G912,,quack extracting teeth or molars
 http://iconclass.org/49G913,,other 'operations'
-http://iconclass.org/49G914,,"eating snakes, frogs, spiders, etc."
+http://iconclass.org/49G914,🐍🕷️🍽️,"eating snakes, frogs, spiders, etc."
 http://iconclass.org/49K321,,word
 http://iconclass.org/49K322,,"phrase, sentence"
 http://iconclass.org/49L111,,"secretary, scribe"
 http://iconclass.org/49L112,,sharpening pen (quill)
 http://iconclass.org/49L113,,erasing text
-http://iconclass.org/49L141,,Hebrew script
+http://iconclass.org/49L141,✡️🔤,Hebrew script
 http://iconclass.org/49L142,,Arabic script
 http://iconclass.org/49L171,,historiated initial
 http://iconclass.org/49L211,,"fancy hieroglyphs, 'hieroglyphica'"
 http://iconclass.org/49L251,,rebus
 http://iconclass.org/49L271,,"'huismerk', 'Hausmarke'"
-http://iconclass.org/49L511,,quill
-http://iconclass.org/49L611,,ink-blot
-http://iconclass.org/49L641,,paper (writing material)
-http://iconclass.org/49L642,,papyrus (writing material)
-http://iconclass.org/49L643,,"parchment, vellum (writing material)"
+http://iconclass.org/49L511,🪶🖊️,quill
+http://iconclass.org/49L611,✒️💦,ink-blot
+http://iconclass.org/49L641,📝,paper (writing material)
+http://iconclass.org/49L642,📝🇪🇬,papyrus (writing material)
+http://iconclass.org/49L643,📝🐄,"parchment, vellum (writing material)"
 http://iconclass.org/49L644,,writing boards
 http://iconclass.org/49L645,,writing tablets
 http://iconclass.org/49L649,,other writing surfaces
-http://iconclass.org/49L651,,sealing wax
+http://iconclass.org/49L651,✉️🕯️,sealing wax
 http://iconclass.org/49L711,,"'capsa', casket for scrolls"
 http://iconclass.org/49LL71,,scroll - LL - scroll unfolded
 http://iconclass.org/49LL72,,codex - LL - codex open
-http://iconclass.org/49M121,,type-founder
+http://iconclass.org/49M121,🔤🖨️🔨,type-founder
 http://iconclass.org/49M122,,type-setter
-http://iconclass.org/49M123,,printer
-http://iconclass.org/49M124,,corrector ~ printing
-http://iconclass.org/49M321,,book in which illustrations are essential
+http://iconclass.org/49M123,🖨️,printer
+http://iconclass.org/49M124,🖨️🔧,corrector ~ printing
+http://iconclass.org/49M321,📖🖼️,book in which illustrations are essential
 http://iconclass.org/49M322,,pamphlet ~ printed matter
-http://iconclass.org/49M411,,frontispiece
+http://iconclass.org/49M411,📔🖼️,frontispiece
 http://iconclass.org/49M412,,vignette
 http://iconclass.org/49M413,,printed historiated initial
 http://iconclass.org/49M431,,device (trade-mark of printer or publisher)
@@ -10598,33 +10598,33 @@ http://iconclass.org/51AA51,,"Exterior, Exteriority"
 http://iconclass.org/51AA61,,Synthesis
 http://iconclass.org/51BB51,,Ambivalence
 http://iconclass.org/51BB61,,"Singularity, Uniqueness"
-http://iconclass.org/51CC11,,"Positive Result, Good Result"
-http://iconclass.org/51CC12,,"Negative Result, Bad Result"
+http://iconclass.org/51CC11,📈👍,"Positive Result, Good Result"
+http://iconclass.org/51CC12,📉👎,"Negative Result, Bad Result"
 http://iconclass.org/51CC13,,"Side-effect, Secondary Effect"
 http://iconclass.org/51CC19,,"No Result, Lack of Result, Inefficacy, Futility"
-http://iconclass.org/51DD11,,Contamination
-http://iconclass.org/51EE11,,"Restriction, Limitation"
-http://iconclass.org/51EE12,,Curtailment
-http://iconclass.org/51F511,,Immaturity
+http://iconclass.org/51DD11,☣️🤔,Contamination
+http://iconclass.org/51EE11,🚫🤔,"Restriction, Limitation"
+http://iconclass.org/51EE12,🛑🤔,Curtailment
+http://iconclass.org/51F511,👶🤔,Immaturity
 http://iconclass.org/51F521,,Precocity
-http://iconclass.org/51F522,,Anticipation
-http://iconclass.org/51F711,,Cycle
-http://iconclass.org/51FF51,,Oldness
-http://iconclass.org/51FF52,,Lateness
-http://iconclass.org/51H421,,Excess
-http://iconclass.org/51HH11,,Divisibility
+http://iconclass.org/51F522,🤤⏳,Anticipation
+http://iconclass.org/51F711,🔄,Cycle
+http://iconclass.org/51FF51,🧓🤔,Oldness
+http://iconclass.org/51FF52,⌚💤🤔,Lateness
+http://iconclass.org/51H421,🥴🤔,Excess
+http://iconclass.org/51HH11,➗🤔,Divisibility
 http://iconclass.org/51HH41,,Insufficiency
 http://iconclass.org/51II11,,Expansion
 http://iconclass.org/51KK11,,Conservation; 'Conservatione' (Ripa)
-http://iconclass.org/51LL41,,Recession
+http://iconclass.org/51LL41,📉💰,Recession
 http://iconclass.org/51LL42,,"Motion From, Repulsive Force, Repulsion, Push"
 http://iconclass.org/51MM11,,"Slowness, Tardiness; 'Tardità' (Ripa)"
 http://iconclass.org/51MM12,,Lingering
-http://iconclass.org/52A511,,Wisdom of the Fool
-http://iconclass.org/52AA11,,Lack of Talent
+http://iconclass.org/52A511,🤹💭🦉,Wisdom of the Fool
+http://iconclass.org/52AA11,🤹📉,Lack of Talent
 http://iconclass.org/52AA21,,"Rashness, Imprudence, Recklessness"
 http://iconclass.org/52AA22,,Tactlessness; 'Inconsideratione' (Ripa)
-http://iconclass.org/52AA23,,Inattention
+http://iconclass.org/52AA23,😴🤔,Inattention
 http://iconclass.org/52AA24,,Carelessness
 http://iconclass.org/52AA31,,Oblivion; 'Oblivione' (Ripa)
 http://iconclass.org/52AA51,,"Folly, Foolishness; 'Pazzia', 'Sciocchezza', 'Stoltitia' (Ripa)"
@@ -10635,20 +10635,20 @@ http://iconclass.org/52AA55,,"Bluntness, Obtuseness, Dullness"
 http://iconclass.org/52B511,,Distinction between Good and Bad; 'Distintione del bene & del male' (Ripa)
 http://iconclass.org/52B512,,Banishing Evil Thoughts; 'Repulsa de pensieri cattivi' (Ripa)
 http://iconclass.org/52B513,,Reason versus Amorous Lust; 'Combattimento della ragione con l'appetito' (Ripa)
-http://iconclass.org/52BB21,,Incredulity
+http://iconclass.org/52BB21,🤯🤔,Incredulity
 http://iconclass.org/52BB31,,Improbability
-http://iconclass.org/52BB41,,Uncertainty
+http://iconclass.org/52BB41,🙄🤔,Uncertainty
 http://iconclass.org/52BB42,,Impossibility
-http://iconclass.org/52BB51,,Intuition
+http://iconclass.org/52BB51,🔮🤔,Intuition
 http://iconclass.org/52BB52,,Sophism
 http://iconclass.org/52BB53,,"Nonsense, Absurdity"
 http://iconclass.org/52BB54,,Baseless Speculation
 http://iconclass.org/52BB61,,Infatuation
 http://iconclass.org/52C111,,Public Opinion; 'Opinione' (Ripa)
 http://iconclass.org/52CC31,,"Refutation, Confutation, Disproving"
-http://iconclass.org/52CC41,,Error; 'Errore' (Ripa)
-http://iconclass.org/52DD11,,Secret
-http://iconclass.org/52DD21,,"Confusion, Obscurity; 'Confusione' (Ripa)"
+http://iconclass.org/52CC41,❌,Error; 'Errore' (Ripa)
+http://iconclass.org/52DD11,🤫🤔,Secret
+http://iconclass.org/52DD21,😕🤔,"Confusion, Obscurity; 'Confusione' (Ripa)"
 http://iconclass.org/52DD22,,Mystification
 http://iconclass.org/52EE11,,"Inquiry, Investigation; 'Investigatione' (Ripa)"
 http://iconclass.org/53A211,,"Obstinacy; 'Ostinatione', 'Pertinacia' (Ripa)"
@@ -10656,22 +10656,22 @@ http://iconclass.org/53A212,,Implacability
 http://iconclass.org/53AA11,,Predetermination
 http://iconclass.org/53AA21,,"Inconstancy; 'Incostanza', 'Instabilità', 'Instabilità overo Incostanza' (Ripa)"
 http://iconclass.org/53AA22,,Tergiversation
-http://iconclass.org/53BB51,,Protest
+http://iconclass.org/53BB51,😠🏴,Protest
 http://iconclass.org/53BB61,,Laxity
-http://iconclass.org/53CC11,,Service
+http://iconclass.org/53CC11,👑🙇,Service
 http://iconclass.org/53CC12,,Servility
 http://iconclass.org/53CC21,,Readiness to Comply
 http://iconclass.org/53CC31,,Invocation; 'Invocatione' (Ripa)
-http://iconclass.org/53CC32,,Pleading
-http://iconclass.org/53DD11,,Prohibition
+http://iconclass.org/53CC32,🥺,Pleading
+http://iconclass.org/53DD11,🚫🤔,Prohibition
 http://iconclass.org/54A211,,Scrupulosity; 'Scropolo' (Ripa)
 http://iconclass.org/54A431,,the Golden Mean; 'Mediocrità' (Ripa)
-http://iconclass.org/54AA11,,"Sluggishness, Inertia; 'Dapocaggine', 'Pigritia' (Ripa)"
-http://iconclass.org/54AA21,,Indifference
+http://iconclass.org/54AA11,😴🐢,"Sluggishness, Inertia; 'Dapocaggine', 'Pigritia' (Ripa)"
+http://iconclass.org/54AA21,😑🤔,Indifference
 http://iconclass.org/54AA31,,Inexperience
 http://iconclass.org/54AA32,,Unpreparedness
 http://iconclass.org/54AA33,,"Inability, Maladroitness, Awkwardness"
-http://iconclass.org/54AA34,,Mediocrity
+http://iconclass.org/54AA34,😑🤷,Mediocrity
 http://iconclass.org/54AA41,,Impulsion; 'Impeto' (Ripa)
 http://iconclass.org/54AA42,,"Wildness, Untamedness"
 http://iconclass.org/54AA43,,"Intemperance, Immoderation"
@@ -10685,7 +10685,7 @@ http://iconclass.org/54AA71,,Vincibility
 http://iconclass.org/54AA72,,Vulnerability
 http://iconclass.org/54B121,,"'Occasio', 'Kairos'; 'Occasione' (Ripa)"
 http://iconclass.org/54BB11,,"Misuse, Misemployment"
-http://iconclass.org/54BB12,,Profanation
+http://iconclass.org/54BB12,🤬🤔,Profanation
 http://iconclass.org/54BB13,,"Intempestivity, Inopportuneness, Unseasonableness"
 http://iconclass.org/54BB31,,"Damage, Disservice; 'Danno' (Ripa)"
 http://iconclass.org/54CC11,,"Without Intention, Non-design, Unintendedness, Undeliberateness"
@@ -10715,15 +10715,15 @@ http://iconclass.org/56AA11,,Impassibility; 'Impassibilità' (Ripa)
 http://iconclass.org/56B131,,Joke; 'Giuoco (dall'antico)' (Ripa)
 http://iconclass.org/56BB11,,Bitterness; 'Amaritudine' (Ripa)
 http://iconclass.org/56BB12,,Torment; 'Tribulatione' (Ripa)
-http://iconclass.org/56BB13,,"Heartache, Heart-break; 'Affanno', 'Cordoglio' (Ripa)"
-http://iconclass.org/56BB19,,Consolation
+http://iconclass.org/56BB13,😧💔,"Heartache, Heart-break; 'Affanno', 'Cordoglio' (Ripa)"
+http://iconclass.org/56BB19,😧🤗,Consolation
 http://iconclass.org/56BB21,,"Calamity, Distress; 'Calamità', 'Calamità o miseria' (Ripa)"
-http://iconclass.org/56BB22,,Misery; 'Miseria mondana' (Ripa)
-http://iconclass.org/56BB31,,Boredom
-http://iconclass.org/56BB32,,Insatiableness
+http://iconclass.org/56BB22,😭,Misery; 'Miseria mondana' (Ripa)
+http://iconclass.org/56BB31,😐,Boredom
+http://iconclass.org/56BB32,😏,Insatiableness
 http://iconclass.org/56BB33,,"Grumbling, Complaint; 'Pianto', 'Querela' (Ripa)"
-http://iconclass.org/56BB34,,Disappointment
-http://iconclass.org/56BB35,,Frustration
+http://iconclass.org/56BB34,😞,Disappointment
+http://iconclass.org/56BB35,😤,Frustration
 http://iconclass.org/56BB41,,Satiety
 http://iconclass.org/56DD11,,Despair; 'Disperatione' (Ripa)
 http://iconclass.org/56DD31,,Lack of Self-confidence; 'Viltà' (Ripa)
@@ -10734,7 +10734,7 @@ http://iconclass.org/56F131,,Power of Attraction
 http://iconclass.org/56F211,,Brotherly Love
 http://iconclass.org/56F231,,"Fidelity in Friendship; 'Confermatione dell'Amicitia', 'Fede nell'Amicitia' (Ripa)"
 http://iconclass.org/56F232,,Infidelity in Friendship; 'Amicitia senza giovamento' (Ripa)
-http://iconclass.org/56F241,,Narcissism
+http://iconclass.org/56F241,❤️🪞,Narcissism
 http://iconclass.org/56F251,,Qualities of Love: first series
 http://iconclass.org/56F252,,Qualities of Love (personifications): second series
 http://iconclass.org/56FF13,,(Feeling of) Repulsion
@@ -10790,27 +10790,27 @@ http://iconclass.org/57BB25,,"Calumny, Detraction; 'Biasimo vitioso', 'Calunnia'
 http://iconclass.org/58AA11,,Extirpation
 http://iconclass.org/58AA12,,Self-destruction
 http://iconclass.org/58B211,,'Tabula Cebetis'
-http://iconclass.org/58B212,,fountain of life (non-Christian)
-http://iconclass.org/58B213,,Human Life represented by a ship
+http://iconclass.org/58B212,🧬⛲,fountain of life (non-Christian)
+http://iconclass.org/58B213,🧬👥🚢,Human Life represented by a ship
 http://iconclass.org/59BB31,,"Disgrace; 'Infamia', 'Scorno' (Ripa)"
-http://iconclass.org/59BB32,,Ill-fame; 'Fama cattiva' (Ripa)
+http://iconclass.org/59BB32,👥🏆📉,Ill-fame; 'Fama cattiva' (Ripa)
 http://iconclass.org/59BB33,,"Ignobility, 'Vulgus'; 'Vulgo overo ignobilità' (Ripa)"
 http://iconclass.org/59BB34,,Ingloriousness
 http://iconclass.org/59C221,,Incorruptibility
 http://iconclass.org/59CC21,,"Inequality, Inequity, Iniquity; 'Iniquità' (Ripa)"
-http://iconclass.org/59CC22,,Partiality; 'Partialità' (Ripa)
+http://iconclass.org/59CC22,⚖️😏,Partiality; 'Partialità' (Ripa)
 http://iconclass.org/61B111,,anonymous historical person portrayed alone
-http://iconclass.org/61B112,📜👥🖼️,anonymous historical persons portrayed in a double portrait
+http://iconclass.org/61B112,,anonymous historical persons portrayed in a double portrait
 http://iconclass.org/61B113,,"anonymous historical persons portrayed in a group, in a group-portrait"
 http://iconclass.org/61B121,,scene directly related with life or life-story of anonymous person
-http://iconclass.org/61B122,,fictitious scene ~ anonymous historical person(s)
+http://iconclass.org/61B122,🏞🦄️📜👥🏷️🤷,fictitious scene ~ anonymous historical person(s)
 http://iconclass.org/61BB11,,anonymous historical person portrayed - BB - woman
 http://iconclass.org/61BB12,,scenes ~ anonymous historical person(s) - BB - woman
-http://iconclass.org/71A231,,creation of vegetation (alone)
-http://iconclass.org/71A251,,creation of birds and fishes
+http://iconclass.org/71A231,💡🌳,creation of vegetation (alone)
+http://iconclass.org/71A251,💡🐦🐟,creation of birds and fishes
 http://iconclass.org/71A252,,creation of land-animals
 http://iconclass.org/71A311,,the man (Adam) comes to life: usually God reaches out his hand or breathes life into his nostrils
-http://iconclass.org/71A321,,"Garden of Eden, paradise"
+http://iconclass.org/71A321,🏞️🍎,"Garden of Eden, paradise"
 http://iconclass.org/71A331,,God brings Adam to paradise
 http://iconclass.org/71A332,,God speaks to Adam
 http://iconclass.org/71A333,,Adam naming the animals
@@ -10820,14 +10820,14 @@ http://iconclass.org/71A351,,God brings Eve to Adam
 http://iconclass.org/71A352,,God blesses Adam and Eve; institution of marriage
 http://iconclass.org/71A353,,Adam is given dominion over all created things
 http://iconclass.org/71A354,,the giving of the test commandment: God warns Adam and Eve not to eat from the tree of knowledge of good and evil
-http://iconclass.org/71A411,,the serpent tries to persuade Eve to take some of the fruit (usually an apple)
+http://iconclass.org/71A411,🍎🐍😏,the serpent tries to persuade Eve to take some of the fruit (usually an apple)
 http://iconclass.org/71A412,,Eve takes the fruit
 http://iconclass.org/71A421,,Eve takes the fruit from the serpent (or the tree) in the presence of Adam (who may be trying to stop her)
-http://iconclass.org/71A422,,Eve offers the fruit to Adam
+http://iconclass.org/71A422,🍎🐍🎁👫,Eve offers the fruit to Adam
 http://iconclass.org/71A423,,Adam and Eve holding (and possibly eating) the fruit
 http://iconclass.org/71A424,,Adam and Eve discover their nakedness; they cover themselves with their hands or with leaves
 http://iconclass.org/71A521,,God calls Adam and Eve to account for their deed
-http://iconclass.org/71A522,,Adam and Eve hide from God
+http://iconclass.org/71A522,✝️🔱🙈🍎🐍,Adam and Eve hide from God
 http://iconclass.org/71A531,,Adam (alone) reproved by God; Adam blames Eve
 http://iconclass.org/71A532,,Eve (alone) reproved by God; Eve blames the serpent
 http://iconclass.org/71A541,,"the snake is cursed by God, and condemned to eat dust and to crawl on its belly"
@@ -10836,7 +10836,7 @@ http://iconclass.org/71A543,,punishment of Adam (alone)
 http://iconclass.org/71A551,,"Adam and Eve receive tools, usually a spade and a spindle"
 http://iconclass.org/71A611,,an angel chases Adam and Eve out of paradise with a (flaming) sword
 http://iconclass.org/71A631,,purification bath of Adam and Eve
-http://iconclass.org/71A711,,birth of Cain
+http://iconclass.org/71A711,🍎🐍🤰👶,birth of Cain
 http://iconclass.org/71A712,,birth of Abel
 http://iconclass.org/71A721,,"Adam engaged in agricultural activities, Eve spinning and usually their children at play"
 http://iconclass.org/71A722,,"Adam engaged in agricultural activities, Eve suckling the children"
@@ -10874,7 +10874,7 @@ http://iconclass.org/71B312,,God sees man's corruption
 http://iconclass.org/71B321,,Noah building the ark
 http://iconclass.org/71B322,,the embarkation of the ark
 http://iconclass.org/71B323,,God closes the ark ~ story of Noah
-http://iconclass.org/71B331,,"the ark is floating on the waters, while life on earth is destroyed ~ story of Noah"
+http://iconclass.org/71B331,⛈️🌊🌍🚢,"the ark is floating on the waters, while life on earth is destroyed ~ story of Noah"
 http://iconclass.org/71B332,,the ark of Noah comes to rest on Mount Ararat
 http://iconclass.org/71B341,,God orders Noah to disembark and opens the ark
 http://iconclass.org/71B342,,"Noah, his family and the animals leave the ark (sometimes combined with the rainbow of the covenant)"
@@ -10887,7 +10887,7 @@ http://iconclass.org/71B361,,"Noah, by casting lots, divides the world between h
 http://iconclass.org/71B362,,Noah's death and burial
 http://iconclass.org/71B371,,"story of Nimrod (Nemrod), the giant hunter"
 http://iconclass.org/71B421,,"the building of the Tower of Babel; Nimrod may be present, supervising or assisting the construction"
-http://iconclass.org/71B422,,destruction of the Tower of Babel
+http://iconclass.org/71B422,🗼🗣️🔥,destruction of the Tower of Babel
 http://iconclass.org/71C111,,Abraham's youth (Genesis 11:29-32)
 http://iconclass.org/71C112,,Abraham communicating with God (in general)
 http://iconclass.org/71C113,,Abraham goes to Canaan (Genesis 12:1-9)
@@ -10961,11 +10961,11 @@ http://iconclass.org/71C341,,the children of Esau
 http://iconclass.org/71C342,,Jacob and Esau parting; Esau moves with all his possessions to Edom
 http://iconclass.org/71C343,,"the descendants of Seir the Horite, the original inhabitants of Edom"
 http://iconclass.org/71C344,,the kings who reigned in Edom
-http://iconclass.org/71D111,,Joseph tending the sheep and goats with his brothers
+http://iconclass.org/71D111,🧥🌈🐑,Joseph tending the sheep and goats with his brothers
 http://iconclass.org/71D112,,"having witnessed an evil deed of his brothers, Joseph reports it to his father"
-http://iconclass.org/71D113,,Jacob gives Joseph a coat of many colours
+http://iconclass.org/71D113,🎁🧥🌈,Jacob gives Joseph a coat of many colours
 http://iconclass.org/71D114,,Joseph's brothers are resentful and complain to their father
-http://iconclass.org/71D115,,Joseph's dreams
+http://iconclass.org/71D115,🧥🌈😴,Joseph's dreams
 http://iconclass.org/71D116,,Jacob rebuking Joseph for his dreams
 http://iconclass.org/71D121,,"Jacob sends Joseph to his brothers, who are taking care of their father's flock at Shechem"
 http://iconclass.org/71D122,,Joseph on his way (possibly encountering an angel)
@@ -12512,9 +12512,9 @@ http://iconclass.org/73DD63,,Christ's death on the cross with a particular event
 http://iconclass.org/73DD64,,"crucified Christ, with particular persons under the cross - DD - the three crosses"
 http://iconclass.org/73DD65,,Christ on the cross combined with other scenes from the Passion - DD - the three crosses
 http://iconclass.org/73E111,,the hand of God awakens Christ
-http://iconclass.org/73E112,,"angel(s) opening the tomb of Christ, e.g.: by rolling aside the stone"
+http://iconclass.org/73E112,👼⚰️✝🧟,"angel(s) opening the tomb of Christ, e.g.: by rolling aside the stone"
 http://iconclass.org/73E113,,David near the tomb of Christ
-http://iconclass.org/73E121,,Christ pushing away the lid of the sarcophagus ~ Resurrection
+http://iconclass.org/73E121,✝🧟⚰️🔓,Christ pushing away the lid of the sarcophagus ~ Resurrection
 http://iconclass.org/73E122,,"Christ, partly visible, standing in the opened sarcophagus"
 http://iconclass.org/73E123,,Christ stepping out of the tomb
 http://iconclass.org/73E131,,Christ standing on or near the tomb ~ events after the Resurrection
@@ -12965,8 +12965,8 @@ http://iconclass.org/92D153,,Cupid dipping his torch in the river Lethe: Amor Le
 http://iconclass.org/92D154,,Cupid playing dice with Ganymede; Venus bribes him with a beautiful ball into shooting a dart at Medea
 http://iconclass.org/92D155,,sleeping Cupid; possibly signifying a slackening of Love's influence
 http://iconclass.org/92D156,,other non-aggressive activities of Cupid
-http://iconclass.org/92D161,,punishment of Cupid
-http://iconclass.org/92D162,,"Cupid stung by a bee while stealing honey, or while picking a rose; 'l'Amour piqué'"
+http://iconclass.org/92D161,🤬👼,punishment of Cupid
+http://iconclass.org/92D162,👼🐝,"Cupid stung by a bee while stealing honey, or while picking a rose; 'l'Amour piqué'"
 http://iconclass.org/92D163,,Cupid consoled by others than Venus
 http://iconclass.org/92D168,,"suffering, misfortune of Cupid - death"
 http://iconclass.org/92D169,,"suffering, misfortune of Cupid - apotheosis, deification"
@@ -13850,7 +13850,7 @@ http://iconclass.org/11D3252,,"Christ in the wine-press, 'Christus in der Kelter
 http://iconclass.org/11D3253,,Christ in the symbolic mill
 http://iconclass.org/11D3261,,"Christ standing on or near a fountain, shedding his blood"
 http://iconclass.org/11D3262,,"Christ on the cross (in a fountain), shedding his blood"
-http://iconclass.org/11D3271,,Christ as Good Shepherd
+http://iconclass.org/11D3271,✝️😇🐑,Christ as Good Shepherd
 http://iconclass.org/11D3272,,Christ as physician
 http://iconclass.org/11D3273,✝️😇🎣,Christ fishing
 http://iconclass.org/11D3274,✝️😇🤑,Christ as pedlar
@@ -14048,7 +14048,7 @@ http://iconclass.org/11P3159,,abuses of monks
 http://iconclass.org/11P3161,,"regular clerics, e.g. Jesuits, Redemptorists"
 http://iconclass.org/11P3162,,"military orders, e.g.: Knights Templars, Knights of Malta, Teutonic Knights ~ Roman Catholic church"
 http://iconclass.org/11P3163,,orderlike associations and congregations of laics
-http://iconclass.org/11P3171,,celibacy
+http://iconclass.org/11P3171,😇🍆,celibacy
 http://iconclass.org/11P3190,,'Simonia' (Ripa)
 http://iconclass.org/11P3213,,bishop of Russian orthodox church
 http://iconclass.org/11P3221,,"priest (Eastern, Greek and Russian orthodox)"
@@ -14059,7 +14059,7 @@ http://iconclass.org/11P3621,,functionaries and dignitaries in the Salvation Arm
 http://iconclass.org/11P4421,,"trying to win souls, fishing for souls"
 http://iconclass.org/11P4431,,inquisitor
 http://iconclass.org/11P4432,,heretic
-http://iconclass.org/11P4433,,persecution of heretics
+http://iconclass.org/11P4433,✝️🔥🧙,persecution of heretics
 http://iconclass.org/11Q2111,,"prayer at table, saying grace"
 http://iconclass.org/11Q2112,🛏️🙏,"prayer at going to bed, or at getting up"
 http://iconclass.org/11Q2121,,meditation over skull and/or crucifix
@@ -14069,10 +14069,10 @@ http://iconclass.org/11Q3132,,flagellants ~ ascetic life
 http://iconclass.org/11Q3311,,Thebaid
 http://iconclass.org/11Q6111,,'Pestsäule'
 http://iconclass.org/11Q6221,,"place of pilgrimage, sacred place"
-http://iconclass.org/11Q6222,,road side shrine
+http://iconclass.org/11Q6222,🛣️⛩️,road side shrine
 http://iconclass.org/11Q6251,,(oyster) shell ~ attribute of pilgrim(s)
 http://iconclass.org/11Q6252,,vane ~ attribute of pilgrim(s)
-http://iconclass.org/11Q7111,,building-site of church indicated by a miracle
+http://iconclass.org/11Q7111,⛪🏗️✨,building-site of church indicated by a miracle
 http://iconclass.org/11Q7112,,patron handing over model of church (or chapel)
 http://iconclass.org/11Q7121,,parts of church exterior and annexes
 http://iconclass.org/11Q7129,⛪🏚️,"ruin of church, monastery, etc."
@@ -14081,14 +14081,14 @@ http://iconclass.org/11Q7141,,altar
 http://iconclass.org/11Q7142,,altar accoutrement
 http://iconclass.org/11Q7143,,tabernacle ~ altar
 http://iconclass.org/11Q7144,⛪🏆,vessels and utensils used in the church
-http://iconclass.org/11Q7145,,"liturgical furniture, etc."
+http://iconclass.org/11Q7145,⛪🛋️,"liturgical furniture, etc."
 http://iconclass.org/11Q7146,,"liturgical vestments, canonicals"
 http://iconclass.org/11Q7147,,"ecclesiastical books, scrolls, etc."
 http://iconclass.org/11Q7148,,other objects ~ the church (not necessarily liturgical
 http://iconclass.org/11Q7151,,"bread, Host"
 http://iconclass.org/11Q7152,,"wine, the Precious Blood"
 http://iconclass.org/11Q7153,,Holy Water
-http://iconclass.org/11Q7154,,oil used in the church
+http://iconclass.org/11Q7154,⛪🪔,oil used in the church
 http://iconclass.org/11Q7155,,incense used in the church
 http://iconclass.org/11Q7211,,leaving the church after service
 http://iconclass.org/11Q7221,,"people in church, walking, talking, etc."
@@ -14112,20 +14112,20 @@ http://iconclass.org/11Q7521,,Holy Water font
 http://iconclass.org/11Q7551,,"offertory-box, offertory-bag"
 http://iconclass.org/11Q7561,,"inauguration, consecration of person(s) ~ church"
 http://iconclass.org/11Q7562,,"blessing (either of things or persons), e.g. by anointing"
-http://iconclass.org/11Q7571,,singing (in church)
-http://iconclass.org/11Q7572,,playing instruments (in church)
+http://iconclass.org/11Q7571,⛪🎤,singing (in church)
+http://iconclass.org/11Q7572,⛪🎸,playing instruments (in church)
 http://iconclass.org/11Q7589,,disruption of a procession
 http://iconclass.org/11Q7591,,exorcizing the devil
 http://iconclass.org/11Q7592,,averting a catastrophe
 http://iconclass.org/11Q7611,,Advent
-http://iconclass.org/11Q7612,,Christmas (ecclesiastical feast)
-http://iconclass.org/11Q7613,,feast of the Circumcision of Christ
+http://iconclass.org/11Q7612,🎄📅,Christmas (ecclesiastical feast)
+http://iconclass.org/11Q7613,✝️👶✂️🍆🎉,feast of the Circumcision of Christ
 http://iconclass.org/11Q7614,,Epiphany
 http://iconclass.org/11Q7615,,Candlemas (2nd February)
 http://iconclass.org/11Q7621,,strife of Lent and Carnival
 http://iconclass.org/11Q7622,,Ash Wednesday
 http://iconclass.org/11Q7623,,Passion Sunday
-http://iconclass.org/11Q7624,,Palm Sunday
+http://iconclass.org/11Q7624,📅🌴,Palm Sunday
 http://iconclass.org/11Q7625,,Maundy Thursday
 http://iconclass.org/11Q7626,,Good Friday
 http://iconclass.org/11Q7627,,Holy Saturday
@@ -14142,7 +14142,7 @@ http://iconclass.org/11QQ622,,pilgrim(s) at destination-point - QQ - large group
 http://iconclass.org/11QQ623,,return from pilgrimage - QQ - large group
 http://iconclass.org/11QQ625,,pilgrim badges - QQ - large group
 http://iconclass.org/11QQ712,,"church (exterior) - QQ - small church, chapel"
-http://iconclass.org/12A2111,,"prohibition of images (~ Jewish law against idolatry) (Exodus 20:4, 20:22-23)"
+http://iconclass.org/12A2111,✡️🚫🖼️,"prohibition of images (~ Jewish law against idolatry) (Exodus 20:4, 20:22-23)"
 http://iconclass.org/12A2331,,"'shehitah', Jewish slaughtering ritual"
 http://iconclass.org/12A2332,,"'shohet', Jewish ritual slaughterer"
 http://iconclass.org/12A2333,,"'halaf', slaughtering knife"
@@ -14152,15 +14152,15 @@ http://iconclass.org/12A3111,,the altar of incense in Tabernacle ~ Jewish religi
 http://iconclass.org/12A3112,,the altar of incense in the Temple ~ Jewish religion
 http://iconclass.org/12A3121,,the altar of burnt offering in Tabernacle ~ Jewish religion
 http://iconclass.org/12A3122,,the brazen altar in the Temple ~ Jewish religion
-http://iconclass.org/12A3311,,meal-offering of unleavened cakes ~ Jewish religion
-http://iconclass.org/12A3411,,service before sunrise ~ Jewish religion
+http://iconclass.org/12A3311,✡️🥞🎁,meal-offering of unleavened cakes ~ Jewish religion
+http://iconclass.org/12A3411,✡️📅🙏🌙,service before sunrise ~ Jewish religion
 http://iconclass.org/12A3412,,service during sunrise ~ Jewish religion
-http://iconclass.org/12A3413,,service at sunset ~ Jewish religion
-http://iconclass.org/12A3414,,musical instruments used in the Jewish temple services
+http://iconclass.org/12A3413,✡️📅🙏🌇,service at sunset ~ Jewish religion
+http://iconclass.org/12A3414,🕍📅🎸,musical instruments used in the Jewish temple services
 http://iconclass.org/12A3421,,principal services in the Synagogue
 http://iconclass.org/12A3422,,"'Schulklopfer', synagogue-knocker, a man who summons members to synagogal services"
 http://iconclass.org/12A3423,,reading of the Torah ~ Jewish religion
-http://iconclass.org/12A3424,,Synagogal music ~ Jewish religion
+http://iconclass.org/12A3424,🕍📅🎼,Synagogal music ~ Jewish religion
 http://iconclass.org/12A3531,,laying on hands ~ Jewish religion
 http://iconclass.org/12A3532,,hand with the fingers spread out ~ Jewish blessing
 http://iconclass.org/12A3631,,"'mikveh', ritual bath"
@@ -14247,8 +14247,8 @@ http://iconclass.org/12A7211,,reading aloud from the Torah by the boy ~ 'bar mit
 http://iconclass.org/12A7212,,benediction by the father ~ initiation of Jewish boy
 http://iconclass.org/12A7311,,"'huppah', canopy used in Jewish wedding"
 http://iconclass.org/12A7312,,breaking of the glass by the bridegroom ~ Jewish wedding
-http://iconclass.org/12A7313,,wedding-meal of bride and bridegroom (alone) ~ Jewish wedding
-http://iconclass.org/12A7314,,Jewish wedding-feast (without bride and bridegroom)
+http://iconclass.org/12A7313,✡💒🍲,wedding-meal of bride and bridegroom (alone) ~ Jewish wedding
+http://iconclass.org/12A7314,✡💒🎉,Jewish wedding-feast (without bride and bridegroom)
 http://iconclass.org/12A7321,,"'halizah', a widow pulls off a shoe from the foot of her brother-in-law (thus liberating themselves from levirate marriage)"
 http://iconclass.org/12A7331,,handing over a bill of divorce ~ Jewish customs
 http://iconclass.org/12A7431,,tearing or cutting of the garments ~ Jewish mourning customs
@@ -14308,12 +14308,12 @@ http://iconclass.org/13B3132,,flying on monstrous animals ~ witches' sabbath
 http://iconclass.org/13B3421,,devil's mark ~ witches' sabbath
 http://iconclass.org/13B4111,,ingredients ~ witches' kitchen
 http://iconclass.org/13B4221,,making of wax or clay image
-http://iconclass.org/13B6321,,immersion in water ~ witch-trial
+http://iconclass.org/13B6321,⚖️🧙‍♀️🛀,immersion in water ~ witch-trial
 http://iconclass.org/13B6322,,weighing on witch-scales
 http://iconclass.org/13B6323,,"strappado, squassation ~ witch-trial"
 http://iconclass.org/13D2131,,"activities of vampire, e.g. drinking blood"
-http://iconclass.org/13D2132,,"'apotropaion' against vampires, e.g.: cross, garlic"
-http://iconclass.org/13D2133,,piercing the heart of a vampire
+http://iconclass.org/13D2132,✝️🧄🧛,"'apotropaion' against vampires, e.g.: cross, garlic"
+http://iconclass.org/13D2133,🧛❤️🗡️,piercing the heart of a vampire
 http://iconclass.org/22A3121,,condensation
 http://iconclass.org/22C3111,,cross-nimbus
 http://iconclass.org/22C3112,,square or rhombic nimbus
@@ -16418,7 +16418,7 @@ http://iconclass.org/48C7333,,pianoforte
 http://iconclass.org/48C7334,,organ
 http://iconclass.org/48C7335,,accordion
 http://iconclass.org/48C7336,,other keyboard instruments
-http://iconclass.org/48C7341,,drum (musical instrument)
+http://iconclass.org/48C7341,🥁,drum (musical instrument)
 http://iconclass.org/48C7342,,"clappers, castanets"
 http://iconclass.org/48C7343,,"carillon, chimes"
 http://iconclass.org/48C7344,,other percussion instruments
@@ -16480,7 +16480,7 @@ http://iconclass.org/48C8651,,strip-tease
 http://iconclass.org/48C8711,,film actor (on the screen)
 http://iconclass.org/48C8712,,film actress (on the sreen)
 http://iconclass.org/48C8731,,feature movie
-http://iconclass.org/48C8732,,nature film
+http://iconclass.org/48C8732,📽️ 🏞️,nature film
 http://iconclass.org/48C8733,,documentary film
 http://iconclass.org/48C8734,,animated cartoon
 http://iconclass.org/48C9011,,"symbolic representations, allegories and emblems ~ epic, narrative poetry"
@@ -16543,11 +16543,11 @@ http://iconclass.org/49B4231,,doctoral thesis
 http://iconclass.org/49B4232,,university diploma
 http://iconclass.org/49B4233,,honorary degree
 http://iconclass.org/49B4411,,studying at night
-http://iconclass.org/49B4421,,student dress
+http://iconclass.org/49B4421,🎓👚,student dress
 http://iconclass.org/49B4422,,student room
-http://iconclass.org/49B4423,,student love
-http://iconclass.org/49B4424,,freshman ~ university
-http://iconclass.org/49B4425,,student vacation
+http://iconclass.org/49B4423,🎓❤️,student love
+http://iconclass.org/49B4424,🎓👶,freshman ~ university
+http://iconclass.org/49B4425,🎓⛱️,student vacation
 http://iconclass.org/49B4426,,sent-down student
 http://iconclass.org/49B4427,,students' riot
 http://iconclass.org/49B4428,,students' organization
@@ -16556,7 +16556,7 @@ http://iconclass.org/49BB431,,group of professors - BB - female professor
 http://iconclass.org/49BB441,,studying ~ university - BB - female student
 http://iconclass.org/49BB442,,student life - BB - female student
 http://iconclass.org/49C2131,,"Plato's cave, 'antrum Platonicum'"
-http://iconclass.org/49D1211,,"series of Fibonacci (1, 2, 3, 5, 8, 13, 21, ...)"
+http://iconclass.org/49D1211,🔢📈,"series of Fibonacci (1, 2, 3, 5, 8, 13, 21, ...)"
 http://iconclass.org/49D3211,,intersecting lines
 http://iconclass.org/49D3212,,angle
 http://iconclass.org/49D3213,,parallel lines
@@ -16564,22 +16564,22 @@ http://iconclass.org/49D3214,,"golden section, 'sectio aurea'"
 http://iconclass.org/49D3221,,irregularly curved line
 http://iconclass.org/49D3222,,"regularly curved line, line of Beauty"
 http://iconclass.org/49D3223,,"spiral (~ planimetry, geometry)"
-http://iconclass.org/49D5111,,compasses
+http://iconclass.org/49D5111,🧭,compasses
 http://iconclass.org/49D5112,,square (drawing-instrument)
-http://iconclass.org/49D5311,,"abacus, counting-frame"
+http://iconclass.org/49D5311,🧮👈,"abacus, counting-frame"
 http://iconclass.org/49D5312,,"counting-board, counter, counter-table"
 http://iconclass.org/49D5313,,"reckoning-cloth, carpet for the counter"
 http://iconclass.org/49D5314,,"casting-counter, jetton, money of account"
-http://iconclass.org/49E1331,,Big Bang theory (cosmology)
+http://iconclass.org/49E1331,🌌💥💭,Big Bang theory (cosmology)
 http://iconclass.org/49E2111,,theory of relativity
 http://iconclass.org/49E2211,,"work, friction ~ mechanics"
 http://iconclass.org/49E2221,,pendulum (theory)
-http://iconclass.org/49E2222,,"ballistics, motion of projectiles"
+http://iconclass.org/49E2222,🚀💭,"ballistics, motion of projectiles"
 http://iconclass.org/49E2241,,vacuum physics
-http://iconclass.org/49E2511,,lens
-http://iconclass.org/49E2512,,microscope
+http://iconclass.org/49E2511,🔍👈,lens
+http://iconclass.org/49E2512,🔬👈,microscope
 http://iconclass.org/49E2513,,"binoculars, spy-glass, etc."
-http://iconclass.org/49E2514,,telescope
+http://iconclass.org/49E2514,🔭👈,telescope
 http://iconclass.org/49E2515,,stereoscope
 http://iconclass.org/49E2531,,the seven prismatic colours
 http://iconclass.org/49E2711,,"models ~ molecular structure, etc."
@@ -16600,14 +16600,14 @@ http://iconclass.org/49E3946,,Elixir Vitae
 http://iconclass.org/49E3949,,other substances
 http://iconclass.org/49E3951,,Magnum opus: the four original stages of transmutation
 http://iconclass.org/49E3952,,Magnum opus: additional stages of transmutation
-http://iconclass.org/49G3111,,urinal (and basket)
-http://iconclass.org/49G3121,,temperature-chart
-http://iconclass.org/49G3151,,knee jerk ~ medical examination
-http://iconclass.org/49G3211,,"dressing, bandage"
-http://iconclass.org/49G3531,,prosthesis
-http://iconclass.org/49G6131,,dentistry
-http://iconclass.org/49G6161,,"gynaecology, obstetrics"
-http://iconclass.org/49G6181,,ophthalmology
+http://iconclass.org/49G3111,💦🚽,urinal (and basket)
+http://iconclass.org/49G3121,🌡️📊,temperature-chart
+http://iconclass.org/49G3151,🤒🦵🔨,knee jerk ~ medical examination
+http://iconclass.org/49G3211,⚕️🧻,"dressing, bandage"
+http://iconclass.org/49G3531,🦾,prosthesis
+http://iconclass.org/49G6131,🦷🔬,dentistry
+http://iconclass.org/49G6161,🍑🔬,"gynaecology, obstetrics"
+http://iconclass.org/49G6181,👁️🔬,ophthalmology
 http://iconclass.org/49G6211,,"dissecting-room, 'theatrum anatomicum'"
 http://iconclass.org/49G6212,,anatomy lesson
 http://iconclass.org/49G6213,,anatomical specimen
@@ -16616,15 +16616,15 @@ http://iconclass.org/49G6222,,"anatomical model of the muscles, muscle-man, 'éc
 http://iconclass.org/49G6223,,"anatomical model of the veins, vein-man"
 http://iconclass.org/49G6224,,anatomical model of the arteries
 http://iconclass.org/49G6225,,anatomical model of the nerves
-http://iconclass.org/49L6411,,notebook
+http://iconclass.org/49L6411,📓,notebook
 http://iconclass.org/49L6441,,blackboard
 http://iconclass.org/49L6442,,whiteboard
 http://iconclass.org/49L6451,,"clay tablet, stone tablet"
-http://iconclass.org/49L6452,,wax tablet
+http://iconclass.org/49L6452,📝🕯️,wax tablet
 http://iconclass.org/49L6453,,slate (writing material)
 http://iconclass.org/49LL711,,"'capsa', casket for scrolls - LL - scroll unfolded"
 http://iconclass.org/49M3211,,blockbook
-http://iconclass.org/49M3212,,"comic strip, 'bande dessinée'"
+http://iconclass.org/49M3212,📰🤣,"comic strip, 'bande dessinée'"
 http://iconclass.org/49MM321,,book in which illustrations are essential - MM - book open
 http://iconclass.org/49MM322,,pamphlet ~ printed matter - MM - book open
 http://iconclass.org/51FF511,,Maturity
@@ -16635,8 +16635,8 @@ http://iconclass.org/52AA522,,"Delusion, Fallacy; 'Prima Impressione' (Ripa)"
 http://iconclass.org/52AA551,,Shallowness of Mind
 http://iconclass.org/52AA552,,Intellectual Blindness; 'Cecità della Mente' (Ripa)
 http://iconclass.org/52AA553,,"Prejudice, Bias"
-http://iconclass.org/52B5111,,"Good, Right"
-http://iconclass.org/52B5112,,"Bad, Evil, Wrong"
+http://iconclass.org/52B5111,👍✔️,"Good, Right"
+http://iconclass.org/52B5112,👎❌,"Bad, Evil, Wrong"
 http://iconclass.org/54B1211,,Waiting for an Opportunity
 http://iconclass.org/54B1212,,Missing an Opportunity
 http://iconclass.org/54B1213,,Seizing an Opportunity
@@ -16678,7 +16678,7 @@ http://iconclass.org/57BB211,,"Despising the World; 'Dispregio del mondo', 'Disp
 http://iconclass.org/57BB241,,Irony
 http://iconclass.org/57BB242,,Sarcasm
 http://iconclass.org/57BB251,,"Calumny of Apelles: bad judge with ass's ears on throne, with Deceit, Envy, Ignorance, Suspicion and Treachery, confronted with innocent accused; Remorse and Truth present"
-http://iconclass.org/59CC211,,Arbitrariness
+http://iconclass.org/59CC211,⚖️🤷,Arbitrariness
 http://iconclass.org/59CC221,,"Corruptibility, Venality, Corruption"
 http://iconclass.org/61BB111,,anonymous historical person portrayed alone - BB - woman
 http://iconclass.org/61BB112,,anonymous historical persons portrayed in a double portrait - BB - woman
@@ -16904,7 +16904,7 @@ http://iconclass.org/71D1153,,Joseph relating his dreams (the two dreams combine
 http://iconclass.org/71D1161,,Jacob meditating upon Joseph's dreams
 http://iconclass.org/71D1221,,at Shechem Joseph meets a man who informs him that his brothers left for Dothan
 http://iconclass.org/71D1231,,Reuben intervenes in the plotting of Joseph's death
-http://iconclass.org/71D1241,,Joseph is thrown into a pit (usually depicted as a well or cistern)
+http://iconclass.org/71D1241,🧥🌈🕳️,Joseph is thrown into a pit (usually depicted as a well or cistern)
 http://iconclass.org/71D1251,,Joseph is pulled out of the pit
 http://iconclass.org/71D1252,,Joseph is sold for twenty pieces of silver
 http://iconclass.org/71D1253,,Joseph's departure (after being sold by his brothers)
@@ -18715,14 +18715,14 @@ http://iconclass.org/92D1523,,Cupid sharpening his arrows
 http://iconclass.org/92D1524,,Cupid breaking his bow and/or arrows
 http://iconclass.org/92D1525,,Cupid using his weapons as a boat; 'Navis Amoris'
 http://iconclass.org/92D1611,,"fettered Cupid, 'Amor Cruciatus'"
-http://iconclass.org/92D1621,,"crying Cupid, surrounded by bees, runs or clings to his mother Venus to be soothed"
+http://iconclass.org/92D1621,👼😢🐝,"crying Cupid, surrounded by bees, runs or clings to his mother Venus to be soothed"
 http://iconclass.org/92D1911,,Anteros
 http://iconclass.org/92D1912,,Iocus
 http://iconclass.org/92D1913,,(story of) Hymen(aeus)
 http://iconclass.org/92D1914,,Himeros
 http://iconclass.org/92D1915,,Pothos
-http://iconclass.org/92D1916,,"cupids: 'amores', 'amoretti', 'putti'"
-http://iconclass.org/92D1921,👶🏹,"story of Cupid and Psyche (Apuleius, 'Metamorphoses' (Golden Ass) IV 28 - VI 25)"
+http://iconclass.org/92D1916,👶🏹,"cupids: 'amores', 'amoretti', 'putti'"
+http://iconclass.org/92D1921,📖👶🏹,"story of Cupid and Psyche (Apuleius, 'Metamorphoses' (Golden Ass) IV 28 - VI 25)"
 http://iconclass.org/92D2221,,"(story of) Dike (Astraea), goddess of Righteousness and Justice - early life, prime youth"
 http://iconclass.org/92D2222,,"(story of) Dike (Astraea), goddess of Righteousness and Justice - love-affairs"
 http://iconclass.org/92D2223,,"(story of) Dike (Astraea), goddess of Righteousness and Justice - most important deeds"
@@ -19311,7 +19311,7 @@ http://iconclass.org/11P31110,,(allegory on) papacy and apostolic succession
 http://iconclass.org/11P31111,,"insignia of the pope, e.g. tiara"
 http://iconclass.org/11P31112,,throne of St. Peter
 http://iconclass.org/11P31113,,pope giving an audience
-http://iconclass.org/11P31114,,kissing the pope's feet
+http://iconclass.org/11P31114,✝️👑🦶💋,kissing the pope's feet
 http://iconclass.org/11P31115,,installation of a pope
 http://iconclass.org/11P31121,,"insignia of cardinal, e.g. hat, mantle"
 http://iconclass.org/11P31131,,"insignia of bishop, e.g. mitre, crozier"
@@ -19323,19 +19323,19 @@ http://iconclass.org/11P31513,,refectory ~ monastery
 http://iconclass.org/11P31514,,cloisters ~ monastery
 http://iconclass.org/11P31515,,abbey garden
 http://iconclass.org/11P31516,,abbey wall
-http://iconclass.org/11P31517,,fountain ~ monastery
-http://iconclass.org/11P31521,,"monk(s), friar(s)"
+http://iconclass.org/11P31517,⛪⛲,fountain ~ monastery
+http://iconclass.org/11P31521,👨🙏,"monk(s), friar(s)"
 http://iconclass.org/11P31522,👩🙏,nun(s)
 http://iconclass.org/11P31531,,hierarchical organization in convent
 http://iconclass.org/11P31532,,receiving the rules of an order
-http://iconclass.org/11P31533,,daily activities in convent
+http://iconclass.org/11P31533,⛪📅,daily activities in convent
 http://iconclass.org/11P31534,,monastic virtues
 http://iconclass.org/11P31535,,entering a convent
 http://iconclass.org/11P31536,,leaving a convent
 http://iconclass.org/11P31591,,sexual abuses of monks
 http://iconclass.org/11P31631,,Beguines
 http://iconclass.org/11P32521,,"monks ~ Eastern, Greek and Russian orthodox churches"
-http://iconclass.org/11P44331,,"execution of heretic, e.g. by burning at the stake, 'auto-da-fé'"
+http://iconclass.org/11P44331,✝️🔥🧙💀,"execution of heretic, e.g. by burning at the stake, 'auto-da-fé'"
 http://iconclass.org/11PP3111,,pope - PP - antipope
 http://iconclass.org/11PP3159,,abuses of monks - PP - nuns
 http://iconclass.org/11Q71111,,miraculous indication of the building-site of Santa Maria Maggiore in the snow (by the Virgin Mary)
@@ -19352,7 +19352,7 @@ http://iconclass.org/11Q71427,,"altarlamp, altar fire"
 http://iconclass.org/11Q71428,,censer
 http://iconclass.org/11Q71429,,aspergillum
 http://iconclass.org/11Q71431,,Sacrament-House
-http://iconclass.org/11Q71441,,chalice
+http://iconclass.org/11Q71441,🏆✨,chalice
 http://iconclass.org/11Q71442,,paten
 http://iconclass.org/11Q71443,,ciborium
 http://iconclass.org/11Q71444,,"ostensorium, monstrance"
@@ -19432,24 +19432,24 @@ http://iconclass.org/11Q75711,,choir (in church)
 http://iconclass.org/11Q75712,,soloist; precentor (in church)
 http://iconclass.org/11Q75713,,congregation singing (in church)
 http://iconclass.org/11Q75911,,"the devil or demon leaving the body, e.g. through the mouth"
-http://iconclass.org/11Q76211,,Shrove Tuesday
+http://iconclass.org/11Q76211,📅🥞,Shrove Tuesday
 http://iconclass.org/11QQ6251,,(oyster) shell ~ attribute of pilgrim(s) - QQ - large group
 http://iconclass.org/11QQ6252,,vane ~ attribute of pilgrim(s) - QQ - large group
 http://iconclass.org/11QQ7121,,"parts of church exterior and annexes - QQ - small church, chapel"
 http://iconclass.org/11QQ7129,,"ruin of church, monastery, etc. - QQ - small church, chapel"
 http://iconclass.org/11QQ7312,,"Protestant service - QQ - field conventicle, hedge sermon"
 http://iconclass.org/11QQ7321,,"baptism, christening ceremony ~ the first of the seven sacraments - QQ - baptism in the open air"
-http://iconclass.org/12A25111,,anointing of the king ~ Jewish culture
+http://iconclass.org/12A25111,✡️👑🥛,anointing of the king ~ Jewish culture
 http://iconclass.org/12A25112,,crowning of the king ~ Jewish culture
 http://iconclass.org/12A34111,,temple watch ~ Jewish religion
 http://iconclass.org/12A34112,,blowing the ram's horn ~ daily services in the Temple
 http://iconclass.org/12A34121,,priests assembling at sunrise ~ Jewish religion
-http://iconclass.org/12A34122,,washing of hands and feet ~ Jewish religious practices
-http://iconclass.org/12A34123,,sacrificing a burnt offering ~ Jewish religion
+http://iconclass.org/12A34122,✡️🧼✋🦶,washing of hands and feet ~ Jewish religious practices
+http://iconclass.org/12A34123,✡️🔥🎁,sacrificing a burnt offering ~ Jewish religion
 http://iconclass.org/12A34124,,reading of the law ~ Jewish religion
-http://iconclass.org/12A34125,,offering of food and drink ~ Jewish religion
+http://iconclass.org/12A34125,✡️🍲🎁,offering of food and drink ~ Jewish religion
 http://iconclass.org/12A34126,,(speaking of) the blessing ~ Jewish religion
-http://iconclass.org/12A34131,,offering a sacrifice at sunset ~ Jewish religion
+http://iconclass.org/12A34131,✡️📅🙏🌇🐾🗡️,offering a sacrifice at sunset ~ Jewish religion
 http://iconclass.org/12A34211,,evening service in the Synagogue
 http://iconclass.org/12A34212,,morning service in the Synagogue
 http://iconclass.org/12A34213,,afternoon service in the Synagogue
@@ -19469,8 +19469,8 @@ http://iconclass.org/12A42321,,the twelve cakes of the showbread ~ Jewish religi
 http://iconclass.org/12A43311,,ten golden lampstands ~ Jewish Temple
 http://iconclass.org/12A43312,,(ten) table(s) of the showbread in the Temple ~ Jewish religion
 http://iconclass.org/12A43491,,desecration of the temple ~ Jewish religion
-http://iconclass.org/12A43492,,ruins of the temple ~ Jewish religion
-http://iconclass.org/12A43611,,wailing wall ~ Jewish religion
+http://iconclass.org/12A43492,🕍🏚️,ruins of the temple ~ Jewish religion
+http://iconclass.org/12A43611,✡️🧱,wailing wall ~ Jewish religion
 http://iconclass.org/12A44221,,Torah case
 http://iconclass.org/12A44222,,"'mappah', Torah mantle"
 http://iconclass.org/12A44223,,"'Torah Wimpel', band or cloth used at circumcision"
@@ -20218,7 +20218,7 @@ http://iconclass.org/43AA4315,,"'Trionfo del Tempo', 'Triumphus Temporis'; 'Carr
 http://iconclass.org/43AA4316,,"'Trionfo della Divinità', 'Triumphus Aeternitatis'; 'Carro della Divinità' - AA - on the water, 'triomphe marin'"
 http://iconclass.org/43AA4321,,"apotheosis (or ascension) of individuals - AA - on the water, 'triomphe marin'"
 http://iconclass.org/43C11121,,group of various hunted mammals
-http://iconclass.org/43C11122,,monkey hunting
+http://iconclass.org/43C11122,🏹🐵,monkey hunting
 http://iconclass.org/43C11123,,"hunt ~ predatory animals (fox, lion)"
 http://iconclass.org/43C11124,,hunt ~ hoofed animals
 http://iconclass.org/43C11125,,hunt ~ trunked animals
@@ -20230,7 +20230,7 @@ http://iconclass.org/43C11421,,hunters resting during the hunt
 http://iconclass.org/43C11471,🏹🐕🍖,hunting dogs beside the spoils
 http://iconclass.org/43C11481,,game bag
 http://iconclass.org/43C11482,🏹📯,hunting horn
-http://iconclass.org/43C11491,,"hunting-seat, hunting lodge, 'rendez-vous de chasse', 'Jagdschloss'"
+http://iconclass.org/43C11491,🏹📯🏠,"hunting-seat, hunting lodge, 'rendez-vous de chasse', 'Jagdschloss'"
 http://iconclass.org/43C11521,🐾📷,"photographing, filming animals"
 http://iconclass.org/43C11621,,"'high seat', hunting stand on elevated platform"
 http://iconclass.org/43C11622,,"hunting stand at ground level, ground blind"
@@ -20248,7 +20248,7 @@ http://iconclass.org/43C39612,,"fight between animals, e.g. a lion and a bear"
 http://iconclass.org/43C39631,,"joust, tilt"
 http://iconclass.org/43C39641,,"'Buhurt', 'Bouhourt' (medieval contest)"
 http://iconclass.org/43C39642,,'Quintaine' (medieval contest)
-http://iconclass.org/43C41321,,ice hockey
+http://iconclass.org/43C41321,🏒,ice hockey
 http://iconclass.org/43C41431,,'kolf' on the ice
 http://iconclass.org/43C71111,,running (~ game)
 http://iconclass.org/43C71112,,catch (~ running game)
@@ -20318,11 +20318,11 @@ http://iconclass.org/44B15123,,royal bastards
 http://iconclass.org/44B15131,,father of the ruler
 http://iconclass.org/44B15132,,mother of the ruler
 http://iconclass.org/44B15241,,attributes of court jester
-http://iconclass.org/44B16111,,new ruler raised on the shield
+http://iconclass.org/44B16111,👑🛡️,new ruler raised on the shield
 http://iconclass.org/44B16511,,coronation procession
-http://iconclass.org/44B16921,,flight of ruler from adversary
+http://iconclass.org/44B16921,👑🏳️,flight of ruler from adversary
 http://iconclass.org/44B16922,,arrest of fleeing ruler
-http://iconclass.org/44B16923,,regicide
+http://iconclass.org/44B16923,🗡️👑,regicide
 http://iconclass.org/44BB1111,,dynasty - BB - female ruler
 http://iconclass.org/44BB1121,,myth of the returning emperor - BB - female ruler
 http://iconclass.org/44BB1151,,vice-president - BB - female ruler
@@ -20402,21 +20402,21 @@ http://iconclass.org/46AA1721,,labourer refusing payment - AA - women
 http://iconclass.org/46AA1722,,employer refusing to pay wages - AA - women
 http://iconclass.org/46AA1791,,unemployed labourers - AA - women
 http://iconclass.org/46BB2211,,"'cris de Paris', cries of London, etc. - BB - women engaged in trade and commerce"
-http://iconclass.org/46C11211,,suspension bridge
-http://iconclass.org/46C11212,,cantilever bridge
+http://iconclass.org/46C11211,🌉,suspension bridge
+http://iconclass.org/46C11212,🌉⚖️,cantilever bridge
 http://iconclass.org/46C11213,,bascule bridge
-http://iconclass.org/46C11221,,"bridge with structure, i.e. cover or buildings"
+http://iconclass.org/46C11221,🌉🏠,"bridge with structure, i.e. cover or buildings"
 http://iconclass.org/46C12521,,carrier-tricycle
 http://iconclass.org/46C13111,,high-school riding
-http://iconclass.org/46C13112,,carrousel
-http://iconclass.org/46C13141,,horse
+http://iconclass.org/46C13112,🎠,carrousel
+http://iconclass.org/46C13141,🐎,horse
 http://iconclass.org/46C13142,,"ass, donkey"
 http://iconclass.org/46C13143,,mule
 http://iconclass.org/46C13144,,hinny
 http://iconclass.org/46C13161,,saddle and bridle (saddlery)
 http://iconclass.org/46C13171,,groom
 http://iconclass.org/46C13172,,curry-comb
-http://iconclass.org/46C13181,,walking (horse in motion)
+http://iconclass.org/46C13181,🐎,walking (horse in motion)
 http://iconclass.org/46C13182,,trotting (horse in motion)
 http://iconclass.org/46C13183,,galloping horse
 http://iconclass.org/46C13184,,jumping (horse in motion)
@@ -20444,18 +20444,18 @@ http://iconclass.org/46C14944,,"accident with four-wheeled vehicle, drawn by mor
 http://iconclass.org/46C14961,,"prick, goad ~ accident"
 http://iconclass.org/46C14962,,spur ~ accident
 http://iconclass.org/46C14963,,whip ~ accident
-http://iconclass.org/46C15111,,freight train
-http://iconclass.org/46C15112,,passenger train
-http://iconclass.org/46C15121,,tram
+http://iconclass.org/46C15111,🚄📦,freight train
+http://iconclass.org/46C15112,🚄,passenger train
+http://iconclass.org/46C15121,🚉,tram
 http://iconclass.org/46C15591,,"depot ~ railway, tramway"
 http://iconclass.org/46C15941,,"signal-box, signal-station ~ accident"
 http://iconclass.org/46C15942,,accident on unguarded level-crossing (railways)
 http://iconclass.org/46C15943,,accident on guarded level-crossing (railways)
-http://iconclass.org/46C15961,,accident in underground station
+http://iconclass.org/46C15961,🚇💥,accident in underground station
 http://iconclass.org/46C15981,,accident with funicular railway
-http://iconclass.org/46C16811,,petrol pump
+http://iconclass.org/46C16811,⛽,petrol pump
 http://iconclass.org/46C16812,,"repair shop, garage for repairs, supplies etc."
-http://iconclass.org/46C16813,,"car wash, car wash machine"
+http://iconclass.org/46C16813,🚙,"car wash, car wash machine"
 http://iconclass.org/46C16821,,"parking place, car park"
 http://iconclass.org/46C16822,,"parking garage, parking building, multistorey car park"
 http://iconclass.org/46C16823,,parking meter
@@ -20474,13 +20474,13 @@ http://iconclass.org/46C54221,,guide (~ conducted tour)
 http://iconclass.org/46CC2121,,"dry-dock, floating-dock - CC - more than one ship"
 http://iconclass.org/46CC2131,,ship-model in bottle - CC - more than one ship
 http://iconclass.org/46E65311,,amplifier
-http://iconclass.org/46E65312,,loudspeaker
+http://iconclass.org/46E65312,🔊,loudspeaker
 http://iconclass.org/46E65321,,"monitor, screen"
 http://iconclass.org/46E67111,,Internet (computer network)
 http://iconclass.org/47B11111,,horseshoe
 http://iconclass.org/47B18111,,hornblowing baker
 http://iconclass.org/47I21111,,ox
-http://iconclass.org/47I21211,,hog (castrated male pig)
+http://iconclass.org/47I21211,🐖✂️🍆,hog (castrated male pig)
 http://iconclass.org/47I22111,,"return to the fold, byre, stable ~ herd, herdsman"
 http://iconclass.org/47I22311,,milkmaid
 http://iconclass.org/47I42421,,wine-press
@@ -20572,8 +20572,8 @@ http://iconclass.org/48C73521,🎷,saxophone
 http://iconclass.org/48C75111,,tuning the lute
 http://iconclass.org/48C75411,,"minstrel, 'jongleur'"
 http://iconclass.org/48C75412,,"bard, lyric poet"
-http://iconclass.org/48C75511,,male singer
-http://iconclass.org/48C75512,,female singer
+http://iconclass.org/48C75511,🎤,male singer
+http://iconclass.org/48C75512,🎤,female singer
 http://iconclass.org/48C75611,,hurdy-gurdy player
 http://iconclass.org/48C75612,,barrel-organ player
 http://iconclass.org/48C75613,,"one person playing several instruments, one-man band"
@@ -20654,11 +20654,11 @@ http://iconclass.org/48CC7551,,singer without accompaniment - CC - out of doors
 http://iconclass.org/48CC7552,,choir - CC - out of doors
 http://iconclass.org/48CC7561,,instrumental popular music - CC - out of doors
 http://iconclass.org/48CC7562,,vocal popular music - CC - out of doors
-http://iconclass.org/49B44241,🎓,matriculation
+http://iconclass.org/49B44241,🎓🥇,matriculation
 http://iconclass.org/49B44281,,club (students)
 http://iconclass.org/49B44282,♂️🤝,fraternity (students)
 http://iconclass.org/49B44283,,initiation (students)
-http://iconclass.org/49B44284,,party (students)
+http://iconclass.org/49B44284,🎓🎉,party (students)
 http://iconclass.org/49B44285,,students' pageant
 http://iconclass.org/49BB4411,,studying at night - BB - female student
 http://iconclass.org/49BB4421,,student dress - BB - female student
@@ -20703,7 +20703,7 @@ http://iconclass.org/57AA6221,,Lie; 'Bugia' (Ripa)
 http://iconclass.org/57AA6222,,"Hoax, False News, Canard"
 http://iconclass.org/57AA6223,,"Ambuscade, Trap; 'Insidia' (Ripa)"
 http://iconclass.org/57AA6224,,Intrigue
-http://iconclass.org/57AA6225,,Falsification
+http://iconclass.org/57AA6225,❌⚙️,Falsification
 http://iconclass.org/61A(...),,historical events and situations (with DATE)
 http://iconclass.org/61D(...),,"geographical names of countries, regions, mountains, rivers, etc. (names of cities and villages excepted) (with NAME)"
 http://iconclass.org/61E(...),,names of cities and villages (with NAME)
@@ -20724,7 +20724,7 @@ http://iconclass.org/71B33222,🕊️🚢🌊,the dove which did not return ~ st
 http://iconclass.org/71B34311,,God's covenant with Noah: never again shall there be a flood; as a sign of this covenant God puts a rainbow in the sky
 http://iconclass.org/71B35211,,Shem and Japheth cover their father Noah; Ham usually stands nearby deriding him
 http://iconclass.org/71B35221,,Noah curses Ham (and Canaan)
-http://iconclass.org/71B42211,🏛️🏚️,the ruins of the Tower of Babel
+http://iconclass.org/71B42211,🗼🗣️ 🏚️,the ruins of the Tower of Babel
 http://iconclass.org/71C11131,,"Terah turns Abraham over to King Nimrod, who condemns him to be cast into the fire (or fiery furnace) of the Chaldeans; he is miraculously rescued by God"
 http://iconclass.org/71C11132,,"Haran, Abraham's brother, having witnessed the miracle, decides to undergo the test of fire as well, but is immediately consumed"
 http://iconclass.org/71C11331,,"Abraham comes to the sacred tree of Moreh at Shechem, and builds his first altar"
@@ -21748,7 +21748,7 @@ http://iconclass.org/11L541412,,Last Judgement (as one of the Four Last Things)
 http://iconclass.org/11L541413,,Heaven (as one of the Four Last Things)
 http://iconclass.org/11L541414,,Hell (as one of the Four Last Things)
 http://iconclass.org/11P311151,,papal coronation
-http://iconclass.org/11P311152,,ceremonial celebrations ~ pope
+http://iconclass.org/11P311152,✝️👑🎉,ceremonial celebrations ~ pope
 http://iconclass.org/11P315311,,abbot
 http://iconclass.org/11P315312,,novice
 http://iconclass.org/11P315331,,daily religious activities in convent
@@ -22169,7 +22169,7 @@ http://iconclass.org/48CC51151,,painter at work with assistants or pupils - CC -
 http://iconclass.org/48CC61111,,studio requisites ~ photographer - CC - out of doors
 http://iconclass.org/48CC61121,,"taking photographs of model, sitter - CC - out of doors"
 http://iconclass.org/48CC61141,,developing ~ film - CC - out of doors
-http://iconclass.org/48CC61142,,printing ~ film - CC - out of doors
+http://iconclass.org/48CC61142,🎞️🖨️,printing ~ film - CC - out of doors
 http://iconclass.org/48CC62121,,making a feature movie - CC - out of doors
 http://iconclass.org/48CC62122,,making an animated cartoon - CC - out of doors
 http://iconclass.org/48CC71101,,the composer and his muse - CC - out of doors
@@ -22198,7 +22198,7 @@ http://iconclass.org/49BB44282,,fraternity (students) - BB - female student
 http://iconclass.org/49BB44283,,initiation (students) - BB - female student
 http://iconclass.org/49BB44284,,party (students) - BB - female student
 http://iconclass.org/49BB44285,,students' pageant - BB - female student
-http://iconclass.org/49D11(10),,numerals: 10
+http://iconclass.org/49D11(10),🔟,numerals: 10
 http://iconclass.org/49D11(11),,numerals: 11
 http://iconclass.org/49D11(12),,numerals: 12
 http://iconclass.org/49D11(13),,numerals: 13
@@ -22206,7 +22206,7 @@ http://iconclass.org/49D11(16),,numerals: 16
 http://iconclass.org/49D352(6),,regular polygon: hexagon
 http://iconclass.org/49D352(8),,regular polygon: octagon
 http://iconclass.org/49E394211,,Bird of Hermes
-http://iconclass.org/61B2(...),,historical person (with NAME)
+http://iconclass.org/61B2(...),📜👥🏷,historical person (with NAME)
 http://iconclass.org/61C1(...),,proper names of plants (with NAME)
 http://iconclass.org/61C2(...),,proper names of animals (with NAME)
 http://iconclass.org/71B352111,,Shem and Japheth walking backwards towards Noah
@@ -22928,10 +22928,10 @@ http://iconclass.org/49D11(666),,numerals: 666
 http://iconclass.org/49L12(...),,Roman script; scripts based on the Roman alphabet (with LETTERS)
 http://iconclass.org/49L13(...),,Greek script (with LETTERS)
 http://iconclass.org/49L67(...),,other writing accessories (with NAME)
-http://iconclass.org/49M13(...),,printing type (with NAME)
+http://iconclass.org/49M13(...),🔤🖨️,printing type (with NAME)
 http://iconclass.org/49M14(...),,"tools, implements of printer (with NAME)"
 http://iconclass.org/61B2(...)1,,historical person (with NAME) - historical person(s) portrayed
-http://iconclass.org/61B2(...)2,,historical person (with NAME) - scene ~ historical person(s) (with NAME of person)
+http://iconclass.org/61B2(...)2,🏞📜👥🏷,historical person (with NAME) - scene ~ historical person(s) (with NAME of person)
 http://iconclass.org/61B2(...)3,,historical person (with NAME) - other representations to which the NAME of a historical person may be attached (with NAME of person)
 http://iconclass.org/61BB2(...),,historical person (with NAME) - BB - woman
 http://iconclass.org/71E1173131,,with lamb's blood the Israelites make marks (usually tau-crosses) on the doorposts of their houses
@@ -23961,7 +23961,7 @@ http://iconclass.org/61B2(...)11,,historical person (with NAME) - historical per
 http://iconclass.org/61B2(...)12,,historical person (with NAME) - historical person (with NAME) in a double-portrait
 http://iconclass.org/61B2(...)13,,"historical person (with NAME) - historical person (with NAME) portrayed in a group, in a group-portrait"
 http://iconclass.org/61B2(...)21,,historical person (with NAME) - scene directly related with life or life-story (with NAME of person)
-http://iconclass.org/61B2(...)22,,historical person (with NAME) - fictitious scene ~ historical person (with NAME of person)
+http://iconclass.org/61B2(...)22,🏞🦄️📜👥🏷️,historical person (with NAME) - fictitious scene ~ historical person (with NAME of person)
 http://iconclass.org/61BB2(...)1,,historical person (with NAME) - BB - woman - historical person(s) portrayed
 http://iconclass.org/61BB2(...)2,,historical person (with NAME) - BB - woman - scene ~ historical person(s) (with NAME of person)
 http://iconclass.org/61BB2(...)3,,historical person (with NAME) - BB - woman - other representations to which the NAME of a historical person may be attached (with NAME of person)
@@ -36763,7 +36763,7 @@ http://iconclass.org/49E3952(CONJUNCTION),,additional stages: conjunction (chemi
 http://iconclass.org/49E3952(SUBLIMATION),,additional stages: sublimation
 http://iconclass.org/71Y1(Prov.+31:18-19),,'her lamp does not go out at night and her hands hold the spindle' ~ woman spinning at night
 http://iconclass.org/73D82(HEAD+OF+JUDAS),,head of Judas ~ instruments of the Passion
-http://iconclass.org/81(ARTHURIAN+LEGEND),,'Arthurian legend'
+http://iconclass.org/81(ARTHURIAN+LEGEND),📖♘,'Arthurian legend'
 http://iconclass.org/82A(AMADIS+DE+GAULA),,Amadís de Gaula
 "http://iconclass.org/82A(MERCIA,+KING+OF)",,King of Mercia
 "http://iconclass.org/83(BREDERO,+Lucelle)",,"(scenes from) specific works of literature: Bredero, Lucelle"
