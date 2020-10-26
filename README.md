@@ -66,15 +66,8 @@ The Emojiconclass controlled vocabulary is implemented as Linked Open Data, and 
     crm:P1i_identifies <http://iconclass.org/0> ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300404629> ;
     crm:P190_has_symbolic_content "🎨️🤔️" ;
-    crm:P106_is_composed_of [ a crm:E90_Symbolic_Object ;
-        crm:P2_is_identified_by uni:1f3a8 ;
-        crm:P2_has_type <http://vocab.getty.edu/aat/300412189> ;
-        crm:P190_has_symbolic_content "🎨️" ] ,
-        [ a crm:E90_Symbolic_Object ;
-            crm:P2_is_identified_by uni:1f914 ;
-            crm:P2_has_type <http://vocab.getty.edu/aat/300412189> ;
-            crm:P190_has_symbolic_content "🤔️" ] ;
-        ] .
+    crm:P106_is_composed_of uni:1f3a8,
+        uni:1f914 .
 ~~~
 
 
