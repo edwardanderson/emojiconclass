@@ -58,15 +58,23 @@ Emojis should be able to be used both literally and metaphorically. More elabora
 
 The Emojiconclass controlled vocabulary is implemented as Linked Open Data, and will be available as JSON-LD.
 
-~~~json
-{
-  "@context": "content/ns/emojiconclass.json",
-  "id": "http://www.emojiconclass.org/🎨🤔",
-  "exact_match": {
-    "id": "http://iconclass.org/0",
-    "_label": "Abstract, Non-representational Art"
-  }
-}
+~~~turtle
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix uni: <https://unicode.org/emoji/charts/full-emoji-list.html#> .
+
+<http://emojiconclass.org/🎨️🤔️> a crm:E42_Identifier ;
+    crm:P1i_identifies <http://iconclass.org/0> ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300404629> ;
+    crm:P190_has_symbolic_content "🎨️🤔️" ;
+    crm:P106_is_composed_of [ a crm:E90_Symbolic_Object ;
+        crm:P2_is_identified_by uni:1f3a8 ;
+        crm:P2_has_type <http://vocab.getty.edu/aat/300412189> ;
+        crm:P190_has_symbolic_content "🎨️" ] ,
+        [ a crm:E90_Symbolic_Object ;
+            crm:P2_is_identified_by uni:1f914 ;
+            crm:P2_has_type <http://vocab.getty.edu/aat/300412189> ;
+            crm:P190_has_symbolic_content "🤔️" ] ;
+        ] .
 ~~~
 
 
